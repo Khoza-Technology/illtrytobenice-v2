@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "shepherds-pie",
+    "slug": "shepherds-pie",
+    "title": "Shepherd's Pie",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 Pound(s) beef chuck roast"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) extra virgin olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) ginger-minced"
+      },
+      {
+        "type": "item",
+        "text": "4 Clove(s) minced garlic"
+      },
+      {
+        "type": "item",
+        "text": "4 Cup(s) chicken broth"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) pitted prunes"
+      },
+      {
+        "type": "item",
+        "text": "1 cinnamon stick"
+      },
+      {
+        "type": "item",
+        "text": "10 Clove(s) cloves"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) peppercorns-whole"
+      },
+      {
+        "type": "item",
+        "text": "10 Ounce(s) pearl onions"
+      },
+      {
+        "type": "heading",
+        "text": "Vegetable Mash"
+      },
+      {
+        "type": "item",
+        "text": "3 Pound(s) potatoes, cubed"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) carrots-skin peeled and chopped into big 3 inch chunks"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) parsnips-peeled, cut into 1-inch pieces"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) whole milk"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "1¼ Cup(s) grated cheddar cheese"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Tablespoon(s) all-purpose flour"
+      },
+      {
+        "type": "step",
+        "text": "Tablespoon(s) extra virgin olive oil"
+      },
+      {
+        "type": "step",
+        "text": "Tablespoon(s) ginger-minced"
+      },
+      {
+        "type": "step",
+        "text": "Clove(s) minced garlic"
+      },
+      {
+        "type": "step",
+        "text": "Cup(s) chicken broth"
+      },
+      {
+        "type": "step",
+        "text": "Cup(s) pitted prunes"
+      },
+      {
+        "type": "step",
+        "text": "cinnamon stick"
+      },
+      {
+        "type": "step",
+        "text": "Clove(s) cloves"
+      },
+      {
+        "type": "step",
+        "text": "/2 Teaspoon(s) peppercorns-whole"
+      },
+      {
+        "type": "step",
+        "text": "Ounce(s) pearl onions Directions:"
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 300 with rack in lowest position."
+      },
+      {
+        "type": "step",
+        "text": "Cut beef into 1-inch pieces. Season generously with salt and pepper; toss with flour to coat. Heat 2 tablespoons oil in Dutch oven over medium-high heat. Brown beef in batches adding just enough oil to coat pot between batches. Transfer beef to a plate."
+      },
+      {
+        "type": "step",
+        "text": "Reduce heat to medium. Add 1 tablespoon oil, ginger, and garlic to pot; cook until beginning to soften, about 3 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Return beef to pot; add broth and prunes."
+      },
+      {
+        "type": "step",
+        "text": "Wrap cinnamon, cloves and peppercorns in cheesecloth, tie with kitchen twine, and add to pot."
+      },
+      {
+        "type": "step",
+        "text": "Bring to simmer."
+      },
+      {
+        "type": "step",
+        "text": "Cover and cook in oven 2 hours."
+      },
+      {
+        "type": "step",
+        "text": "Meanwhile, cook onions in boiling salt water until tender. About 15 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Once beef has cooked 2 hours, add onions to beef and bake 30 minutes more."
+      },
+      {
+        "type": "step",
+        "text": "Break up prunes; remove spice bundle. Let cool completely; refrigerate up to 5 days."
+      },
+      {
+        "type": "step",
+        "text": "Place potatoes in a saucepan, cover with 2 inches of water and add 2½ teaspoon salt."
+      },
+      {
+        "type": "step",
+        "text": "Combine carrots and parsnips in another pan; cover with 2 inches of water, and add 1½ teaspoons salt."
+      },
+      {
+        "type": "step",
+        "text": "Bring vegetables to a boil, reduce heat and simmer until fork-tender."
+      },
+      {
+        "type": "step",
+        "text": "Drain vegetables."
+      },
+      {
+        "type": "step",
+        "text": "Heat milk and butter until butter is melted."
+      },
+      {
+        "type": "step",
+        "text": "Mash vegetables together; stir in milk mixture."
+      },
+      {
+        "type": "step",
+        "text": "Season with salt and pepper. Let cool completely."
+      },
+      {
+        "type": "step",
+        "text": "Refrigerate up to 5 days."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 375. Spoon beef stew into baking dish(es). Cover with vegetable mash; sprinkle cheese on top."
+      },
+      {
+        "type": "step",
+        "text": "Bake 50 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Let cool 15 minutes before serving."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/shepherds-pie-1.jpg",
+        "alt": "Shepherd's Pie"
+      }
+    ],
+    "published": "2017-02-20T17:31:33Z",
+    "modified": "2017-02-20T17:31:33Z",
+    "source": {
+      "wpId": 151,
+      "url": "https://www.khoza.com/recipes/shepherds-pie/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-152\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/69212_640x428-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/69212_640x428-300x200.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/69212_640x428.jpg 642w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-151-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Shepherd's Pie</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/69212_640x428-300x200.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/151-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 Pound(s) beef chuck roast</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) extra virgin olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) ginger-minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Clove(s) minced garlic</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Cup(s) chicken broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) pitted prunes</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cinnamon stick</li> <li class=\"ingredient\" itemprop=\"ingredients\">10 Clove(s) cloves</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) peppercorns-whole</li> <li class=\"ingredient\" itemprop=\"ingredients\">10 Ounce(s) pearl onions</li> <li class=\"ingredient\" itemprop=\"ingredients\">Vegetable Mash ( Required ) :</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Pound(s) potatoes, cubed</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) carrots-skin peeled and chopped into big 3 inch chunks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) parsnips-peeled, cut into 1-inch pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) whole milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; Cup(s) grated cheddar cheese</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Tablespoon(s) all-purpose flour</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Tablespoon(s) extra virgin olive oil</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Tablespoon(s) ginger-minced</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Clove(s) minced garlic</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cup(s) chicken broth</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cup(s) pitted prunes</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">cinnamon stick</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Clove(s) cloves</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">/2 Teaspoon(s) peppercorns-whole</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Ounce(s) pearl onions Directions:</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 300 with rack in lowest position.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut beef into 1-inch pieces. Season generously with salt and pepper; toss with flour to coat. Heat 2 tablespoons oil in Dutch oven over medium-high heat. Brown beef in batches adding just enough oil to coat pot between batches. Transfer beef to a plate.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Reduce heat to medium. Add 1 tablespoon oil, ginger, and garlic to pot; cook until beginning to soften, about 3 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Return beef to pot; add broth and prunes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Wrap cinnamon, cloves and peppercorns in cheesecloth, tie with kitchen twine, and add to pot.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bring to simmer.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover and cook in oven 2 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Meanwhile, cook onions in boiling salt water until tender. About 15 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Once beef has cooked 2 hours, add onions to beef and bake 30 minutes more.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Break up prunes; remove spice bundle. Let cool completely; refrigerate up to 5 days.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place potatoes in a saucepan, cover with 2 inches of water and add 2&frac12; teaspoon salt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine carrots and parsnips in another pan; cover with 2 inches of water, and add 1&frac12; teaspoons salt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bring vegetables to a boil, reduce heat and simmer until fork-tender.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Drain vegetables.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat milk and butter until butter is melted.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mash vegetables together; stir in milk mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Season with salt and pepper. Let cool completely.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Refrigerate up to 5 days.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat over to 375. Spoon beef stew into baking dish(es). Cover with vegetable mash; sprinkle cheese on top.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake 50 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let cool 15 minutes before serving.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

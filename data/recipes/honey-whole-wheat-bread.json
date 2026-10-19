@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "honey-whole-wheat-bread",
+    "slug": "honey-whole-wheat-bread",
+    "title": "Honey Whole Wheat Bread",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) yeast"
+      },
+      {
+        "type": "item",
+        "text": "6 Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) softened butter"
+      },
+      {
+        "type": "item",
+        "text": "⅜ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) honey"
+      },
+      {
+        "type": "item",
+        "text": "3 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "9 Cup(s) white flour"
+      },
+      {
+        "type": "item",
+        "text": "6 Cup(s) whole wheat flour"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Dissolve yeast in warm water (125 degrees)"
+      },
+      {
+        "type": "step",
+        "text": "In large bowl, combine butter, brown sugar, honey and salt. Mix well."
+      },
+      {
+        "type": "step",
+        "text": "Add yeast mixture and then gradually add flours"
+      },
+      {
+        "type": "step",
+        "text": "Turn onto floured surface and knead until smooth (10 minutes)"
+      },
+      {
+        "type": "step",
+        "text": "Place in buttered bowl, and let rise until double"
+      },
+      {
+        "type": "step",
+        "text": "Punch down and let rest for a few minutes."
+      },
+      {
+        "type": "step",
+        "text": "Divid"
+      },
+      {
+        "type": "step",
+        "text": "e dough into 6 parts and shape into loaves"
+      },
+      {
+        "type": "step",
+        "text": "Place in greased pans and let rise for an hour."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 375 degrees for 35-40 minutes."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:33:06Z",
+    "modified": "2017-02-24T01:33:06Z",
+    "source": {
+      "wpId": 377,
+      "url": "https://www.khoza.com/recipes/honey-whole-wheat-bread/",
+      "html": "<p><div id=\"easyrecipe-377-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Honey Whole Wheat Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/377-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) yeast</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) softened butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8540; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">9 Cup(s) white flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Cup(s) whole wheat flour</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Dissolve yeast in warm water (125 degrees)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In large bowl, combine butter, brown sugar, honey and salt. Mix well.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add yeast mixture and then gradually add flours</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Turn onto floured surface and kneed until smooth (10 minutes)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place in buttered bowl, and let rise until double</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Punch down and let rest for a few minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divid</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">e dough into 6 parts and shape into loaves</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place in greased pans and let rise for an hour.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 375 degrees for 35-40 minutes.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "apple-pie-filling",
+    "slug": "apple-pie-filling",
+    "title": "Apple Pie Filling",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "9 Golden Delicious apples"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "⅔ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "5 Teaspoon(s) lemon juice"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) corn starch"
+      },
+      {
+        "type": "item",
+        "text": "½ Tablespoon(s) ground cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "¼ Tablespoon(s) pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "¼ Tablespoon(s) ground nutmeg"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Peel and core apples."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl, add salt, sugar, lemon juice, cinnamon, nutmeg, and apples."
+      },
+      {
+        "type": "step",
+        "text": "Melt butter in a large saute pan over high heat. Add apple mixture and cook until soft."
+      },
+      {
+        "type": "step",
+        "text": "Add corn starch and cook 1 minute more. Add vanilla. Stir.."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:20:54Z",
+    "modified": "2017-02-23T23:20:54Z",
+    "source": {
+      "wpId": 301,
+      "url": "https://www.khoza.com/recipes/apple-pie-filling/",
+      "html": "<p><div id=\"easyrecipe-301-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Apple Pie Filling</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/301-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">9 Golden Delicious apples</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8532; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 Teaspoon(s) lemon juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) corn starch</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Tablespoon(s) ground cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Tablespoon(s) pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Tablespoon(s) ground nutmeg</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Peel and core apples.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, add salt, sugar, lemon juice, cinnamon, nutmeg, and apples.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Melt butter in a large saute pan over high heat. Add apple mixture and cook until soft.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add corn starch and cook 1 minute more. Add vanilla. Stir..</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

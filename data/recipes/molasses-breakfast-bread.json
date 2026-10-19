@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "molasses-breakfast-bread",
+    "slug": "molasses-breakfast-bread",
+    "title": "Molasses Breakfast Bread",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¾ Cup(s) molasses"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) boiling water"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) butter, room temperature"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) shortening"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs"
+      },
+      {
+        "type": "item",
+        "text": "2½ Cup(s) Bob's Red Mill gluten-free baking flour"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) ginger"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) baking powder"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) baking soda"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In a small bowl, combine molasses and boiling water; set aside."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl, cream butter, shortening and sugars until light and fluffy. Add eggs. Gradually add molasses mixture."
+      },
+      {
+        "type": "step",
+        "text": "Combine flour, ginger, cinnamon, baking powder, baking soda and salt; gradually add to creamed mixture."
+      },
+      {
+        "type": "step",
+        "text": "Transfer to three 5.75x3x2-in loaf pans coated with spray. Bake at 325 for 30 minutes or until a toothpick inserted near the center comes out clean."
+      },
+      {
+        "type": "step",
+        "text": "Cool for 10 minutes before removing from pans to wire racks."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:04:30Z",
+    "modified": "2017-02-24T01:04:30Z",
+    "source": {
+      "wpId": 335,
+      "url": "https://www.khoza.com/recipes/molasses-breakfast-bread/",
+      "html": "<p><div id=\"easyrecipe-335-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Molasses Breakfast Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/335-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Breakfast</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) boiling water</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) butter, room temperature</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) shortening</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac12; Cup(s) Bob's Red Mill gluten-free baking flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) ginger</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a small bowl, combine molasses and boiling water; set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, cream butter, shortening and sugars until light and fluffy. Add eggs. Gradually add molasses mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine flour, ginger, cinnamon, baking powder, baking soda and salt; gradually add to creamed mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Transfer to three 5.75x3x2-in loaf pans coated with spray. Bake at 325 for 30 minutes or until a toothpick inserted near the center comes out clean.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cool for 10 minutes before removing from pans to wire racks.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

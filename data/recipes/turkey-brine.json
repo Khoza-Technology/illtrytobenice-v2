@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "turkey-brine",
+    "slug": "turkey-brine",
+    "title": "Turkey Brine",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3-pound box of kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon of whole black peppercorns"
+      },
+      {
+        "type": "item",
+        "text": "2 gallons chicken broth (water mixed with bouillon cubes is fine"
+      },
+      {
+        "type": "item",
+        "text": "1-gallon ice water"
+      },
+      {
+        "type": "item",
+        "text": "1 whole bunch fresh thyme, torn roughly"
+      },
+      {
+        "type": "item",
+        "text": "1 whole bunch fresh oregano, torn roughly"
+      },
+      {
+        "type": "item",
+        "text": "1 whole bunch fresh sage leaves, torn roughly"
+      },
+      {
+        "type": "item",
+        "text": "1 whole bunch fresh marjoram, torn roughly"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Clean the raw turkey and remove the neck and giblets."
+      },
+      {
+        "type": "step",
+        "text": "In the bucket, combine the cooled (room temperature) broth with the ice water, salt, pepper and fresh herbs and mix well."
+      },
+      {
+        "type": "step",
+        "text": "Place the turkey in the bucket, breast side down and cover the bucket. Leave it sit somewhere cool, I usually use the garage (unless it's summer time obviously)."
+      },
+      {
+        "type": "step",
+        "text": "After at least 6 and no more than 12 hours, and prior to cooking your turkey, remove the bird and rinse it with cool water, then proceed with your cooking prep"
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2019-11-14T18:33:01Z",
+    "modified": "2019-11-14T18:36:28Z",
+    "source": {
+      "wpId": 497,
+      "url": "https://www.khoza.com/recipes/turkey-brine/",
+      "html": "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p><div id=\"easyrecipe-497-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Turkey Brine</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/497-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3-pound box of kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon of whole black peppercorns</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 gallons chicken broth (water mixed with bouillon cubes is fine</li> <li class=\"ingredient\" itemprop=\"ingredients\">1-gallon ice water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole bunch fresh thyme, torn roughly</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole bunch fresh oregano, torn roughly</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole bunch fresh sage leaves, torn roughly</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole bunch fresh marjoram, torn roughly</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Clean the raw turkey and remove the neck and giblets.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In the bucket, combine the cooled (room temperature) broth with the ice water, salt, pepper and fresh herbs and mix well.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the turkey in the bucket, breast side down and cover the bucket. Leave it sit somewhere cool, I usually use the garage (unless it's summer time obviously).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">After at least 6 and no more than 12 hours, and prior to cooking your turkey, remove the bird and rinse it with cool water, then proceed with your cooking prep</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></p>\n<p> </p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n"
+    }
+  }
+}

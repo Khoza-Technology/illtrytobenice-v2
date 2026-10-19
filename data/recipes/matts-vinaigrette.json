@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "matts-vinaigrette",
+    "slug": "matts-vinaigrette",
+    "title": "Matt's Vinaigrette",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¼ Cup(s) balsamic vinegar"
+      },
+      {
+        "type": "item",
+        "text": "1½ Tablespoon(s) red wine vinegar"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "1½ Tablespoon(s) dijon mustard"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Tablespoon(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) extra virgin olive oil"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine all the ingredients and pour into container (20 oz Rubbermaid water bottle w/ lid works great) and shake.**"
+      },
+      {
+        "type": "step",
+        "text": "** For extra strength, double the balsamic, red wine vinegar, and dijon mustard. This is the Simonsen preference, however we generally serve guests as above."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:01:54Z",
+    "modified": "2017-02-24T01:01:54Z",
+    "source": {
+      "wpId": 331,
+      "url": "https://www.khoza.com/recipes/matts-vinaigrette/",
+      "html": "<p><div id=\"easyrecipe-331-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Matt's Vinaigrette</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/331-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Matt Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) balsamic vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Tablespoon(s) red wine vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Tablespoon(s) dijon mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Tablespoon(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) extra virgin olive oil</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine all the ingredients and pour into container (20 oz Rubbermaid water bottle w/ lid works great) and shake.**</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">** For extra strength, double the balsamic, red wine vinegar, and dijon mustard. This is the Simonsen preference, however we generally serve guests as above.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

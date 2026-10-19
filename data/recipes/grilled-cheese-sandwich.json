@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "grilled-cheese-sandwich",
+    "slug": "grilled-cheese-sandwich",
+    "title": "Grilled Cheese Sandwich",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "lunch"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) dijon mustard"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) mayonnaise"
+      },
+      {
+        "type": "item",
+        "text": "1 tomato"
+      },
+      {
+        "type": "item",
+        "text": "1 red onion, thinly sliced"
+      },
+      {
+        "type": "item",
+        "text": "2 Slice(s) cheddar cheese"
+      },
+      {
+        "type": "item",
+        "text": "2 Slice(s) Provolone cheese"
+      },
+      {
+        "type": "item",
+        "text": "2 Slice(s) wheat bread"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix mustard and mayo together. Spread very thinly onto the inside of both pieces of bread."
+      },
+      {
+        "type": "step",
+        "text": "Place two slices of tomato on one piece of bread and two slices of mild cheddar on the other slice. On top of the tomatoes place several slices of red onion followed by two slices of provolone."
+      },
+      {
+        "type": "step",
+        "text": "Put two halves together. Spread butter on the outside of the bread. Cook sandwich over low heat for at least 5 minutes. Flip and cook another couple minutes."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/grilled-cheese-sandwich-1.jpg",
+        "alt": "Grilled Cheese Sandwich"
+      }
+    ],
+    "published": "2017-02-20T17:22:08Z",
+    "modified": "2017-02-20T17:26:32Z",
+    "source": {
+      "wpId": 129,
+      "url": "https://www.khoza.com/recipes/grilled-cheese-sandwich/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-130\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/The-Perfect-Grilled-Cheese-Sandwich-800-1581-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/The-Perfect-Grilled-Cheese-Sandwich-800-1581-300x200.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/The-Perfect-Grilled-Cheese-Sandwich-800-1581-768x512.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/The-Perfect-Grilled-Cheese-Sandwich-800-1581.jpg 800w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-129-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Grilled Cheese Sandwich</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/The-Perfect-Grilled-Cheese-Sandwich-800-1581-300x200.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/129-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) dijon mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) mayonnaise</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tomato</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red onion, thinly sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Slice(s) cheddar cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Slice(s) Provolone cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Slice(s) wheat bread</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix mustard and mayo together. Spread very thinly onto the inside of both pieces of bread.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place two slices of tomato on one piece of bread and two slices of mild cheddar on the other slice. On top of the tomatoes place several slices of red onion followed by two slices of provolone.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put two halves together. Spread butter on the outside of the bread. Cook sandwich over low heat for at least 5 minutes. Flip and cook another couple minutes.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

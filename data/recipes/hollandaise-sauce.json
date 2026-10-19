@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "hollandaise-sauce",
+    "slug": "hollandaise-sauce",
+    "title": "Hollandaise Sauce",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT5M",
+        "minutes": 5,
+        "label": "5 mins"
+      },
+      "total": {
+        "iso": "PT5M",
+        "minutes": 5,
+        "label": "5 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 egg yolks"
+      },
+      {
+        "type": "item",
+        "text": "¼ lemon, juiced, or to taste"
+      },
+      {
+        "type": "item",
+        "text": "1 pinch salt"
+      },
+      {
+        "type": "item",
+        "text": "1 pinch cayenne pepper"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup salted butter, melted"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Beat egg yolks, lemon juice, salt, and cayenne pepper together in a microwave-safe bowl until smooth. Slowly stream melted butter into the egg yolk mixture while whisking to incorporate."
+      },
+      {
+        "type": "step",
+        "text": "Heat in microwave for 15 to 20 seconds; whisk."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/hollandaise-sauce-1.jpg",
+        "alt": "Hollandaise Sauce"
+      }
+    ],
+    "published": "2017-04-20T19:16:53Z",
+    "modified": "2017-04-20T19:20:14Z",
+    "source": {
+      "wpId": 408,
+      "url": "https://www.khoza.com/recipes/hollandaise-sauce/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-409\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/04/4481635-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/04/4481635-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/04/4481635.jpg 560w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-408-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Hollandaise Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/04/4481635-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/408-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT5M\">5 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT5M\">5 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 egg yolks</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; lemon, juiced, or to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 pinch salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 pinch cayenne pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup salted butter, melted</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat egg yolks, lemon juice, salt, and cayenne pepper together in a microwave-safe bowl until smooth. Slowly stream melted butter into the egg yolk mixture while whisking to incorporate.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat in microwave for 15 to 20 seconds; whisk.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

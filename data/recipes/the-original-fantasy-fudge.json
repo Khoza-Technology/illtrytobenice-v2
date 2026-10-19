@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "the-original-fantasy-fudge",
+    "slug": "the-original-fantasy-fudge",
+    "title": "The Original Fantasy Fudge",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT10M",
+        "minutes": 10,
+        "label": "10 mins"
+      },
+      "cook": {
+        "iso": "PT10M",
+        "minutes": 10,
+        "label": "10 mins"
+      },
+      "total": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 cups white sugar"
+      },
+      {
+        "type": "item",
+        "text": "3/4 cup margarine"
+      },
+      {
+        "type": "item",
+        "text": "2/3 cup evaporated milk"
+      },
+      {
+        "type": "item",
+        "text": "1 (12 ounce) package semisweet chocolate chips"
+      },
+      {
+        "type": "item",
+        "text": "1 (7 ounce) jar marshmallow creme"
+      },
+      {
+        "type": "item",
+        "text": "1 cup chopped walnuts"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Grease a 9x13-inch pan."
+      },
+      {
+        "type": "step",
+        "text": "Mix sugar, margarine, and evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly."
+      },
+      {
+        "type": "step",
+        "text": "Remove from heat and stir in chocolate chips until melted and thoroughly combined. Beat in marshmallow creme, walnuts, and vanilla extract. Transfer fudge to the prepared pan and let cool before cutting into squares."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/the-original-fantasy-fudge-1.jpg",
+        "alt": "The Original Fantasy Fudge"
+      }
+    ],
+    "published": "2017-02-23T17:40:13Z",
+    "modified": "2017-02-23T17:40:13Z",
+    "source": {
+      "wpId": 182,
+      "url": "https://www.khoza.com/recipes/the-original-fantasy-fudge/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-183\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/fudge.jpg\" alt=\"\" width=\"250\" height=\"250\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/fudge.jpg 250w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/fudge-150x150.jpg 150w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/fudge-50x50.jpg 50w\" sizes=\"auto, (max-width: 250px) 100vw, 250px\" /><br />\n<div id=\"easyrecipe-182-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">The Original Fantasy Fudge</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/fudge.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/182-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT10M\">10 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT10M\">10 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 cups white sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">￼3/4 cup margarine</li> <li class=\"ingredient\" itemprop=\"ingredients\">￼2/3 cup evaporated milk￼</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 (12 ounce) package semisweet chocolate chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">￼1 (7 ounce) jar marshmallow creme￼</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup chopped walnuts</li> <li class=\"ingredient\" itemprop=\"ingredients\">￼1 teaspoon vanilla extract</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Grease a 9x13-inch pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix sugar, margarine, and evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove from heat and stir in chocolate chips until melted and thoroughly combined. Beat in marshmallow creme, walnuts, and vanilla extract. Transfer fudge to the prepared pan and let cool before cutting into squares.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

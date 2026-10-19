@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "neiman-marcus-cookies",
+    "slug": "neiman-marcus-cookies",
+    "title": "Neiman-Marcus Cookies",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Cup(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) vanilla"
+      },
+      {
+        "type": "item",
+        "text": "2½ Cup(s) oatmeal"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) baking soda"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) baking powder"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "12 Ounce(s) chocolate chips"
+      },
+      {
+        "type": "item",
+        "text": "4 Ounce(s) hershey bar, grated"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Blend oatmeal in a blender to a fine powder."
+      },
+      {
+        "type": "step",
+        "text": "Combine oatmeal, flour, salt, baking powder and soda and set aside."
+      },
+      {
+        "type": "step",
+        "text": "Cream butter and sugars"
+      },
+      {
+        "type": "step",
+        "text": "Add eggs and vanilla"
+      },
+      {
+        "type": "step",
+        "text": "Add flour mixture to butter mixture and mix"
+      },
+      {
+        "type": "step",
+        "text": "Add grated Hershey bar and chocolate chips."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 10 minutes at 375."
+      },
+      {
+        "type": "step",
+        "text": "Note: Extra batter can be frozen in ice cube trays and then put into freezer bags. When you want fresh cookies, take out a cube and bake for 10 minutes at 375."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:07:43Z",
+    "modified": "2017-02-24T01:07:43Z",
+    "source": {
+      "wpId": 339,
+      "url": "https://www.khoza.com/recipes/neiman-marcus-cookies/",
+      "html": "<p><div id=\"easyrecipe-339-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Neiman-Marcus Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/339-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) vanilla</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac12; Cup(s) oatmeal</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">12 Ounce(s) chocolate chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Ounce(s) hershey bar, grated</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Blend oatmeal in a blender to a fine powder.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine oatmeal, flour, salt, baking powder and soda and set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cream butter and sugars</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add eggs and vanilla</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add flour mixture to butter mixture and mix</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add grated Hershey bar and chocolate chips.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 10 minutes at 375.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Note: Extra batter can be frozen in ice cube trays and then put into freezer bags. When you want fresh cookies, take out a cube and bake for 10 minutes at 375.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

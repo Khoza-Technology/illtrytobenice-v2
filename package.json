@@ -1,0 +1,13 @@
+{
+  "name": "illtrytobenice",
+  "private": true,
+  "type": "module",
+  "description": "Static family recipe site. Zero dependencies.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  }
+}

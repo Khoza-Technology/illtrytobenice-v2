@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "crustless-quiche",
+    "slug": "crustless-quiche",
+    "title": "Crustless Quiche",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "10 oz. mushrooms"
+      },
+      {
+        "type": "item",
+        "text": "8 pieces lunch ham"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup butter (1/2 stick)"
+      },
+      {
+        "type": "item",
+        "text": "10 eggs"
+      },
+      {
+        "type": "item",
+        "text": "Salt"
+      },
+      {
+        "type": "item",
+        "text": "Pepper"
+      },
+      {
+        "type": "item",
+        "text": "Milk"
+      },
+      {
+        "type": "item",
+        "text": "1 cup cheddar cheese"
+      },
+      {
+        "type": "item",
+        "text": "Parmesan cheese"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 375 degrees Fahrenheit."
+      },
+      {
+        "type": "step",
+        "text": "Wash and step mushrooms. Cut mushrooms into slices."
+      },
+      {
+        "type": "step",
+        "text": "Cut ham into cubes. Place ham, mushrooms, and butter into a twelve inch sauce pan and add 1 teaspoon of salt and ½ teaspoon of pepper. Turn on burner to high and cook until mushrooms are tender, about ten minutes."
+      },
+      {
+        "type": "step",
+        "text": "Crack eggs into a medium bowl and add ¾ teaspoon salt and ¼ teaspoon pepper."
+      },
+      {
+        "type": "step",
+        "text": "Add 2 cups milk and cheese to egg mixture and stir."
+      },
+      {
+        "type": "step",
+        "text": "Spray glass 9*13 inch pan with nonstick spray. Layer the bottom of the pan with Parmesan cheese."
+      },
+      {
+        "type": "step",
+        "text": "Add mushroom mixture to the pan."
+      },
+      {
+        "type": "step",
+        "text": "Add egg mixture to the pan. Add milk until quiche mixture is approximately 1 inch from the top of the pan."
+      },
+      {
+        "type": "step",
+        "text": "Place in the preheated oven for one hour."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-03-10T02:36:18Z",
+    "modified": "2017-04-10T21:46:19Z",
+    "source": {
+      "wpId": 389,
+      "url": "https://www.khoza.com/recipes/crustless-quiche/",
+      "html": "<p><div id=\"easyrecipe-389-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Crustless Quiche</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/389-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Breakfast</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">10 oz. mushrooms</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 pieces lunch ham</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup butter (1/2 stick)</li> <li class=\"ingredient\" itemprop=\"ingredients\">10 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">Salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">Pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">Milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup cheddar cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">Parmesan cheese</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 375 degrees Fahrenheit.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Wash and step mushrooms. Cut mushrooms into slices.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut ham into cubes. Place ham, mushrooms, and butter into a twelve inch sauce pan and add 1 teaspoon of salt and &frac12; teaspoon of pepper. Turn on burner to high and cook until mushrooms are tender, about ten minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Crack eggs into a medium bowl and add &frac34; teaspoon salt and &frac14; teaspoon pepper.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 2 cups milk and cheese to egg mixture and stir.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spray glass 9*13 inch pan with nonstick spray. Layer the bottom of the pan with Parmesan cheese.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add mushroom mixture to the pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add egg mixture to the pan. Add milk until quiche mixture is approximately 1 inch from the top of the pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place in the preheated oven for one hour.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

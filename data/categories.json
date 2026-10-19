@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "bread",
+      "name": "Bread",
+      "count": 7
+    },
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "count": 10
+    },
+    {
+      "id": "dessert",
+      "name": "Dessert",
+      "count": 26
+    },
+    {
+      "id": "dinner",
+      "name": "Dinner",
+      "count": 35
+    },
+    {
+      "id": "lunch",
+      "name": "Lunch",
+      "count": 4
+    },
+    {
+      "id": "sauce",
+      "name": "Sauce",
+      "count": 3
+    },
+    {
+      "id": "sides",
+      "name": "Sides",
+      "count": 23
+    }
+  ]
+}

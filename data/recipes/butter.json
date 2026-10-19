@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "butter",
+    "slug": "butter",
+    "title": "Butter",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 heavy whipping cream (any size)"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) salt to taste"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "With a kitchenaid mixer and the whisk attachment, pour cream into bowl and add salt if so desired. On speed 6, whisk for about 15 minutes or longer. The cream will turn into a whipped cream mixture, then it will get very watery and look like it's curdling."
+      },
+      {
+        "type": "step",
+        "text": "Once the mixture is very watery (and it takes a while to get to this point), turn the mixing speed down to 2 (you want all the water out of the butter). The water will start separating from the butter quickly and the \"butter\" will bond to the whisk. Take bowl off of mixer and empty out the water (you can use this water for cooking-it's very tasty!). You don't want any water in your butter. Put bowl back and turn mixer to speed \"Stir\"."
+      },
+      {
+        "type": "step",
+        "text": "Keep emptying out the water or sop it up with paper towels (I usually empty it out twice and then dab some paper towels at the bottom of the bowl)."
+      },
+      {
+        "type": "step",
+        "text": "Once all the water has been removed, change the attachment to the flat beater. Turn to speed 6 and mix for a few minutes. The butter will start to cling to the side of the bowl and make nice soft peaks. Once it does this, put the butter in a bowl or butter crock and refrigerate for at least 5 minutes. Butter will stay fresh for up to 2 weeks."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:52:53Z",
+    "modified": "2017-02-23T22:52:53Z",
+    "source": {
+      "wpId": 259,
+      "url": "https://www.khoza.com/recipes/butter/",
+      "html": "<p><div id=\"easyrecipe-259-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Butter</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/259-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 heavy whipping cream (any size)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) salt to taste</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">With a kitchenaid mixer and the wisk attachment, pour cream into bowl and add salt if so desired. On speed 6, wisk for about 15 minutes or longer. The cream will turn into a whipped cream mixture, then it will get very watery and look like it's curddling.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Once the mixture is very watery (and it takes a while to get to this point), turn the mixing speed down to 2 (you want all the water out of the butter). The water will start separating from the butter quickly and the\"butter\" will bond to the wisk. Take bowl off of mixer and empty out the water (you can use this water for cooking-it's very tasty!). You don't want any water in your butter. Put bowl back and turn mixer to speed \"Stir\".</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Keep emptying out the water or sop it up with paper towels (I usually empty it out twice and then dab some paper towels at the bottom of the bowl).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Once all the water has been removed, change the attachment to the flat beater. Turn to speed 6 and mix for a few minutes. The butter with start to cling to the side of the bowl and make nice soft peaks. Once it does this, put the butter in a bowl or butter crock and refridgerate for at least 5 minutes. Butter will stay fresh for up to 2 weeks.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

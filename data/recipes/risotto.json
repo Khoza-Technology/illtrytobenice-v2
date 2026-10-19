@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "risotto",
+    "slug": "risotto",
+    "title": "Risotto",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "Italian",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 yellow onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 red bell pepper, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) garlic, minced (or more!)"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) risotto or arborio rice"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) brandy or rum (optional)"
+      },
+      {
+        "type": "item",
+        "text": "2 Can(s) chicken broth (may need 3 cans)"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) mushrooms (optional)"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) cooked sausage, cut into pieces"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) parmesan cheese, grated (or more if you want)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oil in large skillet over high heat. Add onions, peppers and garlic. Cook until peppers and onion are soft. Add risotto and brandy and cook and stir until brandy has evaporated, about 3-4 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Add enough chicken broth to cover rice mixture, about ½ a can. When it boils, turn heat down to medium high. Stir and keep adding broth to just immerse rice mixture, for about 21 minutes. (Stirring will make the rice get creamier and creamier). It should be like a creamy, thick stew consistency."
+      },
+      {
+        "type": "step",
+        "text": "not like dry rice, more like a creamy mac and cheese. Add more broth if you need."
+      },
+      {
+        "type": "step",
+        "text": "When risotto is al dente, add mushrooms and sausage and stir until everything is heated through. Take off heat and add cheese. Salt and pepper to taste. Serve in a big bowl with a hunk of bread!"
+      },
+      {
+        "type": "step",
+        "text": "Sometimes I like to"
+      },
+      {
+        "type": "step",
+        "text": "make it with bacon...just cut and cook bacon before the onion and peppers. Take bacon out and leave the grease. Cook everything in the grease instead of olive oil. Also adding thyme at the end with the cheese is good."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:24:49Z",
+    "modified": "2017-02-24T01:24:49Z",
+    "source": {
+      "wpId": 359,
+      "url": "https://www.khoza.com/recipes/risotto/",
+      "html": "<p><div id=\"easyrecipe-359-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Risotto</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/359-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Italian</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 yellow onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red bell pepper, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) garlic, minced (or more!)</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) risotto or arborio rice</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) brandy or rum (optional)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Can(s) chicken broth (may need 3 cans)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) mushrooms (optional)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) cooked sausage, cut into pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) parmesan cheese, grated (or more if you want)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oil in large skillet over high heat. Add onions, peppers and garlic. Cook until peppers and onion are soft. Add risotto and brandy and cook and stir until brandy has evaporated, about 3-4 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add enough chicken broth to cover rice mixture, about &frac12; a can. When it boils, turn heat down to medium high. Stir and keep adding broth to just immerse rice mixture, for about 21 minutes. (Stirring will make the rice get creamier and creamier). It should be like a creamy, thick stew consistency.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">not like dry rice, more like a creamy mac and cheese. Add more broth if you need.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">When risotto is al dente, add mushrooms and sausage and stir until everything is heated through. Take off heat and add cheese. Salt and pepper to taste. Serve in a big bowl with a hunk of bread!</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Sometimes I like to</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">make it with bacon...just cut and cook bacon before the onion and peppers. Take bacon out and leave the grease. Cook everything in the grease instead of olive oil. Also adding thyme at the end with the cheese is good.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "gluten-free-pumpkin-pie",
+    "slug": "gluten-free-pumpkin-pie",
+    "title": "Gluten-Free Pumpkin Pie",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 egg"
+      },
+      {
+        "type": "item",
+        "text": "3 egg yolks"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) granulated sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) molasses"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) pumpkin puree"
+      },
+      {
+        "type": "item",
+        "text": "1¼ Teaspoon(s) ground cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) ground ginger"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground nutmeg"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) ground cloves"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) heavy cream"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "1 Recipe Gluten-Free Gingersnap Pie Crust"
+      },
+      {
+        "type": "item",
+        "text": "1 Recipe Bourbon-Maple Whipped Cream"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oven temperature to 300 degrees F."
+      },
+      {
+        "type": "step",
+        "text": "To make the filling, whisk the eggs, egg yolks, both sugars, and the molasses together in a medium bowl. Mix in the pumpkin puree, cinnamon, ginger, nutmeg, cloves, and salt. Whisk in the heavy cream, milk, and vanilla seeds or extract. Strain the mixture through a coarse strainer into a bowl. Whisk in the butter."
+      },
+      {
+        "type": "step",
+        "text": "Place the pie plate on a baking sheet, pour the pumpkin mixture into the shell, and sprinkle additional cinnamon over the top. Bake until the filling is set around edges but the center still jiggles slightly when shaken, 45 to 60 minutes. Transfer to a wire rack and cool to room temperature, about 2 hours."
+      },
+      {
+        "type": "step",
+        "text": "Cut the pie into slices and top each with a large dollop of whipped cream."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:51:09Z",
+    "modified": "2017-02-24T00:51:09Z",
+    "source": {
+      "wpId": 314,
+      "url": "https://www.khoza.com/recipes/gluten-free-pumpkin-pie/",
+      "html": "<p><div id=\"easyrecipe-314-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Gluten-Free Pumpkin Pie</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/314-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 egg yolks</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) granulated sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) pumpkin puree</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; Teaspoon(s) ground cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) ground ginger</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground nutmeg</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) ground cloves</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) heavy cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Recipe Gluten-Free Gingersnap Pie Crust</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Recipe Bourbon-Maple Whipped Cream</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oven temperature to 300 degrees F.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">To make the filling, whisk the eggs, egg yolks, both sugars, and the molasses together in a medium bowl. Mix in the pumpkin puree, cinnamon, ginger, nutmeg, cloves, and salt. Whisk in the heavy cream, milk, and vanilla seeds or extract. Strain the mixture through a coarse strainer into a bowl. Whisk in the butter.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the pie plate on a baking sheet, pour the pumpkin mixture into the shell, and sprinkle additional cinnamon over the top. Bake until the filling is set around edges but the center still jiggles slightly when shaken, 45 to 60 minutes. Transfer to a wire rack and cool to room temperature, about 2 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut the pie into slices and top each with a large dollop of whipped cream.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "spinach-dip",
+    "slug": "spinach-dip",
+    "title": "Spinach Dip",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "Appetizer",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "10 Ounce(s) frozen pkg. chopped spinach, thawed and drained"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) sour cream"
+      },
+      {
+        "type": "item",
+        "text": "1 dry leek soup mix"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) mayonnaise"
+      },
+      {
+        "type": "item",
+        "text": "8 Ounce(s) can water chestnuts, chopped"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix and serve in hollowed-out sourdough loaf. Cut extra bread for hollowing out the loaf for dipping."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:30:01Z",
+    "modified": "2017-02-24T01:30:01Z",
+    "source": {
+      "wpId": 370,
+      "url": "https://www.khoza.com/recipes/spinach-dip/",
+      "html": "<p><div id=\"easyrecipe-370-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Spinach Dip</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/370-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">American</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Appetizer</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">10 Ounce(s) frozen pkg. chopped spinach, thawed and drained</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) sour cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 dry leek soup mix</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) mayonnaise</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Ounce(s) can water chestnuts, chopped</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix and serve in hollowed-out sourdough loaf. Cut extra bread for hollowing out the loaf for dipping.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

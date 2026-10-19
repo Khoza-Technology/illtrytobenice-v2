@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "pesto",
+    "slug": "pesto",
+    "title": "Pesto",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "Italian",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Cup(s) basil - firmly packed"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) extra virgin olive oil"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) pine nuts - toasted"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) grated parmesan cheese"
+      },
+      {
+        "type": "item",
+        "text": "4 Clove(s) minced garlic (maybe more)"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) heavy cream (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine first six ingredients in the blender. Puree everything. Add parmesan cheese and garlic and blend until combined. Taste and add more garlic if necessary."
+      },
+      {
+        "type": "step",
+        "text": "Optional: Cook 4 chicken breasts in skillet over medium high heat with 2 tbsp evoo, 1 tsp salt, ¼ - ½ tsp pepper, and about 6 cloves of garlic. Remove chicken when done. Deglaze pan with a little cream. Add pesto and 1½ cups cream. Toss with noodles. Top with chicken."
+      },
+      {
+        "type": "step",
+        "text": "Pesto can be frozen in ice cube trays and used later for a quick meal."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:12:21Z",
+    "modified": "2017-02-24T01:12:21Z",
+    "source": {
+      "wpId": 347,
+      "url": "https://www.khoza.com/recipes/pesto/",
+      "html": "<p><div id=\"easyrecipe-347-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Pesto</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/347-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Italian</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) basil - firmly packed</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) extra virgin olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) pine nuts - toasted</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) grated parmesan cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Clove(s) minced garlic (maybe more)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) heavy cream (optional)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine first six ingredients in the blender. Puree everything. Add parmesan cheese and garlic and blend until combined. Taste and add more garlic if necessary.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Optional: Cook 4 chicken breasts in skillet over medium high heat with 2 tbsp evoo, 1 tsp salt, &frac14; - &frac12; tsp pepper, and about 6 cloves of garlic. Remove chicken when done. Deglaze pan with a little cream. Add pesto and 1&frac12; cups cream. Toss with noodles. Top with chicken.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pesto can be frozen in ice cube trays and used later for a quick meal.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

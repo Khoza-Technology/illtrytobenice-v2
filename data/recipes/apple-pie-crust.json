@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "apple-pie-crust",
+    "slug": "apple-pie-crust",
+    "title": "Apple Pie Crust",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) shortening"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, cut into 8 pieces"
+      },
+      {
+        "type": "item",
+        "text": "5 Tablespoon(s) water"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Prepare pie crust and apple pie filling."
+      },
+      {
+        "type": "step",
+        "text": "Pour apples into pie crust. Add the other layer of crust on top. Cut four slits on top of crust. Sprinkle sanding sugar on top."
+      },
+      {
+        "type": "step",
+        "text": "Freeze."
+      },
+      {
+        "type": "step",
+        "text": "When ready to bake, preheat oven to 425. Place frozen pie on a rimmed baking sheet."
+      },
+      {
+        "type": "step",
+        "text": "Bake uncovered for 15 minutes. Reduce oven to 375 and bake for 1 hour more."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-20T17:40:24Z",
+    "modified": "2017-02-21T05:30:33Z",
+    "source": {
+      "wpId": 170,
+      "url": "https://www.khoza.com/recipes/apple-pie-crust/",
+      "html": "<p><div id=\"easyrecipe-170-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Apple Pie Crust</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/170-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) shortening</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, cut into 8 pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 Tablespoon(s) water</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Prepare pie crust and apple pie filling.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour apples into pie crust. Add the other layer of crust on top. Cut four slits on top of crust. Sprinkle sanding sugar on top.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Freeze.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">When ready to bake, preheat oven to 425. Place frozen pie on a rimmed baking sheet.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake uncovered for 15 minutes. Reduce oven to 375 and bake for 1 hour more.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

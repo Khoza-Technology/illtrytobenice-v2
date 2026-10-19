@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "pizza-dough",
+    "slug": "pizza-dough",
+    "title": "Pizza Dough",
+    "summary": "Makes 3 medium-sized pizzas",
+    "contributor": "olivia",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 cups lukewarm water"
+      },
+      {
+        "type": "item",
+        "text": "1½ tbsp granulated yeast (2 packets)"
+      },
+      {
+        "type": "item",
+        "text": "1½ tbsp kosher or other coarse salt"
+      },
+      {
+        "type": "item",
+        "text": "6½ cups unsifted, unbleached white flour measured with the scoop-and-sweep method"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Warm the water slightly, about 100 degrees. Warm water will rise the dough to the right point for storage in about 2 hours. You can use cold tap water and get an identical final result, then the first rising will take 3 or 4 hours."
+      },
+      {
+        "type": "step",
+        "text": "Add yeast and salt to the water in a 5-quart bowl or preferably in a resealable, lidded (not airtight) plastic food container. Don't worry about getting it all to dissolve."
+      },
+      {
+        "type": "step",
+        "text": "Mix in the flour: kneading is unnecessary. Add all of the flour at once, measuring it with dry-ingredient measuring cups by gently scooping up flour, then sweeping the top level with a knife or spatula. Don't press down into the flour as you scoop or you'll throw off the measurement by compressing. Mix with a wooden spoon, a high capacity food processor (14 cups or larger) fitted with a dough blade, or a heavy-duty stand mixer fitted with the dough hook until the mixture is uniform. If you're hand-mixing and it becomes too difficult to incorporate all the flour with the spoon, you can reach into your mixing vessel with very wet hands and press the mixture together. Don't knead! It isn't necessary. You're finished when everything is uniformly moist, without dry patches. This step is done in a matter of minutes, and will yield a dough that is wet and loose enough to conform to the shape of its container."
+      },
+      {
+        "type": "step",
+        "text": "Allow to rise: Cover with a lid (not airtight) that fits well to the container you're using. Do not use screw-topped bottles or Mason jars, which could explode from the trapped gases. Allow the mixture to rise at room temperature until it begins to collapse (or at least flattens on the top), approximately 2 hours, depending on the room's temperature and the initial water temperature. Longer sitting times, up to about 5 hours, will not harm the result. You can use a portion of the dough any time after this period. Fully refrigerated wet dough is less sticky and is easier to work with than dough at room temperature. You can leave in the refrigerator a week before shaping."
+      },
+      {
+        "type": "step",
+        "text": "Shape on parchment paper and add a little olive oil before spreading your sauce and bake at 425 on a preheated pizza steel."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2021-05-31T17:55:46Z",
+    "modified": "2021-05-31T17:55:46Z",
+    "source": {
+      "wpId": 536,
+      "url": "https://www.khoza.com/recipes/pizza-dough/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-536-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Pizza Dough</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/536-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div itemprop=\"description\" class=\"ERSSummary\">Makes 3 medium-sized pizzas</div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Olivia House</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 cups lukewarm water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; tbsp granulated yeast (2 packets)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; tbsp kosher or other coarse salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">6&frac12; cups unsifted, unbleached white flour measured with the scoop-and-sweep method</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Warm the water slightly, about 100 degrees. Warm water will rise the dough to the right point for storage in about 2 hours. You can use cold tap water and get an identical final result, then the first rising will take 3 or 4 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add yeast and salt to the water in a 5-quart bowl or preferably in a resealable, lidded (not airtight) plastic food container. Don't worry about getting it all to dissolve.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix in the flour: kneading is unnecessary. Add all of the flour at once, measuring it with dry-ingredient measuring cups by gently scooping up flour, then sweeping the top level with a knife or spatula. Don't press down into the flour as you scoop or you'll throw off the measurement by compressing. Mix with a wooden sppon, a high capacity food processor (14 cups or larger) fitted with a dough blade, or a heavy-duty stand mixer fitted with the dough hook until the mixture is uniform. If you're hand-mixing and it becomes too difficult to incorporate all the flour with the spoon, you can reach into your mixing vessel with very wet hands and press the mixture together. Don't knead! It isn't necessary. You're finished when everything is uniformly moist, without dry patches. This step is done in a matter of minutes, and will yield a dough that is wet and loose enough to conform to the shape of its container.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">All to rise: Cover with a lid (not airtight) that fits well to the container you're using. Do not use screw-topped bottles or Mason jars, which could explode from the trapped gases. Allow the mixture to rise at room temperature until it begins to collapse (or at least flattens on the top), approximately 2 hours, depending on the room's temperature and the initial water terperature. Longer sitting times, up to abot 5 hours, will not harm the result. You can use a portion of the dough any time after this period. Fully refrigerated wet dough is less sticky and is easier to work with than dough at room termperature. You can leave in the refrigerator a week before shaping.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Shape on parchment paper and add a little olive oil before spreading your sauce and bake at 425 on a preheated pizza steel.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

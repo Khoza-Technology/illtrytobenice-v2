@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "alices-pull-apart-rolls",
+    "slug": "alices-pull-apart-rolls",
+    "title": "Alice's Pull Apart Rolls",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 Ounce(s) vanilla pudding, not instant"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) walnuts"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Make Alice's Cinnamon Roll dough."
+      },
+      {
+        "type": "step",
+        "text": "Cover bottom of 9x13 pan with chopped walnuts."
+      },
+      {
+        "type": "step",
+        "text": "Tear up ½ of dough into pan. Cover with sauce. Tear up 2nd part of dough. Sprinkle with cinnamon."
+      },
+      {
+        "type": "step",
+        "text": "Cover loosely with saran wrap. Let rise and bake or let rise in refrigerator and bake within 4-5 days."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 and bake 30-35 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Turn onto platter and serve immediately."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/alices-pull-apart-rolls-1.jpg",
+        "alt": "Alice's Pull Apart Rolls"
+      }
+    ],
+    "published": "2017-02-20T17:36:31Z",
+    "modified": "2017-02-20T17:36:31Z",
+    "source": {
+      "wpId": 160,
+      "url": "https://www.khoza.com/recipes/alices-pull-apart-rolls/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-161\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/Caraway-Pull-Apart-Rolls0-300x236.jpg\" alt=\"\" width=\"300\" height=\"236\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/Caraway-Pull-Apart-Rolls0-300x236.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/Caraway-Pull-Apart-Rolls0.jpg 698w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-160-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Alice's Pull Apart Rolls</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/Caraway-Pull-Apart-Rolls0-300x236.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/160-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 Ounce(s) vanilla pudding, not instant</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) walnuts</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Make Alice's Cinnamon Roll dough.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover bottom of 9x13 pan with chopped walnuts.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Tear up &frac12; of dough into pan. Cover with sauce. Tear up 2nd part of dough. Sprinkle with cinnamon.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover loosely with saran wrap. Let rise and bake or let rise in refrigerator and bake within 4-5 days.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 and bake 30-35 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Turn onto platter and serve immediately.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

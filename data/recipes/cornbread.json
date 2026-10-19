@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "cornbread",
+    "slug": "cornbread",
+    "title": "Cornbread",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1½ Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "⅔ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) yellow corn meal"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) baking powder"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "1¼ Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs, lightly beaten"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) vegetable oil"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350. Grease 8-inch square pan."
+      },
+      {
+        "type": "step",
+        "text": "Combine flour, sugar, corn meal, baking powder and salt in medium bowl and mix."
+      },
+      {
+        "type": "step",
+        "text": "Combine milk, eggs, vegetable oil and butter in small bowl and mix well."
+      },
+      {
+        "type": "step",
+        "text": "Add milk mixture to flour mixture and stir until smooth."
+      },
+      {
+        "type": "step",
+        "text": "Pour into 8-inch pan."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 35 minutes or until inserted knife in center comes out clean."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:11:16Z",
+    "modified": "2017-02-23T23:11:16Z",
+    "source": {
+      "wpId": 292,
+      "url": "https://www.khoza.com/recipes/cornbread/",
+      "html": "<p><div id=\"easyrecipe-292-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Cornbread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/292-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8532; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) yellow corn meal</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs, lightly beaten</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) vegetable oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350. Grease 8-inch square pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine flour, sugar, corn meal, baking powder and salt in medium bowl and mix.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine milk, eggs, vegetable oil and butter in small bowl and mix well.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add milk mixture to flour mixture and stir until smooth.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour into 8-inch pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 35 minutes or until inserted knife in center comes out clean.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

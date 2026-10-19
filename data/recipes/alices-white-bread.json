@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "alices-white-bread",
+    "slug": "alices-white-bread",
+    "title": "Alice's White Bread",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) active dry yeast"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine yeast, sugar, salt, oil and warm water in a large bowl."
+      },
+      {
+        "type": "step",
+        "text": "Add flour 1 cup at a time and mix. Keep adding flour until the dough no longer sticks to your hands and when you poke with your finger, the dough bounces back."
+      },
+      {
+        "type": "step",
+        "text": "Knead until nice and smooth."
+      },
+      {
+        "type": "step",
+        "text": "Place dough in oiled bowl and turn the dough over. Cover with cloth and let rise until doubled (1 hour)."
+      },
+      {
+        "type": "step",
+        "text": "Punch down and let rise until doubled (1 hour)."
+      },
+      {
+        "type": "step",
+        "text": "Divide into 2 portions. Shape each into large rectangle. On the longer side, roll up. Fold ends under and place seam side down on baking sheet. Cut 3 diagonal ½\" slits in top of bread."
+      },
+      {
+        "type": "step",
+        "text": "Cover with cloth and let rise until doubled (1 hour)."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 350. Bake for 32 minutes, rotating halfway."
+      },
+      {
+        "type": "step",
+        "text": "Let cool and wrap in foil. Freeze. Reheat at 300 for 20-25 minutes in foil."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/alices-white-bread-1.jpg",
+        "alt": "Alice's White Bread"
+      }
+    ],
+    "published": "2017-02-20T17:39:04Z",
+    "modified": "2025-12-04T19:07:10Z",
+    "source": {
+      "wpId": 167,
+      "url": "https://www.khoza.com/recipes/alices-white-bread/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-168\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/basic-white-bread-recipe-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/basic-white-bread-recipe-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/basic-white-bread-recipe-768x432.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/basic-white-bread-recipe.jpg 800w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-167-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Alice's White Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/basic-white-bread-recipe-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/167-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) active dry yeast</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine yeast, sugar, salt, oil and warm water in a large bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add flour 1 cup at a time and mix. Keep adding flour until the dough no longer sticks to your hands and when you poke with your finger, the dough bounces back.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Knead until nice and smooth.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place dough in oiled bowl and turn the dough over. Cover with cloth and let rise until doubled (1 hour).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Punch down and let rise until doubled (1 hour).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divide into 2 portions. Shape each into large rectangle. On the longer side, roll up. Fold ends under and place seam side down on baking sheet. Cut 3 diagonal &frac12;\" slits in top of bread.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover with cloth and let rise until doubled (1 hour).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350. Bake for 32 minutes, rotating halfway.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let cool and wrap in foil. Freeze. Reheat at 300 for 20-25 minutes in foil.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div><br />\n </p>\n"
+    }
+  }
+}

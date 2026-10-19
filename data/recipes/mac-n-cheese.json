@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "mac-n-cheese",
+    "slug": "mac-n-cheese",
+    "title": "Mac 'n' Cheese",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Pound(s) Elbow Macaroni"
+      },
+      {
+        "type": "item",
+        "text": "2 heavy cream"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) grated cheddar cheese"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) Tillamook Triple Cheddar Shredded Cheese"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) mozzarella grated cheese"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) Fontina Cheese-cubed"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) cayenne pepper"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) garlic powder"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) ground white pepper"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Start by bringing 2 qts of water and 1 tbsp of salt to a boil. Add 1 pound of elbow macaroni and cook to “al dente”."
+      },
+      {
+        "type": "step",
+        "text": "Rinse briefly with cold water to stop the cooking process. Toss with 2 tablespoons of oil to prevent sticking."
+      },
+      {
+        "type": "step",
+        "text": "Heat cream to just below a boil and add Medium Cheddar Cheese, 3 Year Vintage White Extra Sharp Cheddar Cheese, and fontina cheese. Add triple shredded cheese blend to the cream and stir to melt."
+      },
+      {
+        "type": "step",
+        "text": "Add Mozzarella and allow to melt, then add all seasonings, stirring all the while. When all cheeses are melted sauce is ready."
+      },
+      {
+        "type": "step",
+        "text": "At this point, pour some mac sauce onto cooked noodles and toss, coating generously. Note: it will not require all the sauce."
+      },
+      {
+        "type": "step",
+        "text": "Fill, desired baking dish (spray with cooking spray first) with tossed noodles, leaving a little room at the top. Top with more Mac sauce (spreading on cold sauce is best)."
+      },
+      {
+        "type": "step",
+        "text": "To serve: Bake in a 450°F oven until warm and bubbly (an 8 oz crock takes about 10 minutes)."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:00:06Z",
+    "modified": "2017-02-24T01:00:06Z",
+    "source": {
+      "wpId": 327,
+      "url": "https://www.khoza.com/recipes/mac-n-cheese/",
+      "html": "<p><div id=\"easyrecipe-327-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Mac 'n' Cheese</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/327-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Tilamook</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) Elbow Macaroni</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 heavy cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) grated cheddar cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) Tillamook Triple Cheddar Shredded Cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) mozzarella grated cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) Fontina Cheese-cubed</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) cayenne pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) garlic powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) ground white pepper</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Start by bringing 2 qts of water and 1 tbsp of salt to a boil. Add 1 pound of elbow macaroni and cook to “al dente”.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Rinse briefly with cold water to stop the cooking process. Toss with 2 tablespoons of oil to prevent sticking.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat cream to just below a boil and add Medium Cheddar Cheese, 3 Year Vintage White Extra Sharp Cheddar Cheese, and fontina cheese. Add triple shredded cheese blend to the cream and stir to melt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add Mozzarella and allow to melt, then add all seasonings, stirring all the while. When all cheeses are melted sauce is ready.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">At this point, pour some mac sauce onto cooked noodles and toss, coating generously. Note: it will not require all the sauce.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Fill, desired baking dish (spray with cooking spray first) with tossed noodles, leaving a little room at the top. Top with more Mac sauce (spreading on cold sauce is best).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">To serve: Bake in a 450°F oven until warm and bubbly (an 8 oz crock takes about 10 minutes).</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

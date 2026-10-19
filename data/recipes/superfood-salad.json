@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "superfood-salad",
+    "slug": "superfood-salad",
+    "title": "Superfood Salad",
+    "summary": null,
+    "contributor": "olivia",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 bunches lacinato kale, cleaned and chopped"
+      },
+      {
+        "type": "item",
+        "text": "4 carrots, peeled and shredded"
+      },
+      {
+        "type": "item",
+        "text": "Pumpkin seeds"
+      },
+      {
+        "type": "item",
+        "text": "1 can garbanzo beans"
+      },
+      {
+        "type": "item",
+        "text": "Red cabbage, thinly sliced or grated"
+      },
+      {
+        "type": "item",
+        "text": "Green onions"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Rub ½ tsp to 1 tsp salt into chopped kale leaves, let sit for 5 minutes. Combine all other ingredients in bowl. Toss with lemon vinaigrette."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2023-08-29T23:52:05Z",
+    "modified": "2023-08-29T23:52:05Z",
+    "source": {
+      "wpId": 565,
+      "url": "https://www.khoza.com/recipes/superfood-salad/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-565-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Superfood Salad</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/565-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Olivia House</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Salad</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 bunches lacinato kale, cleanned and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 carrots, peeled and shredded</li> <li class=\"ingredient\" itemprop=\"ingredients\">Pumpkin seeds</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 can garbonzo beans</li> <li class=\"ingredient\" itemprop=\"ingredients\">Red cabbage, thinly sliced or grated</li> <li class=\"ingredient\" itemprop=\"ingredients\">Green onions</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Rub &frac12; tsp to 1 tsp salt into chopped kale leaves, let sit for 5 minutes. Combine all other ingredients in bowl. Toss with lemon vinaigrette.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "creamy-mashed-potatoes",
+    "slug": "creamy-mashed-potatoes",
+    "title": "Creamy Mashed Potatoes",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "cook": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT40M",
+        "minutes": 40,
+        "label": "40 mins"
+      }
+    },
+    "servings": {
+      "label": "12",
+      "count": 12
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "5 pounds Yukon gold or russet potatoes"
+      },
+      {
+        "type": "item",
+        "text": "1½ sticks softened butter, plus more for baking"
+      },
+      {
+        "type": "item",
+        "text": "1½ (8-ounce) packages cream cheese, softened"
+      },
+      {
+        "type": "item",
+        "text": "½ cup half-and-half"
+      },
+      {
+        "type": "item",
+        "text": "½ cup cream"
+      },
+      {
+        "type": "item",
+        "text": "Salt and freshly ground black pepper"
+      },
+      {
+        "type": "item",
+        "text": "Milk, if needed, for thinning"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat the oven to 350 degrees F."
+      },
+      {
+        "type": "step",
+        "text": "Peel the potatoes and rinse them in cold water. Chop the potatoes in fourths. Place the potatoes into a large pot and cover with water. Bring to a boil and cook until fork tender, 20 to 25 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Drain the potatoes, and then return them to the pan. With the burner on low heat, mash the potatoes with a potato masher; the more steam that's released while you mash, the better. Mash for about 5 minutes. Turn off the burner."
+      },
+      {
+        "type": "step",
+        "text": "Add the butter, cream cheese, half-and-half, and seasonings. Stir to combine, and if the mixture needs thinning, add milk. Check the seasonings, adding salt and pepper, to taste."
+      },
+      {
+        "type": "step",
+        "text": "Pour the mashed potatoes into a large casserole pan. Dot the surface with butter. Cover with foil and bake in the oven for 15 minutes. Remove the foil and continue baking for 10 more minutes. Serve immediately."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/creamy-mashed-potatoes-1.jpeg",
+        "alt": "Creamy Mashed Potatoes"
+      }
+    ],
+    "published": "2017-02-23T21:07:51Z",
+    "modified": "2017-02-23T21:08:34Z",
+    "source": {
+      "wpId": 188,
+      "url": "https://www.khoza.com/recipes/creamy-mashed-potatoes/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-189\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/BT0809_creamy-mashed-potatoes_s4x3.jpg.rend_.hgtvcom.616.462-300x225.jpeg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/BT0809_creamy-mashed-potatoes_s4x3.jpg.rend_.hgtvcom.616.462-300x225.jpeg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/BT0809_creamy-mashed-potatoes_s4x3.jpg.rend_.hgtvcom.616.462-510x382.jpeg 510w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/BT0809_creamy-mashed-potatoes_s4x3.jpg.rend_.hgtvcom.616.462.jpeg 616w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-188-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Creamy Mashed Potatoes</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/BT0809_creamy-mashed-potatoes_s4x3.jpg.rend_.hgtvcom.616.462-300x225.jpeg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/188-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT40M\">40 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">12</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">5 pounds Yukon gold or russet potatoes</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; sticks softened butter, plus more for baking</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; (8-ounce) packages cream cheese, softened</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup half-and-half</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">Salt and freshly ground black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">Milk, if needed, for thinning</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 350 degrees F.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Peel the potatoes and rinse them in cold water. Chop the potatoes in fourths. Place the potatoes into a large pot and cover with water. Bring to a boil and cook until fork tender, 20 to 25 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Drain the potatoes, and then return them to the pan. With the burner on low heat, mash the potatoes with a potato masher; the more steam that's released while you mash, the better. Mash for about 5 minutes. Turn off the burner.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the butter, cream cheese, half-and-half, and seasonings. Stir to combine, and if the mixture needs thinning, add milk. Check the seasonings, adding salt and pepper, to taste.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour the mashed potatoes into a large casserole pan. Dot the surface with butter. Cover with foil and bake in the oven for 15 minutes. Remove the foil and continue baking for 10 more minutes. Serve immediately.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

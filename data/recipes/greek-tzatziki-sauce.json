@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "greek-tzatziki-sauce",
+    "slug": "greek-tzatziki-sauce",
+    "title": "Greek Tzatziki Sauce",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "Greek",
+    "times": {
+      "prep": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "300 g Greek plain yogurt"
+      },
+      {
+        "type": "item",
+        "text": "1 cucumber"
+      },
+      {
+        "type": "item",
+        "text": "⅓ garlic clove"
+      },
+      {
+        "type": "item",
+        "text": "1 tbsp white wine vinegar for the cucumber"
+      },
+      {
+        "type": "item",
+        "text": "2 tbsp white wine vinegar"
+      },
+      {
+        "type": "item",
+        "text": "3 tbsp olive oil"
+      },
+      {
+        "type": "item",
+        "text": "salt"
+      },
+      {
+        "type": "item",
+        "text": "pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 to 3 tbsp dill, finely chopped"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Peel the cucumber and discard skin. Grate cucumber using the large blades on a cheese grater."
+      },
+      {
+        "type": "step",
+        "text": "Put shavings in a bowl."
+      },
+      {
+        "type": "step",
+        "text": "Add a pinch of salt and 1 tbsp white wine vinegar. Mix and set aside."
+      },
+      {
+        "type": "step",
+        "text": "In a blender, combine garlic and 3 tbsp olive oil. Pulverize until smooth."
+      },
+      {
+        "type": "step",
+        "text": "Add yogurt, garlic oil mixture, and 2 tbsp white wine vinegar in a bowl. Combine."
+      },
+      {
+        "type": "step",
+        "text": "Lay a cotton towel over a bowl and add cucumber to the center of it. Fold and twist the towel so that you squeeze out all the water. Discard the liquid."
+      },
+      {
+        "type": "step",
+        "text": "Add the cucumber to the yogurt mixture."
+      },
+      {
+        "type": "step",
+        "text": "Salt and pepper to taste."
+      },
+      {
+        "type": "step",
+        "text": "Add the dill."
+      },
+      {
+        "type": "step",
+        "text": "Refrigerate until needed."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-08-17T18:39:32Z",
+    "modified": "2017-08-17T18:39:32Z",
+    "source": {
+      "wpId": 424,
+      "url": "https://www.khoza.com/recipes/greek-tzatziki-sauce/",
+      "html": "<p><div id=\"easyrecipe-424-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Greek Tzatziki Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/424-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Greek</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">300 g Greek plain yogurt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cucumber</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; garlic clove</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tbsp white wine vinegar for the cucumber</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tbsp white wine vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 tbsp olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 to 3 tbsp dill, finely chopped</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Peel the cucumber and discard skin. Grate cucumber using the large blades on a cheese grater.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put shavings in a bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add a pinch of salt and 1 tbsp white wine vinegar. Mix and set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a blender, combine garlic and 3 tbsp olive oil. Pulverize until smooth.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add yogurt, garlic oil mixture, and 2 tbsp white wine vinegar in a bowl. Combine.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Lay a cotton towel over a bowl and add cucumber to the center of it. Fold and twist the towel so that you squeeze out all the water. Discard the liquid.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the cucumber to the yogurt mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Salt and pepper to taste.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the dill.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Refrigerate until needed.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

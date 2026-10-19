@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "make-ahead-mashed-potatoes",
+    "slug": "make-ahead-mashed-potatoes",
+    "title": "Make-Ahead Mashed Potatoes",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "5 Pound(s) potatoes, cubed"
+      },
+      {
+        "type": "item",
+        "text": "6 Ounce(s) cream cheese"
+      },
+      {
+        "type": "item",
+        "text": "8 Ounce(s) sour cream, light"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) onion salt"
+      },
+      {
+        "type": "item",
+        "text": "1 salt and pepper to taste"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 325 degrees F."
+      },
+      {
+        "type": "step",
+        "text": "Place potatoes in a large pot of lightly salted water. Bring to a boil and cook until tender, about 15 minutes. Drain and mash."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl mix mashed potatoes, cream cheese, sour cream, milk, onion salt and pepper. Transfer to a greased large casserole dish."
+      },
+      {
+        "type": "step",
+        "text": "Cover and bake for 50 minutes in"
+      },
+      {
+        "type": "step",
+        "text": "the preheated oven."
+      },
+      {
+        "type": "step",
+        "text": "Option: This dish can be made ahead of time (refrigerate if it is made early in the day. Remove from refrigerator for about 30 minutes and then bake as directed above."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:01:00Z",
+    "modified": "2017-02-24T01:01:00Z",
+    "source": {
+      "wpId": 329,
+      "url": "https://www.khoza.com/recipes/make-ahead-mashed-potatoes/",
+      "html": "<p><div id=\"easyrecipe-329-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Make-Ahead Mashed Potatoes</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/329-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">5 Pound(s) potatoes, cubed</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Ounce(s) cream cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Ounce(s) sour cream, light</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) onion salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 salt and pepper to taste</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 325 degrees F.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place potatoes in a large pot of lightly salted water. Bring to a boil and cook until tender, about 15 minutes. Drain and mash.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl mix mashed potatoes, cream cheese, sour cream, milk, onion salt and pepper. Transfer to a greased large casserole dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover and bake for 50 minutes in</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">the preheated oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Option: This dish can be made ahead of time (refrigerate if it is made early in the day. Remove from refrigerator for about 30 minutes and then bake as directed above.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

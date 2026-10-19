@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "black-bean-salad",
+    "slug": "black-bean-salad",
+    "title": "Black Bean Salad",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 (15 ounce) can black beans, rinsed and drained"
+      },
+      {
+        "type": "item",
+        "text": "2 (15 ounce) cans whole kernel corn, drained"
+      },
+      {
+        "type": "item",
+        "text": "8 green onions, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 jalapeno peppers, seeded and minced"
+      },
+      {
+        "type": "item",
+        "text": "1 green bell pepper, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 avocado - peeled, pitted, and diced"
+      },
+      {
+        "type": "item",
+        "text": "1 (4 ounce) jar pimentos"
+      },
+      {
+        "type": "item",
+        "text": "3 tomatoes, seeded and chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 cup chopped fresh cilantro"
+      },
+      {
+        "type": "item",
+        "text": "1 lime, juiced"
+      },
+      {
+        "type": "item",
+        "text": "½ cup Italian salad dressing"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon garlic salt"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In a large bowl, combine the black beans, corn, green onions, jalapeno peppers, bell pepper, avocado, pimentos, tomatoes, cilantro, lime juice, and Italian dressing. Season with garlic salt. Toss, and chill until serving."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/black-bean-salad-1.jpg",
+        "alt": "Black Bean Salad"
+      }
+    ],
+    "published": "2017-02-23T21:32:31Z",
+    "modified": "2017-02-23T21:32:57Z",
+    "source": {
+      "wpId": 219,
+      "url": "https://www.khoza.com/recipes/black-bean-salad/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-220\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/726345.jpg\" alt=\"\" width=\"250\" height=\"250\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/726345.jpg 250w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/726345-150x150.jpg 150w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/726345-50x50.jpg 50w\" sizes=\"auto, (max-width: 250px) 100vw, 250px\" /><br />\n<div id=\"easyrecipe-219-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Black Bean Salad</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/726345.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/219-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 (15 ounce) can black beans, rinsed and drained</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 (15 ounce) cans whole kernel corn, drained</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 green onions, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 jalapeno peppers, seeded and minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 green bell pepper, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 avocado - peeled, pitted, and diced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 (4 ounce) jar pimentos</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 tomatoes, seeded and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup chopped fresh cilantro</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 lime, juiced</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup Italian salad dressing</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon garlic salt</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, combine the black beans, corn, green onions, jalapeno peppers, bell pepper, avocado, pimentos, tomatoes, cilantro, lime juice, and Italian dressing. Season with garlic salt. Toss, and chill until serving.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "riesling-gravy",
+    "slug": "riesling-gravy",
+    "title": "Riesling Gravy",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Cup(s) dry riesling"
+      },
+      {
+        "type": "item",
+        "text": "4½ Cup(s) giblet stock"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Remove vegetables from roasting pan and discard. Pour pan juices into a glass measuring cup or gravy separator, and let stand until separated, 10 minutes. Pour off fat."
+      },
+      {
+        "type": "step",
+        "text": "Place roasting pan over 2 burners on medium heat. Add wine, and simmer, stirring and scraping pan constantly for 2 minutes. Add the reserved juices and 4 cups stock, and bring to simmer."
+      },
+      {
+        "type": "step",
+        "text": "Meanwhile, whisk together remaining ½ cups stock and the flour in a bowl until smooth. Whisking constantly, slowly add flour mixture to pan. Simmer until gravy is reduced by half and coats the back of a spoon, 10 to 12 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Remove from heat, add butter, and swirl pan until it has melted. Pour through a fine sieve, discarding solids. Serve immediately or keep warm over low heat. (Gravy can be refrigerated in an airtight container for up to 1 week.)"
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:23:43Z",
+    "modified": "2017-02-24T01:23:43Z",
+    "source": {
+      "wpId": 357,
+      "url": "https://www.khoza.com/recipes/riesling-gravy/",
+      "html": "<p><div id=\"easyrecipe-357-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Riesling Gravy</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/357-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) dry riesling</li> <li class=\"ingredient\" itemprop=\"ingredients\">4&frac12; Cup(s) giblet stock</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove vegetables from roasting pan and discard. Pour pan juices into a glass measuring cup or gravy separator, and let stand until separated, 10 minutes. Pour off fat.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place roasting pan over 2 burners on medium heat. Add wine, and simmer, stirring and scraping pan constantly for 2 minutes. Add the reserved juices and 4 cups stock, and bring to simmer.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Meanwhile, whisk together remaining &frac12; cups stock and the flour in a bowl until smooth. Whisking constantly, slowly add flour mixture to pan. Simmer until gravy is reduced by half and coats the back of a spoon, 10 to 12 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove from heat, add butter, and swirl pan until it has melted. Pour through a fine sieve, discarding solids. Serve immediately or keep warm over low heat. (Gravy can be refrigerated in an airtight container for up to 1 week.)</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

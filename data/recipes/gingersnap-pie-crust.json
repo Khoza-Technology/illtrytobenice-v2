@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "gingersnap-pie-crust",
+    "slug": "gingersnap-pie-crust",
+    "title": "Gingersnap Pie Crust",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "12 Ounce(s) Gluten-Free Gingersnaps"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) butter, melted"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees."
+      },
+      {
+        "type": "step",
+        "text": "Pulse gingersnaps and sugar in a food processor. Add butter and pulse to combine. Press mixture evenly into bottom and sides of a 9-inch pie dish. Freeze until firm, about 30 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Bake crust until golden in spots, about 15 minutes. With the bottom of a measuring cup, gently flatten bottom and sides of crust. Let cool completely on a wire rack."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:26:45Z",
+    "modified": "2017-02-23T23:26:45Z",
+    "source": {
+      "wpId": 308,
+      "url": "https://www.khoza.com/recipes/gingersnap-pie-crust/",
+      "html": "<p><div id=\"easyrecipe-308-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Gingersnap Pie Crust</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/308-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">12 Ounce(s) Gluten-Free Gingersnaps</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) butter, melted</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pulse gingersnaps and sugar in a food processor. Add butter and pulse to combine. Press mixture evenly into bottom and sides of a 9-inch pie dish. Freeze until firm, about 30 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake crust until golden in spots, about 15 minutes. With the bottom of a measuring cup, gently flatten bottom and sides of crust. Let cool completely on a wire rack.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

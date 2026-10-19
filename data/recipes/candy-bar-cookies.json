@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "candy-bar-cookies",
+    "slug": "candy-bar-cookies",
+    "title": "Candy Bar Cookies",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 yellow cake mix"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) light brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "8 Tablespoon(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) chopped candy bar, snickers, butterfinger, whatever"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350."
+      },
+      {
+        "type": "step",
+        "text": "Mix cake mix, brown sugar, butter, and eggs at medium speed for 2 minutes or so until light and fluffy."
+      },
+      {
+        "type": "step",
+        "text": "Spoon in candy bar."
+      },
+      {
+        "type": "step",
+        "text": "Pour in greased 9x13 pan and cook for 40 to 45 minutes. Let cool. Cut and serve."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:00:27Z",
+    "modified": "2017-02-23T23:00:27Z",
+    "source": {
+      "wpId": 269,
+      "url": "https://www.khoza.com/recipes/candy-bar-cookies/",
+      "html": "<p><div id=\"easyrecipe-269-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Candy Bar Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/269-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 yellow cake mix</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) light brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Tablespoon(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) chopped candy bar, snickers, butterfinger, whatever</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix cake mix, brown sugar, butter, and eggs at medium speed for 2 minutes or so until light and fluffy.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spoon in candy bar.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour in greased 9x13 pan and cook for 40 to 45 minutes. Let cool. Cut and serve.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

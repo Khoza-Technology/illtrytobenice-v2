@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "buttermilk-waffles",
+    "slug": "buttermilk-waffles",
+    "title": "Buttermilk Waffles",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) light brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) baking soda"
+      },
+      {
+        "type": "item",
+        "text": "1½ Teaspoon(s) baking powder"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "3 eggs, separated"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) buttermilk"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) vanilla"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Beat the egg whites until stiff but not dry. Combine dry ingredients in a large bowl. Whisk together egg yolks, buttermilk, butter, and vanilla in a medium bowl. Pour buttermilk mixture into dry ingredients and mix well. Fold whites into the batter. Bake in waffle iron."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:54:02Z",
+    "modified": "2017-02-23T22:54:02Z",
+    "source": {
+      "wpId": 261,
+      "url": "https://www.khoza.com/recipes/buttermilk-waffles/",
+      "html": "<p><div id=\"easyrecipe-261-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Buttermilk Waffles</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/261-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Breakfast</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) light brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Teaspoon(s) baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 eggs, separated</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) buttermilk</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) vanilla</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat the egg whites until stiff but not dry. Combine dry ingredients in a large bowl. Whisk together egg yolks, buttermilk, butter, and vanilla in a medium bowl. Pour buttermilk mixture into dry ingredients and mix well. Fold whites into the batter. Bake in waffle iron.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

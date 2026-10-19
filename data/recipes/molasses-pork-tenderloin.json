@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "molasses-pork-tenderloin",
+    "slug": "molasses-pork-tenderloin",
+    "title": "Molasses Pork Tenderloin",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¼ Cup(s) molasses"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) lemon juice"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) ground pepper"
+      },
+      {
+        "type": "item",
+        "text": "3 Pound(s) pork tenderloin"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) chicken broth"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oven to 450° F. In a small bowl, combine the molasses, brown sugar, lemon juice, salt, and pepper and mix well. Place the pork in a roasting pan and pour the molasses glaze over the tenderloins, turning to coat evenly."
+      },
+      {
+        "type": "step",
+        "text": "Place the pork in the oven and roast, turning after 10 minutes. Roast another 10 minutes o"
+      },
+      {
+        "type": "step",
+        "text": "r until the meat registers 160° F on an instant-read thermometer. Remove from the oven, cover with foil, and let rest 10 minutes. Pour the drippings from the roasting pan into a small saucepan. Add the chicken broth and bring to a boil over high heat. Reduce heat to medium and simmer until thickene"
+      },
+      {
+        "type": "step",
+        "text": "d, 3 to 5 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Slice 2 of the tenderloins and serve with the sauce."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:06:29Z",
+    "modified": "2017-02-24T01:06:29Z",
+    "source": {
+      "wpId": 337,
+      "url": "https://www.khoza.com/recipes/molasses-pork-tenderloin/",
+      "html": "<p><div id=\"easyrecipe-337-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Molasses Pork Tenderloin</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/337-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) lemon juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) ground pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Pound(s) pork tenderloin</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) chicken broth</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oven to 450° F. In a small bowl, combine the molasses, brown sugar, lemon juice, salt, and pepper and mix well. Place the pork in a roasting pan and pour the molasses glaze over the tenderloins, turning to coat evenly.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the pork in the oven and roast, turning after 10 minutes. Roast another 10 minutes o</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">r until the meat registers 160° F on an instant-read thermometer. Remove from the oven, cover with foil, and let rest 10 minutes. Pour the drippings from the roasting pan into a small saucepan. Add the chicken broth and bring to a boil over high heat. Reduce heat to medium and simmer until thickene</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">d, 3 to 5 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Slice 2 of the tenderloins and serve with the sauce.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

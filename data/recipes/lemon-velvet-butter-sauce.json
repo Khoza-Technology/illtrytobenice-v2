@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "lemon-velvet-butter-sauce",
+    "slug": "lemon-velvet-butter-sauce",
+    "title": "Lemon Velvet Butter Sauce",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) dry white wine"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) finely chopped shallots"
+      },
+      {
+        "type": "item",
+        "text": "4 Teaspoon(s) fresh lemon juice"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) heavy whipping cream"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, cut into 8 pieces"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine wine, shallots and lemon juice in 10-inch skillet. Cook over medium-high heat until mixture comes to a boil (5-7 minutes). Continue boiling until liquid almost evaporates (4-5 minutes)."
+      },
+      {
+        "type": "step",
+        "text": "Reduce heat to medium-low. Add flour; mix well. Slowly stir in cream with wire whisk until well mixed. Cook, stirring constantly, until mixture boils (1-2 minutes). Stir in butter until melted; season with salt and ground white pepper to taste."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:55:08Z",
+    "modified": "2017-02-24T00:55:08Z",
+    "source": {
+      "wpId": 321,
+      "url": "https://www.khoza.com/recipes/lemon-velvet-butter-sauce/",
+      "html": "<p><div id=\"easyrecipe-321-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Lemon Velvet Butter Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/321-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) dry white wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) finely chopped shallots</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Teaspoon(s) fresh lemon juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) heavy whipping cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, cut into 8 pieces</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine wine, shallots and lemon juice in 10-inch skillet. Cook over medium-high heat until mixture comes to a boil (5-7 minutes). Continue boiling until liquid almost evaporates (4-5 minutes).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Reduce heat to medium-low. Add flour; mix well. Slowly stir in cream with wire wisk until well mixed. Cook, stirring constantly, until mixture boils (1-2 minutes). Stir in butter until melted; season wit salt and ground white pepper to taste.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

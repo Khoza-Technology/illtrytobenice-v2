@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "peanut-butter-bars",
+    "slug": "peanut-butter-bars",
+    "title": "Peanut Butter Bars",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT25M",
+        "minutes": 25,
+        "label": "25 mins"
+      },
+      "cook": {
+        "iso": "PT1H",
+        "minutes": 60,
+        "label": "1 hour"
+      },
+      "total": {
+        "iso": "PT1H25M",
+        "minutes": 85,
+        "label": "1 hour 25 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 cup butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "2 cups graham cracker crumbs"
+      },
+      {
+        "type": "item",
+        "text": "2 cups confectioners' sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 cup peanut butter"
+      },
+      {
+        "type": "item",
+        "text": "1½ cups semisweet chocolate chips"
+      },
+      {
+        "type": "item",
+        "text": "4 tbsp peanut butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In a medium bowl, mix together the butter, graham cracker crumbs, confectioners' sugar, and 1 cup peanut butter until well blended. Press evenly into the bottom of an ungreased 9x13 pan."
+      },
+      {
+        "type": "step",
+        "text": "In a metal bowl over simmering water, or in the microwave, melt the chocolate chips with the peanut butter, stirring occasionally until smooth. Spread over the prepared crust. Refrigerate for at least one hour before cutting into square."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2018-02-05T19:39:43Z",
+    "modified": "2019-11-14T18:31:16Z",
+    "source": {
+      "wpId": 459,
+      "url": "https://www.khoza.com/recipes/peanut-butter-bars/",
+      "html": "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>\n<div id=\"easyrecipe-459-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Peanut Butter Bars</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/459-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT25M\">25 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT1H\">1 hour</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT1H25M\">1 hour 25 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">dessert</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups graham cracker crumbs</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups confectioners' sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup peanut butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; cups semisweet chocolate chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 tbsp peanut butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a medium bowl, mix together the butter, graham cracker crumbs, confectioners' sugar, and 1 cup peanut butter until well blended. Press evenly into the bottom of an ungreased 9x13 pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a metal bowl over simmering water, or in the microwave, melt the chocolate chips with the peanut butter, stirring occasionally until smooth. Spread over the prepared crust. Refrigerate for at least one hour before cutting into square.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3229</div> </div></p>\n<p> </p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "alices-wheat-bread",
+    "slug": "alices-wheat-bread",
+    "title": "Alice's Wheat Bread",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Cup(s) wheat germ"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) wheat bran"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) 7 or 10 grain cereal"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) unsulfured molasses"
+      },
+      {
+        "type": "item",
+        "text": "6 Tablespoon(s) honey"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) active dry yeast"
+      },
+      {
+        "type": "item",
+        "text": "8 Cup(s) water"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine yeast and warm water in a large bowl."
+      },
+      {
+        "type": "step",
+        "text": "Add wheat germ, bran, cereal, sugar, molasses, honey, salt, and oil."
+      },
+      {
+        "type": "step",
+        "text": "Add 2 cups of whole wheat flour and 1 cup of white flour at a time and mix. Keep adding flour in this ratio until the dough no longer sticks to your hands and when you poke with your finger, the dough bounces back."
+      },
+      {
+        "type": "step",
+        "text": "Knead until nice and smooth."
+      },
+      {
+        "type": "step",
+        "text": "Place dough in oiled bowl and turn the dough over. Cover with cloth and let rise until doubled (1½ hours)."
+      },
+      {
+        "type": "step",
+        "text": "Divide into 6 portions. Shape each into large rectangle. On the longer side, roll up. Fold ends under and place seam side down in greased loaf pans."
+      },
+      {
+        "type": "step",
+        "text": "Cover with cloth and let rise until doubled (1½ hours)."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 350. Bake for 30 minutes, rotating halfway."
+      },
+      {
+        "type": "step",
+        "text": "Let cool and wrap in bread bags. Freeze. Reheat at 300 for 20-25 minutes in foil if necessary."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/alices-wheat-bread-1.jpg",
+        "alt": "Alice's Wheat Bread"
+      }
+    ],
+    "published": "2017-02-20T17:37:08Z",
+    "modified": "2017-02-20T17:38:17Z",
+    "source": {
+      "wpId": 163,
+      "url": "https://www.khoza.com/recipes/alices-wheat-bread/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-165\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-300x200.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-768x512.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-1024x683.jpg 1024w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-1080x720.jpg 1080w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-163-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Alice's Wheat Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/wheatbread-300x200.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/163-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) wheat germ</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) wheat bran</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) 7 or 10 grain cereal</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) unsulfured molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Tablespoon(s) honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) active dry yeast</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Cup(s) water</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine yeast and warm water in a large bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add wheat germ, bran, cereal, sugar, molasses, honey, salt, and oil.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 2 cups of whole wheat flour and 1 cup of white flour at a time and mix. Keep adding flour in this ratio until the dough no longer sticks to your hands and when you poke with your finger, the dough bounces back.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Knead until nice and smooth.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place dough in oiled bowl and turn the dough over. Cover with cloth and let rise until doubled (1&frac12; hours).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divide into 6 portions. Shape each into large rectangle. On the longer side, roll up. Fold ends under and place seam side down in greased loaf pans.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover with cloth and let rise until doubled (1&frac12; hours).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350. Bake for 30 minutes, rotating halfway.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let cool and wrap in bread bags. Freeze. Reheat at 300 for 20-25 minutes in foil if necessary.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

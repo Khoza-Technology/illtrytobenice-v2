@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "dr-pepper-shredded-pork",
+    "slug": "dr-pepper-shredded-pork",
+    "title": "Dr. Pepper Shredded Pork",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Pork Shoulder"
+      },
+      {
+        "type": "item",
+        "text": "1 yellow onion"
+      },
+      {
+        "type": "item",
+        "text": "11 Ounce(s) Chipotle Peppers in Adobo Sauce"
+      },
+      {
+        "type": "item",
+        "text": "2 Can(s) Dr. Pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) brown sugar"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 300 degrees."
+      },
+      {
+        "type": "step",
+        "text": "Generously salt and pepper pork and set in dutch oven. Cut onion into wedges and place in pan."
+      },
+      {
+        "type": "step",
+        "text": "Pour in can of chipotle peppers over pork. Pour in both cans of Dr. Pepper. Add brown sugar and stir in."
+      },
+      {
+        "type": "step",
+        "text": "Cook 5 to 6 hours."
+      },
+      {
+        "type": "step",
+        "text": "Shred meat and strain fat off liquid. Serve over tortillas with tomatoes, cilantro, shredded cheese."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/dr-pepper-shredded-pork-1.jpg",
+        "alt": "Dr. Pepper Shredded Pork"
+      }
+    ],
+    "published": "2017-02-18T00:49:43Z",
+    "modified": "2017-02-20T17:26:52Z",
+    "source": {
+      "wpId": 121,
+      "url": "https://www.khoza.com/recipes/dr-pepper-shredded-pork/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-123\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/2304345.jpg\" alt=\"\" width=\"250\" height=\"250\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/2304345.jpg 250w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/2304345-150x150.jpg 150w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/2304345-50x50.jpg 50w\" sizes=\"auto, (max-width: 250px) 100vw, 250px\" /><br />\n<div id=\"easyrecipe-121-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Dr. Pepper Shredded Pork</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/2304345.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/121-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pork Shoulder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 yellow onion</li> <li class=\"ingredient\" itemprop=\"ingredients\">11 Ounce(s) Chipotle Peppers in Adobo Sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Can(s) Dr. Pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) brown sugar</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 300 degrees.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Generously salt and pepper pork and set in dutch oven. Cut onion into wedges and place in pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour in can of chipotle peppers over pork. Pour in both cans of Dr. Pepper. Add brown sugar and stir in.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cook 5 to 6 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Shred meat and strain fat off liquid. Serve over tortillas with tomatoes, cilantro, shredded cheese.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

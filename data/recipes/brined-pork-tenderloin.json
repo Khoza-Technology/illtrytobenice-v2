@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "brined-pork-tenderloin",
+    "slug": "brined-pork-tenderloin",
+    "title": "Brined Pork Tenderloin",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "½ cup salt"
+      },
+      {
+        "type": "item",
+        "text": "1 capful whole peppercorns (3 tablespoons)"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup thyme"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup rosemary"
+      },
+      {
+        "type": "item",
+        "text": "12 bay leaves"
+      },
+      {
+        "type": "item",
+        "text": "½ cup honey"
+      },
+      {
+        "type": "item",
+        "text": "1 pork tenderloin"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Add the dry ingredients and honey into a medium pot and fill pot half way full with water."
+      },
+      {
+        "type": "step",
+        "text": "Stir until salt and honey are dissolved."
+      },
+      {
+        "type": "step",
+        "text": "Place pork tenderloin into pot and brine for 2 hours."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 425 degrees Fahrenheit."
+      },
+      {
+        "type": "step",
+        "text": "Heat vegetable oil in an oven-proof skillet over high heat. Cook pork, turning to brown each side, about 10 minutes total."
+      },
+      {
+        "type": "step",
+        "text": "Transfer skillet to oven and roast until pork is browned and has reached 135 degrees Fahrenheit, about 20 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Let pork rest for ten minutes."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-03-04T00:04:31Z",
+    "modified": "2017-03-23T21:36:04Z",
+    "source": {
+      "wpId": 385,
+      "url": "https://www.khoza.com/recipes/brined-pork-tenderloin/",
+      "html": "<p><div id=\"easyrecipe-385-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Brined Pork Tenderloin</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/385-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 capful whole peppercorns (3 tablespoons)</li> <li class=\"ingredient\" itemprop=\"ingredients\">¼ cup thyme</li> <li class=\"ingredient\" itemprop=\"ingredients\">¼ cup rosemary</li> <li class=\"ingredient\" itemprop=\"ingredients\">12 bay leaves</li> <li class=\"ingredient\" itemprop=\"ingredients\">½ cup honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 pork tenderloin</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the dry ingredients and honey into a medium pot and fill pot half way full with water.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Stir until salt and honey are dissolved.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place pork tenderloin into pot and brine for 2 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 425 degrees Fahrenheit.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat vegetable oil in an oven-proof skillet over high heat. Cook pork, turning to brown each side, about 10 minutes total.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Transfer skillet to oven and roast until pork is browned and has reached 135 degrees Fahrenheit, about 20 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let pork rest for ten minutes.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

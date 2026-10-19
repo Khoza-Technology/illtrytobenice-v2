@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "fajita-casserole",
+    "slug": "fajita-casserole",
+    "title": "Fajita Casserole",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 chicken breast"
+      },
+      {
+        "type": "item",
+        "text": "1 diced onion"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) minced garlic"
+      },
+      {
+        "type": "item",
+        "text": "1 red pepper, seeded and chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1 lawrys fajita seasoning"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) pace salsa"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) Olives sliced"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) frozen corn"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) grated cheddar cheese"
+      },
+      {
+        "type": "item",
+        "text": "1 Package(s) penne pasta, cooked al dente"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) black beans"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Prepare pasta al dente."
+      },
+      {
+        "type": "step",
+        "text": "Slice chicken. Add 2 tablespoons oil to a large skillet. When hot, add chicken, onion, pepper, garlic. Season with salt and pepper."
+      },
+      {
+        "type": "step",
+        "text": "Add one fajita spice packet (Lawrys), along with water according to pkg instructions."
+      },
+      {
+        "type": "step",
+        "text": "Add one jar pace salsa."
+      },
+      {
+        "type": "step",
+        "text": "Mix all together."
+      },
+      {
+        "type": "step",
+        "text": "Add all to one prepared pkg of pasta."
+      },
+      {
+        "type": "step",
+        "text": "Add one can whole olives- sliced"
+      },
+      {
+        "type": "step",
+        "text": "Add one can blk beans"
+      },
+      {
+        "type": "step",
+        "text": "One can corn or 2 cups frozen corn"
+      },
+      {
+        "type": "step",
+        "text": "cups grated sharp cheddar"
+      },
+      {
+        "type": "step",
+        "text": "Stir all til combined."
+      },
+      {
+        "type": "step",
+        "text": "Spread into casserole."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 375 until heated through and crunchy around the edges."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/fajita-casserole-1.jpg",
+        "alt": "Fajita Casserole"
+      }
+    ],
+    "published": "2017-02-20T17:20:49Z",
+    "modified": "2017-02-20T17:26:42Z",
+    "source": {
+      "wpId": 126,
+      "url": "https://www.khoza.com/recipes/fajita-casserole/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-127\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/6777771_f520-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/6777771_f520-300x225.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/6777771_f520-510x382.jpg 510w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/6777771_f520.jpg 520w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-126-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Fajita Casserole</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/6777771_f520-300x225.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/126-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 chicken breast</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 diced onion</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) minced garlic</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red pepper, seeded and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 lawrys fajita seasoning</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) pace salsa</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) Olives sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) frozen corn</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) grated cheddar cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Package(s) penne pasta, cooked al dente</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) black beans</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Prepare pasta al dente.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Slice chicken. Add 2 tablespoons oil to a large skillet. When hot, add chicken, onion, pepper, garlic. Season with salt and pepper.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add one fajita spice packet (Lawrys), along with water according to pkg instructions.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add one jar pace salsa.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix all together.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add all to one prepared pkg of pasta.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add one can whole olives- sliced</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add one can blk beans</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">One can corn or 2 cups frozen corn</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">cups grated sharp cheddar</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Stir all til combined.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spread into casserole.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 375 until heated through and crunchy around the edges.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

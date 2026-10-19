@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "olivias-cinnamon-rolls",
+    "slug": "olivias-cinnamon-rolls",
+    "title": "Olivia's Cinnamon Rolls",
+    "summary": null,
+    "contributor": "olivia",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "12 Tablespoon(s) butter, divided"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "2½ Teaspoon(s) active dry yeast"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) sugar, divided"
+      },
+      {
+        "type": "item",
+        "text": "1 egg yolks"
+      },
+      {
+        "type": "item",
+        "text": "1½ Teaspoon(s) pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "2¾ Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "¾ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground nutmeg"
+      },
+      {
+        "type": "item",
+        "text": "8 Tablespoon(s) butter, room temp"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) ground cinnamon"
+      },
+      {
+        "type": "heading",
+        "text": "Frosting"
+      },
+      {
+        "type": "item",
+        "text": "3 Ounce(s) cream cheese"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup softened butter"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) powdered sugar"
+      },
+      {
+        "type": "item",
+        "text": "⅛ tsp vanilla"
+      },
+      {
+        "type": "item",
+        "text": "⅛ tsp salt"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Melt 4 tablespoons butter in pan. Add 1 cup milk and warm to 110 degrees. Sprinkle 2½ tsp yeast and ¼ tsp sugar over liquid. Set aside until foamy (5 minutes). Add 1 egg yolk and 1½ tsp vanilla."
+      },
+      {
+        "type": "step",
+        "text": "Whisk together 2¾ cup flour, ¼ cup sugar, ¾ tsp salt, ½ tsp nutmeg. Make well in center, add liquid mixture. Mix on low then medium for 6 minutes. Remove dough. Shape into ball. Butter bowl, turning dough to coat with butter. Cover and let rise 75 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Roll dough into 12 x 14 rectangle. Spread 8 tablespoons softened butter, leaving a ½\" border on far, long edge."
+      },
+      {
+        "type": "step",
+        "text": "Mix ½ cup sugar and 3 tablespoons cinnamon. Sprinkle over dough. Brush unbuttered edge with water. Roll into tight cylinder. Cut into six equal sized buns. Place into buttered 9 x 13 baking pan."
+      },
+      {
+        "type": "step",
+        "text": "Freeze here!"
+      },
+      {
+        "type": "step",
+        "text": "Remove from freezer before going to bed, the night before you intend to bake them. If it is too warm, place in refrigerator. Rolls should double in size before baking. Bake at 325 for 35 minutes. Cool 10 minutes. Frost, serve."
+      },
+      {
+        "type": "step",
+        "text": "Frosting: beat together cream cheese, butter, confectioner's sugar, vanilla, and salt."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:08:00Z",
+    "modified": "2024-12-30T21:26:09Z",
+    "source": {
+      "wpId": 286,
+      "url": "https://www.khoza.com/recipes/olivias-cinnamon-rolls/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-286-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Olivia's Cinnamon Rolls</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/286-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Olivia House</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Breakfast</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">12 Tablespoon(s) butter, divided</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac12; Teaspoon(s) active dry yeast</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) sugar, divided</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg yolks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Teaspoon(s) pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac34; Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground nutmeg</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Tablespoon(s) butter, room temp</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) ground cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">Frosting:</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Ounce(s) cream cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup softened butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) powdered sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; tsp vanilla</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; tsp salt</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Melt 4 tablespoons butter in pan. Add 1 cup milk and warm to 110 degrees. Sprinkle 2&frac12; tsp yeast and &frac14; tsp sugar over liquid. Set aside until foamy (5 minutes). Add 1 egg yolk and 1&frac12; tsp vanilla.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Whisk together 2&frac34; cup flour, &frac14; cup sugar, &frac34; tsp salt, &frac12; tsp nutmeg. Make well in center, add liquid mixture. Mix on low then medium for 6 minutes. Remove dough. Shape into ball. Butter bowl, turning dough to coat with butter. Cover and let rise 75 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Roll dough into 12 x 14 rectangle. Spread 8 tablespoons softened butter, leaving a &frac12;\" border on far, long edge.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix &frac12; cup sugar and 3 tablespoons cinnamon. Sprinkle over dough. Brush unbuttered edge with water. Roll into tight cylinder. Cut into six equal sized buns. Place into buttered 9 x 13 baking pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Freeze here!</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove from freezer before going to bed, the night before you intend to bake them. If it is too warm, place in refrigerator. Rolls should double in size before baking. Bake at 325 for 35 minutes. Cool 10 minutes. Frost, serve.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Frosting: beat together cream cheese, butter, confectioner's sugar, vanilla, and salt.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

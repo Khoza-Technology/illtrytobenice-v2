@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "pork-gyros",
+    "slug": "pork-gyros",
+    "title": "Pork Gyros",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "Greek",
+    "times": {
+      "prep": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "cook": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT40M",
+        "minutes": 40,
+        "label": "40 mins"
+      }
+    },
+    "servings": {
+      "label": "6 to 8",
+      "count": 6
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 pork tenderloin"
+      },
+      {
+        "type": "item",
+        "text": "1 red onion, thinly sliced"
+      },
+      {
+        "type": "item",
+        "text": "6 sprigs rosemary, finely chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 tbsp dried oregano"
+      },
+      {
+        "type": "item",
+        "text": "4 cloves garlic, thinly sliced"
+      },
+      {
+        "type": "item",
+        "text": "4 tbsp white wine vinegar"
+      },
+      {
+        "type": "item",
+        "text": "5 tbsp olive oil"
+      },
+      {
+        "type": "item",
+        "text": "½ tsp salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ tsp pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 tsp honey"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Remove white membrane covering the pork."
+      },
+      {
+        "type": "step",
+        "text": "Cut meat on the diagonal into .5 cm slices. Place slices in a medium bowl."
+      },
+      {
+        "type": "step",
+        "text": "Add rest of ingredients to the bowl and mix well."
+      },
+      {
+        "type": "step",
+        "text": "Cover with plastic wrap, refrigerate 6 hours or overnight."
+      },
+      {
+        "type": "step",
+        "text": "Heat pan over high heat. Add 2 tbsp olive oil and just enough meat to cover the bottom of the pan. Brown on both sides."
+      },
+      {
+        "type": "step",
+        "text": "Add 1 tbsp white wine vinegar and stir. Once the vinegar has evaporated, transfer meat to a bowl."
+      },
+      {
+        "type": "step",
+        "text": "Continue to cook the rest of the meat, adding 2 tbsp oil at the start and 1 tbsp vinegar at the end of each batch."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-08-17T18:30:03Z",
+    "modified": "2017-08-18T19:29:14Z",
+    "source": {
+      "wpId": 421,
+      "url": "https://www.khoza.com/recipes/421-2/",
+      "html": "<p><div id=\"easyrecipe-421-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Pork Gyros</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/421-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT40M\">40 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Greek</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">6 to 8</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 pork tenderloin</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red onion, thinly sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 sprigs rosemary, finely chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tbsp dried oregano</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 cloves garlic, thinly sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 tbsp white wine vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 tbsp olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; tsp salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; tsp pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tsp honey</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove white membrane covering the pork.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut meat on the diagonal into .5 cm slices. Place slices in a medium bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add rest of ingredients to the bowl and mix well.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover with plastic wrap, refrigerate 6 hours or overnight.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat pan over high heat. Add 2 tbsp olive oil and just enough meat to cover the bottom of the pan. Brown on both sides.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 1 tbsp white wine vinegar and stir. Once the vinegar has evaporated, transfer meat to a bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Continue to cook the rest of the meat, adding 2 tbsp oil at the start and 1 tbsp vinegar at the end of each batch.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

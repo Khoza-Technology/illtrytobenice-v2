@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "hamburgers",
+    "slug": "hamburgers",
+    "title": "Hamburgers",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Pound(s) ground beef"
+      },
+      {
+        "type": "item",
+        "text": "1 egg"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) bread crumbs"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) worcestershire sauce"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) cayenne pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 Clove(s) garlic pressed with knife and minced"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix all ingredients in a large bowl and form into 8 patties. Grill on direct high heat for 5 minutes per side."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/hamburgers-1.jpg",
+        "alt": "Hamburgers"
+      }
+    ],
+    "published": "2017-02-20T17:24:08Z",
+    "modified": "2017-02-20T17:26:20Z",
+    "source": {
+      "wpId": 132,
+      "url": "https://www.khoza.com/recipes/hamburgers/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-133\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/burger_works_386x311-300x242.jpg\" alt=\"\" width=\"300\" height=\"242\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/burger_works_386x311-300x242.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/burger_works_386x311.jpg 386w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-132-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Hamburgers</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/burger_works_386x311-300x242.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/132-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Pound(s) ground beef</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) bread crumbs</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) worcestershire sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) cayenne pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Clove(s) garlic pressed with knife and minced</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix all ingredients in a large bowl and form into 8 patties. Grill on direct high heat for 5 minutes per side.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "roast",
+    "slug": "roast",
+    "title": "Roast",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 potatoes"
+      },
+      {
+        "type": "item",
+        "text": "4 carrots-skin peeled and chopped into big 3 inch chunks"
+      },
+      {
+        "type": "item",
+        "text": "1 beef chuck roast (bone or boneless is fine)"
+      },
+      {
+        "type": "item",
+        "text": "2 white onion-peeled and cut into rings"
+      },
+      {
+        "type": "item",
+        "text": "1 lipton's dry onion soup"
+      },
+      {
+        "type": "item",
+        "text": "8 Clove(s) garlic, minced"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) adolf's meat tenderizer with seasoning"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Rub chuck roast with olive oil on both sides (this seals in the juices). Cover with meat tenderizer on both sides and poke roast with fork to work the oil and tenderizer in the roast. Rub roast with garlic on both sides."
+      },
+      {
+        "type": "step",
+        "text": "Place roast in roasting pan (pan needs to have a lid that covers tightly). Place potatoes in next, followed by carrots and then onions. Sprinkle onion soup mix over the top and fill with 2 inches of water."
+      },
+      {
+        "type": "step",
+        "text": "Cook at 300 degrees for 5 hours."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:25:30Z",
+    "modified": "2017-02-24T01:25:30Z",
+    "source": {
+      "wpId": 361,
+      "url": "https://www.khoza.com/recipes/roast/",
+      "html": "<p><div id=\"easyrecipe-361-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Roast</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/361-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 potatoes</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 carrots-skin peeled and chopped into big 3 inch chunks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 beef chuck roast (bone or boneless is fine)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 white onion-peeled and cut into rings</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 lipton's dry onion soup</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Clove(s) garlic, minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) adolf's meat tenderizer with seasoning</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Rub chuck roast with olive oil on both sides (this seals in the juices). Cover with meat tenderizer on both sides and poke roast with fork to work the oil and tenderizer in the roast. Rub roast with garlic on both sides.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place roast in roasting pan (pan needs to have a lid that covers tightly). Place potatoes in next, followed by carrots and then onions. Sprinkle onion soup mix over the top and fill with 2 inches of water.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cook at 300 degrees for 5 hours.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

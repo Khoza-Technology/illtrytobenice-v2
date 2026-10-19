@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "chicken-pot-pie",
+    "slug": "chicken-pot-pie",
+    "title": "Chicken Pot Pie",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Cup(s) Chicken, chopped and cooked"
+      },
+      {
+        "type": "item",
+        "text": "10 Ounce(s) Frozen mixed vegetables"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) corn starch"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground sage"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) ground black pepper"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) chicken broth"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Prepare pie crust."
+      },
+      {
+        "type": "step",
+        "text": "Saute vegetables until al dente in butter. Add chicken, corn starch, salt, sage and pepper. While on medium high heat, add chicken broth, stirring constantly until thickened. If you need to add more corn starch, in a separate bowl, mix corn starch with a little water. Then add this mixture to the chicken/vegetable mixture. Add milk. Stir until combined. Pour into individual foil pans."
+      },
+      {
+        "type": "step",
+        "text": "Top with pie crust. Cover with foil and freeze."
+      },
+      {
+        "type": "step",
+        "text": "To cook: remove from freezer, place pans uncovered on rimmed baking sheet. Cook at 400 for 1 hour."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/chicken-pot-pie-1.jpg",
+        "alt": "Chicken Pot Pie"
+      }
+    ],
+    "published": "2017-02-17T23:47:48Z",
+    "modified": "2017-02-20T17:27:05Z",
+    "source": {
+      "wpId": 112,
+      "url": "https://www.khoza.com/recipes/chicken-pot-pie/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-113\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/b5a2330a-b68e-45ac-b766-c6ad607e6150-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/b5a2330a-b68e-45ac-b766-c6ad607e6150-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/b5a2330a-b68e-45ac-b766-c6ad607e6150-768x432.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/b5a2330a-b68e-45ac-b766-c6ad607e6150.jpg 1000w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-112-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Chicken Pot Pie</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/b5a2330a-b68e-45ac-b766-c6ad607e6150-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/112-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) Chicken, chopped and cooked</li> <li class=\"ingredient\" itemprop=\"ingredients\">10 Ounce(s) Frozen mixed vegetables</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) corn starch</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground sage</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) ground black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) chicken broth</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Prepare pie crust.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Saute vegetables until al dente in butter. Add chicken, corn starch, salt, sage and pepper. While on medium high heat, add chicken broth, stirring constantly until thickened. If you need to add more corn starch, in a separate bowl, mix corn starch with a little water. Then add this mixture to the chicken/vegetable mixture. Add milk. Stir until combined. Pour into individual foil pans.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Top with pie crust. Cover with foil and freeze.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">To cook: remove from freezer, place pans uncovered on rimmed baking sheet. Cook at 400 for 1 hour.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

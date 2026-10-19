@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "macarons",
+    "slug": "macarons",
+    "title": "Macarons",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1⅓ cup sliced blanched almonds or almond flour (142 grams)"
+      },
+      {
+        "type": "item",
+        "text": "2 cup confectioners' sugar (234 grams)"
+      },
+      {
+        "type": "item",
+        "text": "4 large egg whites, room temperature"
+      },
+      {
+        "type": "item",
+        "text": "½ cup granulated sugar (106 grams)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees with rack in lower third. Place almonds in a food processor; process until as fine as possible, about 1 minute. Add confectioners' sugar; process until combined, about 1 minute."
+      },
+      {
+        "type": "step",
+        "text": "Pass almond mixture through a fine-mesh sieve. Transfer solids in sieve to food processor; grind and sift again, pressing down on clumps. Repeat until less than 2 tablespoons of solids remains in sieve."
+      },
+      {
+        "type": "step",
+        "text": "Whisk egg whites and granulated sugar by hand to combine. Beat on medium speed (4 on a KitchenAid) 2 minutes. Increase speed to medium-high (6) and beat 2 minutes. Then beat on high (8) 2 minutes more until egg white hold stiff, glossy peaks when you lift the whisk out of the bowl. Add flavoring and food coloring, if desired, and beat on highest speed 30 seconds."
+      },
+      {
+        "type": "step",
+        "text": "Add dry ingredients all at once. Fold with a spatula from bottom of bowl upward, then press flat side of spatula firmly through middle of mixture. Repeat just until batter flows like lava, 37 complete strokes."
+      },
+      {
+        "type": "step",
+        "text": "Rest a pastry bag fitted with a ⅜-inch round tip (Ateco #804) inside a glass. Transfer batter to bag; secure top. Dab some batter remaining in bowl onto corners of 2 heavy baking sheets; line with parchment."
+      },
+      {
+        "type": "step",
+        "text": "With piping tip ½ inch above sheet, pipe batter into a ¾-inch round, then swirl tip off to one side. Repeat, spacing rounds 1 inch apart. Tap sheets firmly against counter 2 or 3 times to release air bubbles."
+      },
+      {
+        "type": "step",
+        "text": "Let rest at room temperature until tops dry out. About 1 hour."
+      },
+      {
+        "type": "step",
+        "text": "Bake 1 sheet at a time, rotating halfway through, until risen and just set, 10 minutes. Let cool. Pipe or spread filling on flat sides of half of cookies; top with remaining half. Wrap in plastic and refrigerate."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-09-01T23:55:40Z",
+    "modified": "2017-09-01T23:55:40Z",
+    "source": {
+      "wpId": 438,
+      "url": "https://www.khoza.com/recipes/macarons/",
+      "html": "<p><div id=\"easyrecipe-438-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Macarons</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/438-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&#8531; cup sliced blanched almonds or almond flour (142 grams)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cup confectioners' sugar (234 grams)</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 large egg whites, room temperature</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup granulated sugar (106 grams)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees with rack in lower third. Place almonds in a food processor; process until as fine as possible, about 1 minute. Add confectioners' sugar; process until combined, about 1 minute.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pass almond mixture through a fine-mesh sieve. Transfer solids in sieve to food processor; grind and sift again, pressing down on clumps. Repeat until less than 2 tablespoons of solids remains in sieve.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Whisk egg whites and granulated sugar by hand to combine. Beat on medium speed (4 on a KitchenAid) 2 minutes. Increase speed to medium-high (6) and beat 2 minutes. Then beat on high (8) 2 minutes more until egg white hold stiff, glossy peaks when you lift the whisk out of the bowl. Add flavoring and food coloring, if desired, and beat on highest speed 30 seconds.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add dry ingredients all at once. Fold with a spatula from bottom of bowl upward, then press flat side of spatula firmly through middle of mixture. Repeat just until batter flows like lava, 37 complete strokes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Rest a pastry bag fitted with a &#8540;-inch round tip (Ateco #804) inside a glass. Transfer batter to bag; secure top. Dab some batter remaining in bowl onto corners of 2 heavy baking sheets; line with parchment.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">With piping tip &frac12; inch above sheet, pipe batter into a &frac34;-inch round, then swirl tip off to one side. Repeat, spacing rounds 1 inch apart. Tap sheets firmly against counter 2 or 3 times to release air bubbles.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let rest at room temperature until tops dry out. About 1 hour.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake 1 sheet at a time, rotating halfway through, until risen and just set, 10 minutes. Let cool. Pipe or spread filling on flat sides of half of cookies; top with remaining half. Wrap in plastic and refrigerate.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3228</div> </div><br />\n </p>\n"
+    }
+  }
+}

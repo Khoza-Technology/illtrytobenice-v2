@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "beef-bourguignon-2",
+    "slug": "beef-bourguignon-2",
+    "title": "Beef Bourguignon",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 Ounce(s) cut into 1\" chunks bacon"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "3 Pound(s) beef stew meat"
+      },
+      {
+        "type": "item",
+        "text": "1 carrot, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 white onion, thinly sliced"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) red wine"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) beef stock"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) tomato paste"
+      },
+      {
+        "type": "item",
+        "text": "2 Clove(s) garlic, minced"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) chopped fresh thyme or, ¼ teaspoon crumbled, dried thyme"
+      },
+      {
+        "type": "item",
+        "text": "1 bay leaves"
+      },
+      {
+        "type": "item",
+        "text": "24 pearl onions"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) button mushrooms, trimmed and quartered"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Simmer bacon in 1½ quarts of water for 10 minutes. Drain and dry."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 450 degrees."
+      },
+      {
+        "type": "step",
+        "text": "Saute bacon in 1 T. oil over moderate heat to brown lightly. Remove bacon with a slotted spoon and set aside in a dutch oven."
+      },
+      {
+        "type": "step",
+        "text": "Dry the beef in paper towels."
+      },
+      {
+        "type": "step",
+        "text": "Add 1 T. oil to bacon grease and brown beef and add to dutch oven."
+      },
+      {
+        "type": "step",
+        "text": "In same fat, brown carrot and onions and add to dutch oven."
+      },
+      {
+        "type": "step",
+        "text": "Add 1 tsp. salt, ¼ tsp. pepper and 2 T. flour to dutch oven and toss."
+      },
+      {
+        "type": "step",
+        "text": "Set in oven for 4 minutes. Toss meat again and return to oven for 4 more minutes. Lower oven to 325 degrees."
+      },
+      {
+        "type": "step",
+        "text": "Stir in 3 cups wine and enough beef stock so that meat is barely covered. Add tomato paste, garlic, herbs. Bring to simmer on top of the stove."
+      },
+      {
+        "type": "step",
+        "text": "Cover and set in lower ⅓ of oven and simmer for 3 hours or until beef is tender."
+      },
+      {
+        "type": "step",
+        "text": "While beef is cooking, add 1½ T. butter and 1½ T. oil to skillet over moderate heat. When it is bubbling, add pearl onions and saute for 10 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Pour in ½ cup beef stock and season to taste with salt and pepper. Cover and simmer for 40 to 50 minutes. Liquid should have evaporated."
+      },
+      {
+        "type": "step",
+        "text": "Place another skillet over high heat with 2 T. butter and 1 T. oil. As soon as butter foam has begun to form, add mushrooms. Toss and shake pan for 4 to 5 minutes. As soon as they have browned lightly, remove from heat. Season to taste with salt and pepper."
+      },
+      {
+        "type": "step",
+        "text": "Add pearl onions and mushrooms to beef and serve over boiled potatoes."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:46:32Z",
+    "modified": "2017-02-23T22:46:32Z",
+    "source": {
+      "wpId": 253,
+      "url": "https://www.khoza.com/recipes/beef-bourguignon/",
+      "html": "<p><div id=\"easyrecipe-253-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Beef Bourguignon</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/253-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Julia Childs</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 Ounce(s) cut into 1\" chunks bacon</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Pound(s) beef stew meat</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 carrot, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 white onion, thinly sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) red wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) beef stock</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) tomato paste</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Clove(s) garlic, minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) chopped fresh thyme or, &frac14; teaspoon crumbled, dried thyme</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 bay leaves</li> <li class=\"ingredient\" itemprop=\"ingredients\">24 pearl onions</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) button mushrooms, trimmed and quartered</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Simmer bacon in 1&frac12; quarts of water for 10 minutes. Drain and dry.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 450 degrees.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Saute bacon in 1 T. oil over moderate heat to brown lightly. Remove bacon with a slotted spoon and set aside in a dutch oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Dry the beef in paper towels.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 1 T. oil to bacon grease and brown beef and add to dutch oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In same fat, brown carrot and onions and add to dutch oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 1 tsp. salt, &frac14; tsp. pepper and 2 T. flour to dutch oven and toss.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Set in oven for 4 minutes. Toss meat again and return to oven for 4 more minutes. Lower oven to 325 degrees.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Stir in 3 cups wine and enough beef stock so that meat is barely covered. Add tomato paste, garlic, herbs. Bring to simmer on top of the stove.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover and set in lower &#8531; of over and simmer fore 3 hours or until beef is tender.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">While beef is cooking, add 1&frac12; T. butter and 1&frac12; T. oil to skillet over moderate heat. When it is bubbling, add pearl onions and saute for 10 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour in &frac12; cup beef stock and season to taste with salt and pepper. Cover and simmer for 40 to 50 minutes. Liquid should have evaporated.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place another skillet over high heat with 2 T. butter and 1 T. oil. As soon as butter foam has begun to form, add mushrooms. Toss and shake pan for 4 to 5 minutes. As soon as they have browned lightly, remove from heat. Season to taste with salt and pepper.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add pearl onions and mushrooms to beef and serve over boiled potatoes.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

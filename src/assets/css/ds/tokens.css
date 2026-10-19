@@ -1,0 +1,276 @@
+/* ==========================================================================
+   DS / tokens.css — design tokens. The ONLY place raw values live.
+   Light is the default. Dark applies via [data-theme="dark"] or the system
+   preference when no explicit light theme is set. Keep both dark blocks in sync.
+   [data-theme="light"|"dark"] also works on any element, so a panel can force a
+   theme (the style guide shows components in both themes side by side).
+   ========================================================================== */
+
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+
+  /* ---- Color: surfaces & ink ------------------------------------------- */
+  --color-bg: #FBF6EE;            /* cream paper */
+  --color-surface: #FFFFFF;       /* index card */
+  --color-surface-2: #F5EDE1;     /* recessed / hover / input fill */
+  --color-ink: #2B2118;           /* body text: 14.6:1 on bg */
+  --color-ink-muted: #6B5B4D;     /* secondary text: 6.0:1 on bg, 5.6:1 on surface-2 */
+  --color-line: #E7DCCB;          /* hairlines, borders */
+  --color-line-strong: #D4C4AE;   /* input borders, dividers that must read */
+  --color-rule: rgba(110, 140, 170, 0.14); /* faint blue index-card ruling */
+
+  /* ---- Color: accent (terracotta) --------------------------------------- */
+  --color-accent: #C8553D;        /* brand fill: icons, rules, large text, focus */
+  --color-accent-strong: #A9432E; /* accent TEXT + primary button fill: 5.5:1 on bg */
+  --color-accent-ink: #FFFFFF;    /* text on --color-accent-strong: 5.9:1 */
+  --color-accent-soft: #F8E4DC;   /* tinted fills: active pill, selected chip */
+  --color-surface-raised: #FFFFFF; /* selected thumb on a surface-2 track (segmented); always lighter than the track */
+  --color-scroll-shadow: rgba(77, 52, 30, 0.16); /* overflow cue at the edges of a scroll area */
+
+  --color-success: #3F7D4E;       /* 4.9:1 on surface */
+  --color-danger: #B3261E;        /* 6.5:1 on surface */
+
+  --color-scrim: rgba(43, 33, 24, 0.45);
+  --color-frost: rgba(255, 255, 255, 0.95);  /* bottom bars: near-opaque so text never shows through */
+  --color-focus: var(--color-accent);
+  --color-inverse: #2B2118;       /* toast surface */
+  --color-inverse-ink: #FBF6EE;
+  --color-inverse-accent: #F0A58E; /* toast action: 7.8:1 on inverse */
+
+  /* ---- Category tints (divider tabs, category badges, recipe-row rule). Ink text passes on all. */
+  --cat-bread: #F3DDB8;      /* wheat */
+  --cat-breakfast: #FBE7A6;  /* yolk */
+  --cat-dessert: #F6D3D8;    /* strawberry milk */
+  --cat-dinner: #F0CDB4;     /* clay */
+  --cat-lunch: #CFE0EA;      /* picnic sky */
+  --cat-sauce: #F5C5BC;      /* tomato */
+  --cat-sides: #CFE3D0;      /* sage */
+  --cat-misc: #E6DDD0;       /* kraft */
+
+
+  /* ---- Typography ------------------------------------------------------- */
+  --font-sans: "Poppins", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --leading-tight: 1.15;
+  --leading-snug: 1.3;
+  --leading-body: 1.6;
+  --tracking-tight: -0.022em;
+  --tracking-title: -0.03em;
+  --tracking-label: 0.01em;
+  --tracking-caps: 0.08em;
+
+  /* Fluid type scale: 360px → 1280px viewport */
+  --step--1: clamp(0.8125rem, 0.79rem + 0.1vw, 0.875rem);  /* 13 → 14 */
+  --step-0: clamp(1rem, 0.97rem + 0.13vw, 1.0625rem);       /* 16 → 17 */
+  --step-1: clamp(1.125rem, 1.07rem + 0.26vw, 1.3125rem);   /* 18 → 21 */
+  --step-2: clamp(1.375rem, 1.26rem + 0.5vw, 1.6875rem);    /* 22 → 27 */
+  --step-3: clamp(1.625rem, 1.43rem + 0.87vw, 2.25rem);     /* 26 → 36 */
+  --step-4: clamp(2rem, 1.69rem + 1.39vw, 3rem);            /* 32 → 48 */
+  --step-5: clamp(2.375rem, 1.88rem + 2.17vw, 3.875rem);    /* 38 → 62 */
+
+  /* ---- Space (fluid, 4px rhythm at the low end) -------------------------- */
+  --space-3xs: clamp(0.25rem, 0.24rem + 0.04vw, 0.3125rem);
+  --space-2xs: clamp(0.5rem, 0.48rem + 0.09vw, 0.5625rem);
+  --space-xs: clamp(0.75rem, 0.72rem + 0.13vw, 0.875rem);
+  --space-s: clamp(1rem, 0.96rem + 0.17vw, 1.125rem);
+  --space-m: clamp(1.5rem, 1.43rem + 0.3vw, 1.75rem);
+  --space-l: clamp(2rem, 1.9rem + 0.43vw, 2.375rem);
+  --space-xl: clamp(3rem, 2.84rem + 0.7vw, 3.5rem);
+  --space-2xl: clamp(4rem, 3.6rem + 1.74vw, 5.25rem);
+  --space-3xl: clamp(5rem, 4.3rem + 3vw, 7.5rem);
+  --gutter: var(--space-s);
+
+  /* ---- Shape ------------------------------------------------------------ */
+  --radius-s: 8px;
+  --radius-m: 12px;
+  --radius-l: 20px;
+  --radius-pill: 999px;
+  --border: 1px solid var(--color-line);
+
+  /* ---- Elevation: layered, warm-tinted shadows ----------------------------- */
+  --shadow-1:
+    0 1px 1px rgba(77, 52, 30, 0.05),
+    0 2px 4px -1px rgba(77, 52, 30, 0.07);
+  --shadow-2:
+    0 1px 2px rgba(77, 52, 30, 0.05),
+    0 4px 10px -2px rgba(77, 52, 30, 0.09),
+    0 12px 24px -8px rgba(77, 52, 30, 0.10);
+  --shadow-3:
+    0 2px 4px rgba(77, 52, 30, 0.05),
+    0 10px 20px -4px rgba(77, 52, 30, 0.12),
+    0 28px 56px -16px rgba(77, 52, 30, 0.22);
+  --shadow-inset-top: inset 0 1px 0 rgba(255, 255, 255, 0.0);
+
+  /* ---- Motion ------------------------------------------------------------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.64, 1);
+  --ease-in: cubic-bezier(0.55, 0, 0.75, 0.2);
+  --dur-fast: 120ms;
+  --dur-base: 220ms;
+  --dur-slow: 380ms;
+  --press-scale: 0.97;
+
+  /* ---- Chrome metrics ------------------------------------------------------ */
+  --header-h: 60px;
+  --tabbar-h: 64px;
+  --action-bar-h: 72px;
+  --bar-shadow: 0 -6px 20px -12px rgba(77, 52, 30, 0.18);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --tap-min: 44px;                /* minimum touch target on any pointer */
+  --tap: var(--tap-min);          /* legacy alias: prefer --tap-min */
+  --control-sm: 36px;             /* compact control height, fine pointers ≥900px only */
+  --control-md: 40px;             /* chip / segmented height, fine pointers ≥900px only */
+  --measure: 68ch;
+  --measure-cook: 26ch;           /* cook-mode step measure (ch of the step font) */
+  --container: 1200px;
+  --container-narrow: 760px;
+  --container-tight: 560px;       /* centred message column: empty / error states and their actions */
+  --field-h: 56px;                /* the one search-field height (every screen) */
+  --tab-h: 48px;                  /* inactive divider tab: 44px hit area above its 2px baseline + inset */
+  --tab-h-current: 56px;          /* current divider tab stands taller */
+
+  /* Recipe table column widths (table-layout: fixed; the Recipe column takes the rest) */
+  --col-by: 9rem;
+  --col-cat: 8rem;
+  --col-time: 6.5rem;
+  --col-added: 7rem;
+  --col-fav: calc(var(--tap-min) + var(--space-3xs));
+  --cook-width: 960px;            /* cook-mode bar / progress / nav max width */
+
+  /* ---- Layers -------------------------------------------------------------- */
+  --z-raised: 2;
+  --z-header: 20;
+  --z-bars: 30;
+  --z-cook: 50;
+  --z-toast: 70;
+}
+
+/* ---- Dark: explicit -------------------------------------------------------- */
+[data-theme="dark"] {
+  color-scheme: dark;
+  --color-bg: #1C1612;
+  --color-surface: #27201A;
+  --color-surface-2: #312820;
+  --color-ink: #F3EADF;
+  --color-ink-muted: #B8A897;
+  --color-line: #3E342B;
+  --color-line-strong: #54473B;
+  --color-rule: rgba(190, 210, 230, 0.06);
+  --color-accent: #E07A5F;
+  --color-accent-strong: #E07A5F;
+  --color-accent-ink: #1C1612;
+  --color-accent-soft: #3A251E;
+  --color-surface-raised: #44382D;
+  --color-scroll-shadow: rgba(0, 0, 0, 0.5);
+  --color-success: #7FBF8E;
+  --color-danger: #F08A80;
+  --color-scrim: rgba(8, 5, 3, 0.62);
+  --color-frost: rgba(39, 32, 26, 0.95);
+  --color-inverse: #F3EADF;
+  --color-inverse-ink: #1C1612;
+  --color-inverse-accent: #A9432E;
+  --cat-bread: #4A3B28;
+  --cat-breakfast: #4A4024;
+  --cat-dessert: #4A3036;
+  --cat-dinner: #4C3326;
+  --cat-lunch: #2E3E45;
+  --cat-sauce: #4C2D29;
+  --cat-sides: #2F4232;
+  --cat-misc: #3B342C;
+  --shadow-1:
+    0 1px 1px rgba(0, 0, 0, 0.25),
+    0 2px 4px -1px rgba(0, 0, 0, 0.3);
+  --shadow-2:
+    0 1px 2px rgba(0, 0, 0, 0.3),
+    0 6px 14px -4px rgba(0, 0, 0, 0.4),
+    0 14px 28px -10px rgba(0, 0, 0, 0.45);
+  --shadow-3:
+    0 2px 4px rgba(0, 0, 0, 0.3),
+    0 12px 24px -6px rgba(0, 0, 0, 0.5),
+    0 32px 64px -16px rgba(0, 0, 0, 0.6);
+  --shadow-inset-top: inset 0 1px 0 rgba(255, 240, 225, 0.05);
+}
+
+/* ---- Dark: system preference (keep identical to the block above) ----------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --color-bg: #1C1612;
+    --color-surface: #27201A;
+    --color-surface-2: #312820;
+    --color-ink: #F3EADF;
+    --color-ink-muted: #B8A897;
+    --color-line: #3E342B;
+    --color-line-strong: #54473B;
+    --color-rule: rgba(190, 210, 230, 0.06);
+    --color-accent: #E07A5F;
+    --color-accent-strong: #E07A5F;
+    --color-accent-ink: #1C1612;
+    --color-accent-soft: #3A251E;
+    --color-surface-raised: #44382D;
+    --color-scroll-shadow: rgba(0, 0, 0, 0.5);
+    --color-success: #7FBF8E;
+    --color-danger: #F08A80;
+    --color-scrim: rgba(8, 5, 3, 0.62);
+    --color-frost: rgba(39, 32, 26, 0.95);
+  --color-inverse: #F3EADF;
+  --color-inverse-ink: #1C1612;
+  --color-inverse-accent: #A9432E;
+    --cat-bread: #4A3B28;
+    --cat-breakfast: #4A4024;
+    --cat-dessert: #4A3036;
+    --cat-dinner: #4C3326;
+    --cat-lunch: #2E3E45;
+    --cat-sauce: #4C2D29;
+    --cat-sides: #2F4232;
+    --cat-misc: #3B342C;
+    --shadow-1:
+      0 1px 1px rgba(0, 0, 0, 0.25),
+      0 2px 4px -1px rgba(0, 0, 0, 0.3);
+    --shadow-2:
+      0 1px 2px rgba(0, 0, 0, 0.3),
+      0 6px 14px -4px rgba(0, 0, 0, 0.4),
+      0 14px 28px -10px rgba(0, 0, 0, 0.45);
+    --shadow-3:
+      0 2px 4px rgba(0, 0, 0, 0.3),
+      0 12px 24px -6px rgba(0, 0, 0, 0.5),
+      0 32px 64px -16px rgba(0, 0, 0, 0.6);
+    --shadow-inset-top: inset 0 1px 0 rgba(255, 240, 225, 0.05);
+  }
+}
+
+/* ---- Wide-screen metrics ----------------------------------------------------- */
+@media (min-width: 900px) {
+  :root {
+    --col-by: 11rem;
+    --col-cat: 10rem;
+    --col-time: 7.5rem;
+    --col-added: 7.5rem;
+  }
+}
+
+/* ---- Category hooks: data-cat="<id>" sets --cat for any component ---------- */
+[data-cat] { --cat: var(--cat-misc); }
+[data-cat="bread"] { --cat: var(--cat-bread); }
+[data-cat="breakfast"] { --cat: var(--cat-breakfast); }
+[data-cat="dessert"] { --cat: var(--cat-dessert); }
+[data-cat="dinner"] { --cat: var(--cat-dinner); }
+[data-cat="lunch"] { --cat: var(--cat-lunch); }
+[data-cat="sauce"] { --cat: var(--cat-sauce); }
+[data-cat="sides"] { --cat: var(--cat-sides); }
+[data-cat="misc"] { --cat: var(--cat-misc); }
+
+/* ---- Reduced motion: collapse durations globally ---------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 1ms;
+    --dur-base: 1ms;
+    --dur-slow: 1ms;
+    --press-scale: 1;
+  }
+}

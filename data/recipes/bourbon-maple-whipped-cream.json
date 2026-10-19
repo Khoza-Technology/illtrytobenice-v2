@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "bourbon-maple-whipped-cream",
+    "slug": "bourbon-maple-whipped-cream",
+    "title": "Bourbon-Maple Whipped Cream",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1¼ Cup(s) heavy whipping cream"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) maple syrup"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) bourbon whiskey"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Make sure cream is extremely cold."
+      },
+      {
+        "type": "step",
+        "text": "Combine the cream, vanilla seeds, maple syrup, and bourbon, to taste, in a large chilled bowl, and whip until soft peaks form."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:50:24Z",
+    "modified": "2017-02-23T22:50:24Z",
+    "source": {
+      "wpId": 257,
+      "url": "https://www.khoza.com/recipes/bourbon-maple-whipped-cream/",
+      "html": "<p><div id=\"easyrecipe-257-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Bourbon-Maple Whipped Cream</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/257-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Bobby Flay</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; Cup(s) heavy whipping cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) maple syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) bourbon whiskey</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Make sure cream is extremely cold.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine the cream, vanilla seeds, maple syrup, and bourbon, to taste, in a large chilled bowl, and whip until soft peaks form.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

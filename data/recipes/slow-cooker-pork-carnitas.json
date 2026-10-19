@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "slow-cooker-pork-carnitas",
+    "slug": "slow-cooker-pork-carnitas",
+    "title": "Slow-Cooker Pork Carnitas",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": {
+      "label": "20",
+      "count": 20
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 (6- to 8-pound) bone-in pork butt, also called pork shoulder"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons coarse salt"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon ground cumin"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon freshly ground black pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon dried oregano"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons ground cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon cayenne pepper, or to taste"
+      },
+      {
+        "type": "item",
+        "text": "8 whole cloves garlic, smashed"
+      },
+      {
+        "type": "item",
+        "text": "4 chipotle peppers (canned or dried)"
+      },
+      {
+        "type": "item",
+        "text": "1 (14- or 15-ounce) can diced tomatoes"
+      },
+      {
+        "type": "item",
+        "text": "2 to 3 cups liquid (orange juice, beer, stock, or a combination)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Trim the excess fat from the pork and discard. Place all the ingredients in the slow cooker. Set to cook on LOW for 8 hours. The meat is done when it literally falls off the bone."
+      },
+      {
+        "type": "step",
+        "text": "Let it cool enough to handle, then lift the meat from the juices and place in a large bowl. Remove the bone, then shred the meat. Skim the fat from the leftover juices and keep as a medium for reheating the meat. (You'll have about 10 cups of shredded meat.)"
+      },
+      {
+        "type": "step",
+        "text": "For carnitas tacos, reheat the meat and serve in tortillas with accompaniments, like sour cream, cilantro, radishes, pineapple, chopped red onion, and lime wedges."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/slow-cooker-pork-carnitas-1.jpg",
+        "alt": "Slow-Cooker Pork Carnitas"
+      }
+    ],
+    "published": "2017-02-23T21:18:13Z",
+    "modified": "2017-02-23T21:18:13Z",
+    "source": {
+      "wpId": 201,
+      "url": "https://www.khoza.com/recipes/slow-cooker-pork-carnitas/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-202\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/04ac9b01ffff07ed328b20fb32ee9180a698adb6-226x300.jpg\" alt=\"\" width=\"226\" height=\"300\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/04ac9b01ffff07ed328b20fb32ee9180a698adb6-226x300.jpg 226w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/04ac9b01ffff07ed328b20fb32ee9180a698adb6.jpg 610w\" sizes=\"auto, (max-width: 226px) 100vw, 226px\" /><br />\n<div id=\"easyrecipe-201-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Slow-Cooker Pork Carnitas</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/04ac9b01ffff07ed328b20fb32ee9180a698adb6-226x300.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/201-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">20</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 (6- to 8-pound) bone-in pork butt, also called pork shoulder</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons coarse salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon ground cumin</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon freshly ground black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon dried oregano</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons ground cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon cayenne pepper, or to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 whole cloves garlic, smashed</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 chipotle peppers (canned or dried)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 (14- or 15-ounce) can diced tomatoes</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 to 3 cups liquid (orange juice, beer, stock, or a combination)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Trim the excess fat from the pork and discard. Place all the ingredients in the slow cooker. Set to cook on LOW for 8 hours. The meat is done when it literally falls off the bone.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let it cool enough to handle, then lift the meat from the juices and place in a large bowl. Remove the bone, then shred the meat. Skim the fat from the leftover juices and keep as a medium for reheating the meat. (You'll have about 10 cups of shredded meat.)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">For carnitas tacos, reheat the meat and serve in tortillas with accompaniments, like sour cream, cilantro, radishes, pineapple, chopped red onion, and lime wedges.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

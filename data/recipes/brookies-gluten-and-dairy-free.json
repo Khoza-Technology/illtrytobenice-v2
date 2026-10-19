@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "brookies-gluten-and-dairy-free",
+    "slug": "brookies-gluten-and-dairy-free",
+    "title": "Brookies – Gluten and Dairy-Free",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {
+      "cook": {
+        "iso": "PT50M",
+        "minutes": 50,
+        "label": "50 mins"
+      },
+      "total": {
+        "iso": "PT50M",
+        "minutes": 50,
+        "label": "50 mins"
+      }
+    },
+    "servings": {
+      "label": "14",
+      "count": 14
+    },
+    "ingredients": [
+      {
+        "type": "heading",
+        "text": "Cookie Layer"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup (45g) palm shortening, melted"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup (77g) maple syrup"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup (41g) coconut sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 large egg, room temperature"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "1 cup (100g) blanched almond flour"
+      },
+      {
+        "type": "item",
+        "text": "2½ teaspoons coconut flour"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon arrowroot powder"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon baking powder"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon baking soda"
+      },
+      {
+        "type": "item",
+        "text": "Pinch of salt"
+      },
+      {
+        "type": "item",
+        "text": "½ cup dairy-free chocolate chips"
+      },
+      {
+        "type": "heading",
+        "text": "Brownie Layer"
+      },
+      {
+        "type": "item",
+        "text": "3 eggs"
+      },
+      {
+        "type": "item",
+        "text": "¾ cup (100g) maple sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ cup (80g) coconut sugar"
+      },
+      {
+        "type": "item",
+        "text": "75g palm shortening (about ⅓ cup plus 1 tablespoon)"
+      },
+      {
+        "type": "item",
+        "text": "150g chocolate, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons (15g) Dutch process chocolate"
+      },
+      {
+        "type": "item",
+        "text": "½ cup (50g) blanched almond flour"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup (30g) arrowroot powder"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons (15g) coconut flour"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon salt"
+      },
+      {
+        "type": "item",
+        "text": "¾ teaspoon baking powder"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "heading",
+        "text": "Cookie Dough"
+      },
+      {
+        "type": "step",
+        "text": "In the bowl of a stand mixer fitted with the paddle attachment, combine the melted palm shortening, maple syrup, and coconut sugar. Mix on medium speed until well combined and smooth."
+      },
+      {
+        "type": "step",
+        "text": "Add the egg and vanilla extract to the mixture in the stand mixer bowl. Mix on medium speed until thoroughly incorporated."
+      },
+      {
+        "type": "step",
+        "text": "Add almond flour, coconut flour, arrowroot, baking powder, baking soda, and a pinch of salt. Mix on high speed for 1 minute (no less!), stopping to scrape down the sides if necessary. Fold in chocolate chips using a spatula. Set the dough aside to rest and allow the coconut flour to absorb some of the moisture. Wipe down the bowl quickly to use for the brownie batter."
+      },
+      {
+        "type": "heading",
+        "text": "Brownie Batter"
+      },
+      {
+        "type": "step",
+        "text": "Preheat the oven to 325 degrees. Line a 9x9 inch baking dish with parchment paper or lightly grease it."
+      },
+      {
+        "type": "step",
+        "text": "Start by melting the palm shortening on the stove. Once melted, remove from heat and stir in the chocolate pieces until smooth. Let the mixture cool."
+      },
+      {
+        "type": "step",
+        "text": "In the stand mixer with a whisk attachment, beat the eggs for 5 minutes on high speed until they become fluffy and pale. DO NOT BEAT LESS THAN 5 MINUTES."
+      },
+      {
+        "type": "step",
+        "text": "While the eggs are being beaten, measure the maple sugar and coconut sugar, then add to the beaten eggs. Continue beating until well combined, 30 seconds to a minute."
+      },
+      {
+        "type": "step",
+        "text": "Gradually add the cooled chocolate and palm shortening mixture to the beaten eggs and sugar, mixing until thoroughly incorporated. Stir in the vanilla extract."
+      },
+      {
+        "type": "step",
+        "text": "Add almond flour, arrowroot powder, coconut flour, Dutch process chocolate, salt, and baking powder to the mixture. Gently fold the dry ingredients into the wet mixture with a rubber spatula until just combined. Be careful not to overmix."
+      },
+      {
+        "type": "step",
+        "text": "If desired, fold in additional chocolate chips into the batter."
+      },
+      {
+        "type": "step",
+        "text": "Spread the brownie batter evenly into the bottom of the prepared baking dish."
+      },
+      {
+        "type": "step",
+        "text": "Drop spoonfuls of the cookie dough all around the top of the brownie batter and push a few into the brownie batter, leaving some on top with ribbons of brownie batter undisturbed."
+      },
+      {
+        "type": "step",
+        "text": "Bake in the preheated oven for 45 to 50 minutes, covering with foil after 30 minutes if the cookie layer is beginning to brown too much."
+      },
+      {
+        "type": "step",
+        "text": "Once baked, remove from the oven and let cool completely in the baking dish before slicing into squares and serving."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2025-02-13T01:31:09Z",
+    "modified": "2025-02-13T01:42:09Z",
+    "source": {
+      "wpId": 573,
+      "url": "https://www.khoza.com/recipes/573-2/",
+      "html": "<div id=\"easyrecipe-573-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Brookies - Gluten and Dairy-Free</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/573-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT50M\">50 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT50M\">50 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">14</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">Cookie Layer</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup (45g) palm shortening, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup (77g) maple syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup (41g) coconut sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 large egg, room temperature</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup (100g) blanched almond flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac12; teaspoons coconut flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon arrowroot powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">Pinch of salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup dairy-free chocolate chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">Brownie Layer</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; cup (100g) maple sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup (80g) coconut sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">75g palm shortening (about &#8531; cup plus 1 tablespoon)</li> <li class=\"ingredient\" itemprop=\"ingredients\">150g chocolate, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons (15g) Dutch process chocolate</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup (50g) blanched almond flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup (30g) arrowroot powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons (15g) coconut flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; teaspoon baking powder</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cookie Dough</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In the bowl of a stand mixer fitted with the paddle attachment, combine the melted palm shortening, maple syrup, and coconut sugar. Mix on medium speed until well combined and smooth.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the egg and vanilla extract to the mixture in the stand mixer bowl. Mix on medium speed until thoroughly incorporated.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add almond flour, coconut flour, arrowroot, baking powder, baking soda, and a pinch of salt. Mix on high speed for 1 minute (no less!), stopping to scrape down the sides if necessary. Fold in chocolate chips using a spatula. Set the dough aside to rest and allow the coconut flour to absorb some of the moisture. Wipe down the bowl quickly to use for the brownie batter.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Brownie Batter</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 325 degrees. Line a 9x9 inch baking dish with parchment paper or lightly grease it.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Start by melting the palm shortening on the stove. Once melted, remove from heat and stir in the chocolate pieces until smooth. Let the mixture cool.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In the stand mixer with a whisk attachment, beat the eggs for 5 minutes on high speed until they become fluffy and pale. DO NOT BEAT LESS THAN 5 MINUTES.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">While the eggs are being beaten, measure the maple sugar and coconut sugar, then add to the beaten eggs. Continue beating until well combined, 30 seconds to a minute.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Gradually add the cooled chocolate and palm shortening mixture to the beaten eggs and sugar, mixing until thoroughly incorporated. Stir in the vanilla extract.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add almond flour, arrowroot powder, coconut flour, Dutch process chocolate, salt, and baking powder to the mixture. Gently fold the dry ingredients into the wet mixture with a rubber spatula until just combined. Be careful not to overmix.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">If desired, fold in additional chocolate chips into the batter.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spread the brownie batter evenly into the bottom of the prepared baking dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Drop spoonfuls of the cookie dough all around the top of the brownie batter and push a few into the brownie batter, leaving some on top with ribbons of brownie batter undisturbed.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake in the preheated oven for 45 to 50 minutes, covering with foil after 30 minutes if the cookie layer is beginning to brown too much.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Once baked, remove from the oven and let cool completely in the baking dish before slicing into squares and serving.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div>\n"
+    }
+  }
+}

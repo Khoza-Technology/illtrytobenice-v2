@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "candied-walnuts",
+    "slug": "candied-walnuts",
+    "title": "Candied Walnuts",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 Cup(s) walnut halves"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) coarse salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) brandy"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "1⅓ Cup(s) maple syrup"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350. Spread walnuts in a single layer on a rimmed baking sheet; toast in oven, stirring occasionally, until fragrant, about 10 minutes. Let cool completely."
+      },
+      {
+        "type": "step",
+        "text": "Meanwhile, mix maple sugar, salt, and cinnamon in a medium bowl; set aside. Bring brandy, vanilla, syrup, and butter to a boil in a large, deep skillet over medium heat, and cook until liquid is reduced by half, about 5 minutes. Stir in nuts, and cook, stirring until skillet is almost dry, about 3 minutes more."
+      },
+      {
+        "type": "step",
+        "text": "Remove from heat, and immediately add reserved sugar mixture; toss until well coated. Spread out coated nuts on a baking sheet lined with parchment paper; let cool completely, for 6 hours (or overnight). Store in airtight containers at room temperature up to 2 weeks."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:57:36Z",
+    "modified": "2017-02-23T22:57:36Z",
+    "source": {
+      "wpId": 265,
+      "url": "https://www.khoza.com/recipes/candied-walnuts/",
+      "html": "<p><div id=\"easyrecipe-265-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Candied Walnuts</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/265-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Salad</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 Cup(s) walnut halves</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) coarse salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) brandy</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&#8531; Cup(s) maple syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat over to 350. Spread walnuts in a single layer on a rimmed baking sheet; toast in oven, stirring occasionally, until fragrant, about 10 minutes. Let cool completely.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Meanwhile, mix maple sugar, salt, and cinnamon in a medium bowl; set aside. Bring brandy, vanilla, syrup, and butter to a boil in a large, deep skillet over medium heat, and cook until liquid is reduced by half, about 5 minutes. Stir in nuts, and cook, stirring until skillet is almost dry, about 3 minutes more.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove from heat, and immediately add reserved sugar mixture; toss until well coated. Spread out coated nuts on a baking sheet lined with parchment paper; let cool completely, for 6 hours (or overnight). Store in airtight containers at room temperature up to 2 weeks.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

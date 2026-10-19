@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "corn-casserole",
+    "slug": "corn-casserole",
+    "title": "Corn Casserole",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "Mexican",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Can(s) creamed corn"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) corn, drained"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) sour cream"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "1 jiffy cornbread mix"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine all ingredients. Bake 1 hour at 375 in 9x13 pan."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:09:58Z",
+    "modified": "2017-02-23T23:09:58Z",
+    "source": {
+      "wpId": 290,
+      "url": "https://www.khoza.com/recipes/corn-casserole/",
+      "html": "<p><div id=\"easyrecipe-290-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Corn Casserole</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/290-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Mexican</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) creamed corn</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) corn, drained</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) sour cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 jiffy cornbread mix</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine all ingredients. Bake 1 hour at 375 in 9x13 pan.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

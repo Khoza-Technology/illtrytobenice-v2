@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "vegetable-mash",
+    "slug": "vegetable-mash",
+    "title": "Vegetable Mash",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 Pound(s) potatoes, cubed"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) carrots-skin peeled and chopped into big 3 inch chunks"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) parsnips-peeled, cut into 1-inch pieces"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) whole milk"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "1¼ Cup(s) grated cheddar cheese"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Place potatoes in a saucepan, cover with 2 inches of water and add 2½ teaspoon salt."
+      },
+      {
+        "type": "step",
+        "text": "Combine carrots and parsnips in another pan; cover with 2 inches of water, and add 1½ teaspoons salt."
+      },
+      {
+        "type": "step",
+        "text": "Bring vegetables to a boil, reduce heat and simmer until fork-tender."
+      },
+      {
+        "type": "step",
+        "text": "Drain vegetables."
+      },
+      {
+        "type": "step",
+        "text": "Heat milk and butter until butter is melted."
+      },
+      {
+        "type": "step",
+        "text": "Mash vegetables together; stir in milk mixture."
+      },
+      {
+        "type": "step",
+        "text": "Season with salt and pepper. Let cool completely."
+      },
+      {
+        "type": "step",
+        "text": "Refrigerate up to 5 days."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 375. Spoon beef stew into baking dish(es). Cover with vegetable mash; sprinkle cheese on top."
+      },
+      {
+        "type": "step",
+        "text": "Bake 50 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Let cool 15 minutes before serving."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:31:08Z",
+    "modified": "2017-02-24T01:31:08Z",
+    "source": {
+      "wpId": 372,
+      "url": "https://www.khoza.com/recipes/vegetable-mash/",
+      "html": "<p><div id=\"easyrecipe-372-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Vegetable Mash</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/372-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 Pound(s) potatoes, cubed</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) carrots-skin peeled and chopped into big 3 inch chunks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) parsnips-peeled, cut into 1-inch pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) whole milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; Cup(s) grated cheddar cheese</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place potatoes in a saucepan, cover with 2 inches of water and add 2&frac12; teaspoon salt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine carrots and parsnips in another pan; cover with 2 inches of water, and add 1&frac12; teaspoons salt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bring vegetables to a boil, reduce heat and simmer until fork-tender.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Drain vegetables.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat milk and butter until butter is melted.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mash vegetables together; stir in milk mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Season with salt and pepper. Let cool completely.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Refrigerate up to 5 days.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat over to 375. Spoon beef stew into baking dish(es). Cover with vegetable mash; sprinkle cheese on top.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake 50 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let cool 15 minutes before serving.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

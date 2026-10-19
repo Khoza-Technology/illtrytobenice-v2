@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "peanut-butter-cookies",
+    "slug": "peanut-butter-cookies",
+    "title": "Peanut Butter Cookies",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1½ Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) baking soda"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) butter, room temperature"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) firmly packed light-brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 egg"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) smooth peanut butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Sift together the dry ingredients and set aside. Cream the butter and sugar in the kitchenaid mixer using the flat attachment. Add the egg and vanilla, and beat until combined. Add the peanut butter and continue beating on low speed. Add the sifted dry ingredients, and beat until just blended. Cover the dough with plastic wrap and transfer to he refrigerator. Chill until firm, about 1 hour."
+      },
+      {
+        "type": "step",
+        "text": "Heat oven to 350 degrees. Form dough into 1-inch balls. Place balls on cookie sheet about 2 inches apart. Press down slightly with the palm of your hand. Using the tines of a fork, make a crisscross pattern in the dough. Bake until rich golden brown, about 10-12 minutes. Transfer to a rack to cool."
+      },
+      {
+        "type": "step",
+        "text": "Note: I haven't tried it yet, but I think you can put extra batter in ice cube trays, freeze and then put in zippy bags. To cook, take out cubes, let thaw and then mash with fork (Lisa's idea)."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:11:23Z",
+    "modified": "2017-02-24T01:11:23Z",
+    "source": {
+      "wpId": 345,
+      "url": "https://www.khoza.com/recipes/peanut-butter-cookies/",
+      "html": "<p><div id=\"easyrecipe-345-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Peanut Butter Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/345-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) butter, room temperature</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) firmly packed light-brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) smooth peanut butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Sift together the dry ingredients and set aside. Cream the butter and sugar in the kitchenaid mixer using the flat attachment. Add the egg and vanilla, and beat until combined. Add the peanut butter and continue beating on low speed. Add the sifted dry ingredients, and beat until just blended. Cover the dough with plastic wrap and transfer to he refrigerator. Chill until firm, about 1 hour.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oven to 350 degrees. Form dough into 1-inch balls. Place balls on cookie sheet about 2 inches apart. Press down slightly with the palm of your hand. Using the tines of a fork, make a crisscross pattern in the dough. Bake until rich golden brown, about 10-12 minutes. Transfer to a rack to cool.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Note: I haven't tried it yet, but I think you can put extra batter in ice cube trays, freeze and then put in zippy bags. To cook, take out cubes, let thaw and then mash with fork (Lisa's idea).</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

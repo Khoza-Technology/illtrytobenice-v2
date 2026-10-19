@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "easy-sugar-cookies",
+    "slug": "easy-sugar-cookies",
+    "title": "Easy Sugar Cookies",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT15M",
+        "minutes": 15,
+        "label": "15 mins"
+      },
+      "cook": {
+        "iso": "PT10M",
+        "minutes": 10,
+        "label": "10 mins"
+      },
+      "total": {
+        "iso": "PT25M",
+        "minutes": 25,
+        "label": "25 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2¾ cups all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon baking soda"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon baking powder"
+      },
+      {
+        "type": "item",
+        "text": "1 cup butter, softened"
+      },
+      {
+        "type": "item",
+        "text": "1½ cups white sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 egg"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon vanilla extract"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 375 degrees F (190 degrees C). In a small bowl, stir together flour, baking soda, and baking powder. Set aside."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets."
+      },
+      {
+        "type": "step",
+        "text": "Bake 8 to 10 minutes in the preheated oven, or until golden. Let stand on cookie sheet two minutes before removing to cool on wire racks."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/easy-sugar-cookies-1.jpg",
+        "alt": "Easy Sugar Cookies"
+      }
+    ],
+    "published": "2017-02-23T21:16:06Z",
+    "modified": "2017-02-23T21:16:06Z",
+    "source": {
+      "wpId": 198,
+      "url": "https://www.khoza.com/recipes/easy-sugar-cookies/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-199\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/1754462-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/1754462-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/1754462.jpg 560w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-198-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Easy Sugar Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/1754462-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/198-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT15M\">15 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT10M\">10 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT25M\">25 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac34; cups all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup butter, softened</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; cups white sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon vanilla extract</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 375 degrees F (190 degrees C). In a small bowl, stir together flour, baking soda, and baking powder. Set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake 8 to 10 minutes in the preheated oven, or until golden. Let stand on cookie sheet two minutes before removing to cool on wire racks.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

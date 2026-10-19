@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "gluten-free-bread",
+    "slug": "gluten-free-bread",
+    "title": "Gluten-Free Bread",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "5⅓ Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) honey"
+      },
+      {
+        "type": "item",
+        "text": "12 egg"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "4 Cup(s) Sorghum flour"
+      },
+      {
+        "type": "item",
+        "text": "4 Cup(s) almond flour"
+      },
+      {
+        "type": "item",
+        "text": "4 Cup(s) potato starch"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) xanthan gum"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) active dry yeast"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Grease 4 bread loaf pans."
+      },
+      {
+        "type": "step",
+        "text": "Using a whisk, mix all dry ingredients together in a large bowl. In a separate bowl whisk eggs until yolks are broken up. Add warm water, oil, honey, eggs to the dry mixture. Stir well. The consistency of the bread should be like banana bread. It should be very wet and gloppy."
+      },
+      {
+        "type": "step",
+        "text": "Divide between 4 loaf pans. Cover and let rise until it reaches the top of the pan."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 350."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 30 minutes. Take out of pans and let cool on rack."
+      },
+      {
+        "type": "step",
+        "text": "Once completely cooled, bread can be placed in bread bags and frozen."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:49:09Z",
+    "modified": "2017-02-24T00:49:09Z",
+    "source": {
+      "wpId": 312,
+      "url": "https://www.khoza.com/recipes/gluten-free-bread/",
+      "html": "<p><div id=\"easyrecipe-312-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Gluten-Free Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/312-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Bread</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">5&#8531; Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">12 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Cup(s) Sorghum flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Cup(s) almond flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Cup(s) potato starch</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) xanthan gum</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) active dry yeast</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Grease 4 bread loaf pans.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Using a whisk, mix all dry ingredients together in a large bowl. In a separate bowl whisk eggs until yolks are broken up. Add warm water, oil, honey, eggs to the dry mixture. Stir well. The consistency of the bread should be like banana bread. It should be very wet and gloppy.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divide between 4 loaf pans. Cover and let rise until it reaches the top of the pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 30 minutes. Take out of pans and let cool on rack.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Once completely cooled, bread can be placed in bread bags and frozen.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

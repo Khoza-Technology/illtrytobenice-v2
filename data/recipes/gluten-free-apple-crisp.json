@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "gluten-free-apple-crisp",
+    "slug": "gluten-free-apple-crisp",
+    "title": "Gluten-Free Apple Crisp",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1½ Cup(s) Bob's Red Mill 1 to 1 Baking flour"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) old-fashioned oats"
+      },
+      {
+        "type": "item",
+        "text": "1 stick butter, cut into 8 pieces"
+      },
+      {
+        "type": "item",
+        "text": "1 Recipe Apple Pie Filling"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat the oven to 350 degrees. Grease a 9 by 14 baking dish."
+      },
+      {
+        "type": "step",
+        "text": "Prepare apples. Use corn starch or tapioca starch in place of flour. Spread apples in baking dish."
+      },
+      {
+        "type": "step",
+        "text": "To make the topping, combine the flour, sugars, salt, oatmeal, and cold butter in the bowl of an electric mixer fitted with the paddle attachment. Mix on low speed until the mixture is crumbly and the butter is the size of peas. Scatter evenly over the apples. You can cover with foil and freeze at this point if you want."
+      },
+      {
+        "type": "step",
+        "text": "Place dish on a rimmed baking sheet and bake in oven for 1 hour."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:28:02Z",
+    "modified": "2023-09-28T20:23:27Z",
+    "source": {
+      "wpId": 310,
+      "url": "https://www.khoza.com/recipes/gluten-free-apple-crisp/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-310-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Gluten-Free Apple Crisp</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/310-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) Bob's Red Mill 1 to 1 Baking flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) old-fashioned oats</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 stick butter, cut into 8 pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Recipe Apple Pie Filling</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 350 degrees. Grease a 9 by 14 baking dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Prepare apples. Use corn starch or tapioca starch in place of flour. Spread apples in baking dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">To make the topping, combine the flour, sugars, salt, oatmeal, and cold butter in the bowl of an electric mixer fitted with the paddle attachment. Mix on low speed until the mixture is crumbly and the butter is the size of peas. Scatter evenly over the apples. You can cover with foil and freeze at this point if you want.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place dish on a rimmed baking sheet and bake in oven for 1 hour.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

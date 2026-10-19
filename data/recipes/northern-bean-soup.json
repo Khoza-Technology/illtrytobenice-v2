@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "northern-bean-soup",
+    "slug": "northern-bean-soup",
+    "title": "Northern Bean Soup",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Can(s) northern or white beans"
+      },
+      {
+        "type": "item",
+        "text": "8 Ounce(s) tomato sauce"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) ham, cubed into ½ inch pieces"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 beef bouillon cube"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) garlic powder"
+      },
+      {
+        "type": "item",
+        "text": "1 potato, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 carrot, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 celery, chopped"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Add all the ingredients to a crock pot. Cook on low for 6 to 8 hours or on high for 3 to 4."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:08:54Z",
+    "modified": "2017-02-24T01:08:54Z",
+    "source": {
+      "wpId": 341,
+      "url": "https://www.khoza.com/recipes/northern-bean-soup/",
+      "html": "<p><div id=\"easyrecipe-341-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Northern Bean Soup</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/341-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Can(s) northern or white beans</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Ounce(s) tomato sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) ham, cubed into &frac12; inch pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 beef bouillon cube</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) garlic powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 potato, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 carrot, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 celery, chopped</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add all the ingredients to a crock pot. Cook on low for 6 to 8 hours or on high for 3 to 4.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

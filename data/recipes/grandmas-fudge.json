@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "grandmas-fudge",
+    "slug": "grandmas-fudge",
+    "title": "Grandma's Fudge",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "Dessert",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 cups sugar"
+      },
+      {
+        "type": "item",
+        "text": "8 Tablespoons cocoa powder"
+      },
+      {
+        "type": "item",
+        "text": "8 Tablespoons light corn syrup"
+      },
+      {
+        "type": "item",
+        "text": "1¼ cups whole milk"
+      },
+      {
+        "type": "item",
+        "text": "1½ Tablespoons butter"
+      },
+      {
+        "type": "item",
+        "text": "1½ cups of walnuts (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix sugar and cocoa powder together."
+      },
+      {
+        "type": "step",
+        "text": "Mix all of the ingredients in a large sauce pan. Heat over medium-high, stirring constantly until the mixture boils. Do not stir after this point."
+      },
+      {
+        "type": "step",
+        "text": "Turn down heat to medium-low and cook to 237 degrees Fahrenheit. Remove from heat and cool to lukewarm in a pan of ice water. Do not disturb."
+      },
+      {
+        "type": "step",
+        "text": "Beat until the mixture isn't runny but before is sets up. You can tell if the fudge is beginning to set up if some candy dribbled from a spoon forms a mound instead of blending in."
+      },
+      {
+        "type": "step",
+        "text": "Add 1½ cups of walnuts if desired."
+      },
+      {
+        "type": "step",
+        "text": "Pour onto greased, waxed paper or onto a greased counter top. Cut before fudge sets."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-04-04T15:45:20Z",
+    "modified": "2017-04-04T15:45:20Z",
+    "source": {
+      "wpId": 396,
+      "url": "https://www.khoza.com/recipes/grandmas-fudge/",
+      "html": "<p><div id=\"easyrecipe-396-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Grandma's Fudge</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/396-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Grandma G.</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">American</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Dessert</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 cups sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Tablespoons cocoa powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Tablespoons light corn syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac14; cups whole milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Tablespoons butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; cups of walnuts (optional)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix sugar and cocoa powder together.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix all of the ingredients in a large sauce pan. Heat over medium-high, stirring constantly until the mixture boils. Do not stir after this point.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Turn down heat to medium-low and cook to 237 degrees Fahrenheit. Remove from heat and cool to lukewarm in a pan of ice water. Do not disturb.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat until the mixture isn't runny but before is sets up. You can tell if the fudge is beginning to set up if some candy dribbled from a spoon forms a mound instead of blending in.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add 1&frac12; cups of walnuts if desired.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour onto greased, waxed paper or onto a greased counter top. Cut before fudge sets.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

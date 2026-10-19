@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "edras-potatoes",
+    "slug": "edras-potatoes",
+    "title": "Edra's Potatoes",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 potatoes, boiled and grated"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) sour cream"
+      },
+      {
+        "type": "item",
+        "text": "1½ Cup(s) grated cheddar cheese"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) cream of chicken soup"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) dried onions"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) corn flakes, crushed"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix all the ingredients together in a medium bowl. Preheat 9x13"
+      },
+      {
+        "type": "step",
+        "text": "\""
+      },
+      {
+        "type": "step",
+        "text": "pan in 425 degree oven with ⅓ cup butter in it."
+      },
+      {
+        "type": "step",
+        "text": "Pour mixture into pan."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 425 for 15 to 20 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Cut into big slices and top with cheese, or cinnamon and sugar or syrup or jam or yogurt (my favorite)."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:25:42Z",
+    "modified": "2017-02-23T23:25:42Z",
+    "source": {
+      "wpId": 306,
+      "url": "https://www.khoza.com/recipes/edras-potatoes/",
+      "html": "<p><div id=\"easyrecipe-306-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Edra's Potatoes</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/306-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 potatoes, boiled and grated</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) sour cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Cup(s) grated cheddar cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) cream of chicken soup</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) dried onions</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) corn flakes, crushed</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix all the ingredients together in a medium bowl. Preheat 9x13</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">\"</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">pan in 425 degree oven with &#8531; cup butter in it.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour mixture into pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 425 for 15 to 20 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut into big slices and top with cheese, or cinnamon and sugar or syrup or jam or yogurt (my favorite).</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

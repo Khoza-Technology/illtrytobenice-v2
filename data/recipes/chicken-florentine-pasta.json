@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "chicken-florentine-pasta",
+    "slug": "chicken-florentine-pasta",
+    "title": "Chicken Florentine Pasta",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Package(s) campanelle or penne regate pasta, cooked"
+      },
+      {
+        "type": "item",
+        "text": "2 chicken breast"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) extra virgin olive oil"
+      },
+      {
+        "type": "item",
+        "text": "4 Clove(s) garlic pressed with knife and minced"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) dry white wine"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) chicken broth"
+      },
+      {
+        "type": "item",
+        "text": "1 fresh spinach (or one bag)"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) Grape tomatoes-cut in half"
+      },
+      {
+        "type": "item",
+        "text": "4 Ounce(s) grated parmesan cheese"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Cook pasta. Drain and set aside."
+      },
+      {
+        "type": "step",
+        "text": "Cut chicken into thin chunks. Season generously with salt and pepper on both sides. Heat butter and oil in a large skillet. Add chicken and cook on both sides. Remove chicken from skillet."
+      },
+      {
+        "type": "step",
+        "text": "Add garlic and cook about 30 seconds. Add wine and broth and 2 tablespoons flour and cook until reduced by half. Add spinach and tomatoes and chicken and stir until spinach is cooked down. Remove from heat."
+      },
+      {
+        "type": "step",
+        "text": "Add pasta and Parmesan cheese and stir to combine."
+      },
+      {
+        "type": "step",
+        "text": "Can also use bacon chunks instead of chicken."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/chicken-florentine-pasta-1.jpg",
+        "alt": "Chicken Florentine Pasta"
+      }
+    ],
+    "published": "2017-02-17T23:46:00Z",
+    "modified": "2017-02-20T17:27:17Z",
+    "source": {
+      "wpId": 108,
+      "url": "https://www.khoza.com/recipes/chicken-florentine-pasta/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-109\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/7103177715_9ea2300a70_z-300x200.jpg\" alt=\"\" width=\"300\" height=\"200\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/7103177715_9ea2300a70_z-300x200.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/7103177715_9ea2300a70_z.jpg 630w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-108-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Chicken Florentine Pasta</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/7103177715_9ea2300a70_z-300x200.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/108-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Package(s) campanelle or penne regate pasta, cooked</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 chicken breast</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) extra virgin olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Clove(s) garlic pressed with knife and minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) dry white wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) chicken broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 fresh spinach (or one bag)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) Grape tomatoes-cut in half</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Ounce(s) grated parmesan cheese</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cook pasta. Drain and set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut chicken into thin chunks. Season generously with salt and pepper on both sides. Heat butter and oil in a large skillet. Add chicken and cook on both sides. Remove chicken from skillet.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add garlic and cook about 30 seconds. Add wine and broth and 2 tablespoons flour and cook until reduced by half. Add spinach and tomatoes and chicken and stir until spinach is cooked down. Remove from heat.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add pasta and Parmesan cheese and stir to combine.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Can also use bacon chunks instead of chicken.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "apple-crisp-ii",
+    "slug": "apple-crisp-ii",
+    "title": "Apple Crisp II",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT30M",
+        "minutes": 30,
+        "label": "30 mins"
+      },
+      "cook": {
+        "iso": "PT45M",
+        "minutes": 45,
+        "label": "45 mins"
+      },
+      "total": {
+        "iso": "PT1H15M",
+        "minutes": 75,
+        "label": "1 hour 15 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "10 cups all-purpose apples, peeled, cored and sliced"
+      },
+      {
+        "type": "item",
+        "text": "1 cup white sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon ground cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "½ cup water"
+      },
+      {
+        "type": "item",
+        "text": "1 cup quick-cooking oats"
+      },
+      {
+        "type": "item",
+        "text": "1 cup all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 cup packed brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon baking powder"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon baking soda"
+      },
+      {
+        "type": "item",
+        "text": "½ cup butter, melted"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees F (175 degree C)."
+      },
+      {
+        "type": "step",
+        "text": "Place the sliced apples in a 9x13 inch pan. Mix the white sugar, 1 tablespoon flour and ground cinnamon together, and sprinkle over apples. Pour water evenly over all."
+      },
+      {
+        "type": "step",
+        "text": "Combine the oats, 1 cup flour, brown sugar, baking powder, baking soda and melted butter together. Crumble evenly over the apple mixture."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 350 degrees F (175 degrees C) for about 45 minutes."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/apple-crisp-ii-1.jpg",
+        "alt": "Apple Crisp II"
+      }
+    ],
+    "published": "2017-02-23T21:27:08Z",
+    "modified": "2017-02-23T21:27:08Z",
+    "source": {
+      "wpId": 213,
+      "url": "https://www.khoza.com/recipes/apple-crisp-ii/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-214\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/277070-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/277070-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/277070.jpg 560w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-213-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Apple Crisp II</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/277070-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/213-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT30M\">30 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT45M\">45 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT1H15M\">1 hour 15 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">10 cups all-purpose apples, peeled, cored and sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup white sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon ground cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup quick-cooking oats</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup packed brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup butter, melted</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees F (175 degree C).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the sliced apples in a 9x13 inch pan. Mix the white sugar, 1 tablespoon flour and ground cinnamon together, and sprinkle over apples. Pour water evenly over all.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine the oats, 1 cup flour, brown sugar, baking powder, baking soda and melted butter together. Crumble evenly over the apple mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 350 degrees F (175 degrees C) for about 45 minutes.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "sausage-gravy",
+    "slug": "sausage-gravy",
+    "title": "Sausage Gravy",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": null,
+    "times": {
+      "cook": {
+        "iso": "PT25M",
+        "minutes": 25,
+        "label": "25 mins"
+      },
+      "total": {
+        "iso": "PT25M",
+        "minutes": 25,
+        "label": "25 mins"
+      }
+    },
+    "servings": {
+      "label": "12",
+      "count": 12
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 pound breakfast sausage, hot or mild"
+      },
+      {
+        "type": "item",
+        "text": "⅓ cup all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "3 to 4 cups whole milk, more to taste"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon seasoned salt"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons freshly ground black pepper, more to taste"
+      },
+      {
+        "type": "item",
+        "text": "Biscuits, warmed, for serving"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "With your finger, tear small pieces of sausage and add them in a single layer to a large heavy skillet. Brown the sausage over medium-high heat until no longer pink. Reduce the heat to medium-low. Sprinkle on half the flour and stir so that the sausage soaks it all up, then add more little by little. Stir it around and cook it for another minute or so, then pour in the milk, stirring constantly."
+      },
+      {
+        "type": "step",
+        "text": "Cook the gravy, stirring frequently, until it thickens. (This may take a good 10 to 12 minutes.) Sprinkle in the seasoned salt and pepper and continue cooking until very thick and luscious. If it gets too thick too soon, just splash in another ½ cup of milk or more if needed. Taste and adjust the seasoning."
+      },
+      {
+        "type": "step",
+        "text": "Spoon the sausage gravy over warm biscuits and serve immediately!"
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2018-01-11T21:50:20Z",
+    "modified": "2018-03-02T19:34:51Z",
+    "source": {
+      "wpId": 454,
+      "url": "https://www.khoza.com/recipes/sausage-gravy/",
+      "html": "<p> <br />\n<div id=\"easyrecipe-454-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Sausage Gravy</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/454-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT25M\">25 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT25M\">25 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Genevieve Hammil</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">12</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 pound breakfast sausage, hot or mild</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; cup all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 to 4 cups whole milk, more to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon seasoned salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons freshly ground black pepper, more to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">Biscuits, warmed, for serving</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">With your finger, tear small pieces of sausage and add them in a single layer to a large heavy skillet. Brown the sausage over medium-high heat until no longer pink. Reduce the heat to medium-low. Sprinkle on half the flour and stir so that the sausage soaks it all up, then add more little by little. Stir it around and cook it for another minute or so, then pour in the milk, stirring constantly.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cook the gravy, stirring frequently, until it thickens. (This may take a good 10 to 12 minutes.) Sprinkle in the seasoned salt and pepper and continue cooking until very thick and luscious. If it gets too thick too soon, just splash in another &frac12; cup of milk or more if needed. Taste and adjust the seasoning.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spoon the sausage gravy over warm biscuits and serve immediately!</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3229</div> </div></p>\n"
+    }
+  }
+}

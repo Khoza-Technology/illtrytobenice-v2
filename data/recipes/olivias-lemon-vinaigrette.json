@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "olivias-lemon-vinaigrette",
+    "slug": "olivias-lemon-vinaigrette",
+    "title": "Olivia's Lemon Vinaigrette",
+    "summary": null,
+    "contributor": "olivia",
+    "categories": [
+      "sauce"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¼ cup lemon juice"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup avocado oil"
+      },
+      {
+        "type": "item",
+        "text": "¼ tsp Dijon mustard"
+      },
+      {
+        "type": "item",
+        "text": "1 garlic clove"
+      },
+      {
+        "type": "item",
+        "text": "salt and pepper to taste"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Whisk together. Use immediately or save for later."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2023-08-29T23:49:24Z",
+    "modified": "2023-08-29T23:49:24Z",
+    "source": {
+      "wpId": 561,
+      "url": "https://www.khoza.com/recipes/olivias-lemon-vinaigrette/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-561-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Olivia's Lemon Vinaigrette</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/561-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Olivia House</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup lemon juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup avocado oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; tsp Dijon mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 garlic clove</li> <li class=\"ingredient\" itemprop=\"ingredients\">salt and pepper to taste</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Whisk together. Use immediately or save for later.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+/* ==========================================================================
+   app.css — page-specific layout glue only. Components live in ds/*.css.
+   ========================================================================== */
+
+/* Controls that do nothing without JS (DS .no-js-hide uses display:revert, which
+   would clobber component display values, so we hide by attribute instead). */
+html:not(.js) [data-requires-js] { display: none !important; }
+
+main:focus { outline: none; }
+
+/* Headings nested inside list-level heading rows inherit the row's label style */
+.check-item--heading > h3,
+.steps__heading > h3 {
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  color: inherit;
+}
+
+/* ---- Footer ---------------------------------------------------------------- */
+.site-footer {
+  margin-top: 0; /* .page's bottom padding (--space-xl) is the gap above the footer */
+  padding-block: var(--space-l) var(--space-m);
+  border-top: 1px solid var(--color-line);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  --gap: var(--space-2xs);
+}
+
+/* ---- Home ------------------------------------------------------------------ */
+/* Hero, tabs and sections share the .container edges. The hero copy keeps a
+   readable measure by capping its children, not by insetting the column. */
+.home-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-s);
+  padding-block: var(--space-s) var(--space-l);
+}
+
+.home-hero > * { max-width: var(--container-narrow); }
+
+.home-hero__title { font-size: var(--step-5); line-height: 1.02; }
+.home-hero__greeting { font-weight: var(--weight-medium); }
+
+/* same step below the tab strip on home, search and category pages */
+.page > .divider-tabs { margin-bottom: var(--space-l); }
+
+@media (min-width: 900px) {
+  .home-hero { padding-block: var(--space-m) var(--space-xl); }
+  .page > .divider-tabs { margin-bottom: var(--space-xl); }
+}
+
+/* ---- 404 ------------------------------------------------------------------------- */
+/* One spacing step between empty state, search and the footer. The search field joins
+   the empty state's centred column (same measure), not the full container. */
+.not-found { --gap: var(--space-xl); align-items: center; }
+.not-found .empty-state { padding-block-end: 0; }
+.not-found > .search-field { max-width: var(--container-tight); }
+
+/* ---- Browse (recipe table on home / search / category / contributor) ------------ */
+.browse__controls {
+  align-items: center;
+  margin-bottom: var(--space-s);
+}
+.browse__controls .chip-row { flex: 1 1 100%; }
+.browse__count { font-size: var(--step--1); white-space: nowrap; }
+
+@media (min-width: 900px) {
+  .browse__controls .chip-row { flex: 0 1 auto; }
+}
+
+.search-page__head { margin-bottom: var(--space-m); }
+
+/* Listing pages have no filters: the sort control is the only control and disappears ≥900px
+   (column headers sort there), so the row collapses with it. */
+@media (min-width: 900px) {
+  .browse__controls[data-sort-only] { display: none; }
+}
+
+/* ---- Recipe page -------------------------------------------------------------- */
+.recipe-hero .action-bar { margin-top: var(--space-2xs); }
+
+/* "More from <category>" uses the page grid: full container width, so its head ("See all")
+   and rows end on the same edge as the recipe body and the hero rule above it. */
+
+.recipe-body {
+  display: grid;
+  gap: 0 var(--space-xl);
+  margin-top: var(--space-l);
+}
+
+.recipe-scaler {
+  align-items: center;
+  margin-bottom: var(--space-s);
+}
+
+@media (min-width: 900px) {
+  .recipe-body {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    align-items: start;
+  }
+  /* Never clip the list: no max-height/overflow. Long lists simply scroll with the page. */
+  .recipe-ingredients { margin-block: 0; }
+  .recipe-steps { margin-block: 0; }
+  .recipe-notes { grid-column: 2; }
+}
+
+.recipe-nosteps .empty-state { padding-block: var(--space-m); }
+
+.is-cooking body { overflow: hidden; }
+
+/* ---- Shopping list ------------------------------------------------------------- */
+/* Same container start edge as every other page. The whole page — head (title + summary),
+   controls, list, empty state and actions — shares one reading-measure column, so the
+   summary sits on that column's end edge instead of the far container edge. */
+.shopping-list > * { max-width: var(--container-narrow); }
+
+.list-toolbar,
+.list-add { margin-bottom: var(--space-s); }
+.list-add { flex-wrap: nowrap; }
+.list-add .input { flex: 1; min-width: 0; }
+.list-add > .btn { align-self: stretch; } /* same height as the input beside it */
+
+.list-group { margin-block: var(--space-m); }
+
+.list-group__head {
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  list-style: none;
+  min-height: var(--tap);
+  margin-block-end: var(--space-2xs);
+}
+.list-group__head::-webkit-details-marker { display: none; }
+.list-group__title { flex: 1; min-width: 0; font-size: var(--step-1); }
+.list-group__count { font-size: var(--step--1); font-variant-numeric: tabular-nums; white-space: nowrap; }
+/* "View recipe" ghost link under each group: text aligns with the item labels' start edge */
+.list-group__recipe {
+  margin-block-start: var(--space-2xs);
+  margin-inline-start: calc(-1 * var(--space-xs));
+}
+.list-group__chevron { transition: transform var(--dur-fast) var(--ease-out); }
+.list-group:not([open]) .list-group__chevron { transform: rotate(-90deg); }
+
+.list-item {
+  background: var(--color-bg);
+  touch-action: pan-y;
+  transition: transform var(--dur-base) var(--ease-out), opacity var(--dur-base) var(--ease-out);
+}
+.list-item.is-swiping { transition: none; }
+.list-item .check-item__label { cursor: pointer; }
+.list-item__sources { display: block; font-size: var(--step--1); }
+.list-item__delete { margin-block: -6px; }
+
+.list-actions { margin-top: var(--space-l); --gap: var(--space-2xs); }
+
+/* ---- Print ------------------------------------------------------------------------ */
+@media print {
+  .site-footer,
+  .recipe-related,
+  .recipe-scaler,
+  [data-reset-checks] { display: none !important; }
+  .recipe-body { display: block; }
+}

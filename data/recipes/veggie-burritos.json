@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "veggie-burritos",
+    "slug": "veggie-burritos",
+    "title": "Veggie Burritos",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) vegetable oil"
+      },
+      {
+        "type": "item",
+        "text": "1 red onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 Clove(s) garlic, minced"
+      },
+      {
+        "type": "item",
+        "text": "1 green pepper, seeded and chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 red pepper, seeded and chopped"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) minced fresh cilantro"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) chili powder"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) ground cumin"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) cayenne pepper"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) dry white wine"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) corn"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) tomatoes, drain juice"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) garbanzo beans, drain juice"
+      },
+      {
+        "type": "item",
+        "text": "2 zucchini, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) sugar snap peas"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) shredded cheese"
+      },
+      {
+        "type": "item",
+        "text": "8 flour tortillas"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) sour cream"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oil in a large, deep skillet over medium-high heat. Add onion, garlic, green and red peppers, cilantro, chili powder, cumin and cayenne pepper."
+      },
+      {
+        "type": "step",
+        "text": "Reduce heat to medium and saute, stirring constantly until the vegetables are soft."
+      },
+      {
+        "type": "step",
+        "text": "Add wine, turn up heat to medium-high, and stir until most of the wine has evaporated, about 3 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Add corn, tomatoes and garbanzo beans. Stir constantly until corn has turned deep yellow and tomatoes have thickened, about 7 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Add zucchini and peas. Continue stirring just until the vegetables are cooked through, about 5 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Serve on tortillas and add sour cream and cheese if desired."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:32:04Z",
+    "modified": "2017-02-24T01:32:04Z",
+    "source": {
+      "wpId": 374,
+      "url": "https://www.khoza.com/recipes/veggie-burritos/",
+      "html": "<p><div id=\"easyrecipe-374-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Veggie Burritos</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/374-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) vegetable oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Clove(s) garlic, minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 green pepper, seeded and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red pepper, seeded and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) minced fresh cilantro</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) chili powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) ground cumin</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) cayenne pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) dry white wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) corn</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) tomatoes, drain juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) garbanzo beans, drain juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 zucchini, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) sugar snap peas</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) shredded cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 flour tortillas</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) sour cream</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oil in a large, deep skillet over medium-high heat. Add onion, garlic, green and red peppers, cilantro, chili powder, cumin and cayenne pepper.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Reduce heat to medium and saute, stirring constantly until the vegetables are soft.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add wine, turn up heat to medium-high, and stir until most of the wine has evaporated, about 3 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add corn, tomatoes and garbanzo beans. Stir constantly until corn has turned deep yellow and tomatoes have thickened, about 7 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add zucchini and peas. Continue stirring just until the vegetables are cooked through, about 5 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Serve on tortillas and add sour cream and cheese if desired.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

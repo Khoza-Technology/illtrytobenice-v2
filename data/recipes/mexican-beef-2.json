@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "mexican-beef-2",
+    "slug": "mexican-beef-2",
+    "title": "Mexican Beef",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "Mexican",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 chuck roast"
+      },
+      {
+        "type": "item",
+        "text": "1 onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1½ jalapeno, coarsely chopped"
+      },
+      {
+        "type": "item",
+        "text": "5 Clove(s) garlic"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) roast water"
+      },
+      {
+        "type": "item",
+        "text": "3 lime"
+      },
+      {
+        "type": "item",
+        "text": "2 lemon"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) beef broth"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) orange juice"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Poke beef thoroughly on both sides with a fork. Place in crock pot, add OJ to just cover. Add zest of 2 lemons and 2 limes. Slice lemons and lime and add to crock pot. Let marinate over night. (two hours on the counter will work if you don't have all night, however it's not as good.)."
+      },
+      {
+        "type": "step",
+        "text": "Pour out almost ALL of the OJ, leaving the lemons, limes and hopefully some of the zest. Salt and pepper beef liberally. Cover and cook till it falls apart."
+      },
+      {
+        "type": "step",
+        "text": "Remove meat and shred with hands into a skillet. Add onion, jalapeno, garlic, salt and pepper. Add enough beef broth to cover the top of the meat. Cook on medium/high heat and let the broth boil away."
+      },
+      {
+        "type": "step",
+        "text": "Squeeze lime over the meat and serve."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:02:46Z",
+    "modified": "2017-02-24T01:02:46Z",
+    "source": {
+      "wpId": 333,
+      "url": "https://www.khoza.com/recipes/mexican-beef-2/",
+      "html": "<p><div id=\"easyrecipe-333-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Mexican Beef</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/333-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Mexican</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 chuck roast</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; jalepano, coarsley chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 Clove(s) garlic</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) roast water</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 lime</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 lemon</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) beef broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) orange juice</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Poke beef thoroughly on both sides with a fork. Place in crock pot, add OJ to just cover. Add zest of 2 lemons and 2 limes. Slice lemons and lime and add to crock pot. Let marinate over night. (two hours on the counter will work if you don't have all night, however it's not as good.).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour out almost ALL of the OJ, leaving the lemons, limes and hopefully some of the zest. Salt and pepper beef liberally. Cover and cook till it falls apart.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove meat and shred with hands into a skillet. Add onion, jalepano, garlic, salt and pepper. Add enough beef broth to cover the top of the meat. Cook on medium/high heat and let the broth boil away.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Squeeze lime over the meat and serve.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "moms-chocolate-cake",
+    "slug": "moms-chocolate-cake",
+    "title": "Mom's Chocolate Cake",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": {
+      "label": "10",
+      "count": 10
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 cups all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons baking powder"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons baking soda"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon salt"
+      },
+      {
+        "type": "item",
+        "text": "2 cups sugar"
+      },
+      {
+        "type": "item",
+        "text": "4 ounces unsweetened chocolate"
+      },
+      {
+        "type": "item",
+        "text": "6 tablespoons unsalted butter"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon pure vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs, lightly beaten"
+      },
+      {
+        "type": "heading",
+        "text": "Chocolate Frosting"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat the oven to 350°. Butter and flour two 8-by-1½-inch round cake pans. Line the bottoms with wax paper. In a medium bowl, sift together the flour, baking powder, baking soda and salt; set aside."
+      },
+      {
+        "type": "step",
+        "text": "In a medium saucepan, combine the sugar with 2 cups of water. Bring to a boil over high heat and stir until the sugar dissolves; then pour into a large bowl. Add the chocolate and butter and let sit, stirring occasionally, until melted and slightly cooled. Stir in the vanilla."
+      },
+      {
+        "type": "step",
+        "text": "Beat the eggs into the chocolate mixture at medium speed until combined. Add the dry ingredients all at once and beat at medium speed until smooth. Divide the batter evenly between the prepared pans and bake for about 25 minutes, or until the top springs back when pressed lightly and a cake tester comes out clean. Cool the cakes in their pans for about 25 minutes, then invert onto a rack to cool completely."
+      },
+      {
+        "type": "step",
+        "text": "Set one cake, right-side up, on a serving platter. Using a metal spatula, spread one-third of the Chocolate Frosting evenly over the cake. Top with the second cake and frost the top and sides with the remaining frosting."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/moms-chocolate-cake-1.jpg",
+        "alt": "Mom's Chocolate Cake"
+      }
+    ],
+    "published": "2017-02-23T21:13:47Z",
+    "modified": "2017-02-23T21:13:47Z",
+    "source": {
+      "wpId": 195,
+      "url": "https://www.khoza.com/recipes/moms-chocolate-cake/",
+      "html": "<div id=\"attachment_196\" style=\"width: 310px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-196\" class=\"size-medium wp-image-196\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake-300x300.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake-150x150.jpg 150w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake-50x50.jpg 50w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake.jpg 551w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><p id=\"caption-attachment-196\" class=\"wp-caption-text\">Mom&#8217;s Chocolate Cake</p></div>\n<p><div id=\"easyrecipe-195-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Mom's Chocolate Cake</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/201202-xl-moms-chocolate-cake-300x300.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/195-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">10</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons baking powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 ounces unsweetened chocolate</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 tablespoons unsalted butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon pure vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs, lightly beaten</li> <li class=\"ingredient\" itemprop=\"ingredients\">Chocolate Frosting</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 350°. Butter and flour two 8-by-1&frac12;-inch round cake pans. Line the bottoms with wax paper. In a medium bowl, sift together the flour, baking powder, baking soda and salt; set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a medium saucepan, combine the sugar with 2 cups of water. Bring to a boil over high heat and stir until the sugar dissolves; then pour into a large bowl. Add the chocolate and butter and let sit, stirring occasionally, until melted and slightly cooled. Stir in the vanilla.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat the eggs into the chocolate mixture at medium speed until combined. Add the dry ingredients all at once and beat at medium speed until smooth. Divide the batter evenly between the prepared pans and bake for about 25 minutes, or until the top springs back when pressed lightly and a cake tester comes out clean. Cool the cakes in their pans for about 25 minutes, then invert onto a rack to cool completely.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Set one cake, right-side up, on a serving platter. Using a metal spatula, spread one-third of the Chocolate Frosting evenly over the cake. Top with the second cake and frost the top and sides with the remaining frosting.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

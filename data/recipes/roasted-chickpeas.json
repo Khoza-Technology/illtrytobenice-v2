@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "roasted-chickpeas",
+    "slug": "roasted-chickpeas",
+    "title": "Roasted Chickpeas",
+    "summary": null,
+    "contributor": "maddy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1½ cups dried chickpeas"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "Topping ideas"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons paprika, 1 teaspoon cumin"
+      },
+      {
+        "type": "item",
+        "text": "3 teaspoons sugar, 1 teaspoon cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "1 lime or 2 tablespoons lime juice, 2 teaspoons black pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon cumin, 1 teaspoon paprika, 1 teaspoon chili powder, ½ teaspoon garlic powder, ¼ teaspoon salt, ¼ teaspoon black pepper (or 4 teaspoons taco seasoning)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Soak chickpeas for 24 hours with salt."
+      },
+      {
+        "type": "step",
+        "text": "Drain and rinse the chickpeas."
+      },
+      {
+        "type": "step",
+        "text": "Heat the oven to 400 degrees. Dry the chickpeas extremely well using towels."
+      },
+      {
+        "type": "step",
+        "text": "Spread the chickpeas on a baking sheet. Drizzle 3 tablespoons of oil on the chickpeas if using the oven. Drizzle 1 tablespoon if using an air fryer. Roast for 20 minutes, and then start shaking every 5-10 minutes. At about 30-35 minutes, the chickpeas start to get crispy. They are done when they are as crispy as you want."
+      },
+      {
+        "type": "step",
+        "text": "If using an air fryer, heat to 390 degrees and cook a single layer 15-17 minutes until brown."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2025-02-15T17:16:06Z",
+    "modified": "2025-02-27T16:49:36Z",
+    "source": {
+      "wpId": 585,
+      "url": "https://www.khoza.com/recipes/585-2/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-585-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Roasted Chickpeas</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/585-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Maddy Simonsen</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; cups dried chickpeas</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">Topping ideas</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons paprika, 1 teaspoon cumin</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 teaspoons sugar, 1 teaspoon cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 lime or 2 tablespoons lime juice, 2 teaspoons black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon cumin, 1 teaspoon paprika, 1 teaspoon chili powder, ½ teaspoon garlic powder, ¼ teaspoon salt, ¼ teaspoon black pepper (or 4 teaspoons taco seasoning)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Soak chickpeas for 24 hours with salt.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Drain and rinse the chickpeas.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat the oven to 400 degrees. Dry the chickpeas extremely well using towels.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spread the chickpeas on a baking sheet. Drizzle 3 tablespoons of oil on the chickpeas if using the oven. Drizzle 1 tablespoon if using an air fryer. Roast for 20 minutes, and then start shaking every 5-10 minutes. At about 30-35 minutes, the chickpeas start to get crispy. They are done when they are as crispy as you want.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">If using an air fryer, heat to 390 degrees and cook a single layer 15-17 minutes until brown.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div>\n<div class=\"easyrecipeBelow mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line below\"></div>\n</div>\n"
+    }
+  }
+}

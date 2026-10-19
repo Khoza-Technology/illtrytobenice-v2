@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "oatmeal",
+    "slug": "oatmeal",
+    "title": "Oatmeal",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 apple, diced into pieces"
+      },
+      {
+        "type": "item",
+        "text": "½ Can(s) white grape juice concentrate"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) walnuts, coarsely chopped and toasted"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) oatmeal"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) milk"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Put apples and white grape juice in a small saucepan and cook over medium heat until apples are tender, about 20 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Toast walnuts in medium saucepan. Add oatmeal and milk. Cook according to oatmeal directions. When done add apple mixture. Top with brown sugar if desired."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:09:48Z",
+    "modified": "2017-02-24T01:09:48Z",
+    "source": {
+      "wpId": 343,
+      "url": "https://www.khoza.com/recipes/oatmeal/",
+      "html": "<p><div id=\"easyrecipe-343-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Oatmeal</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/343-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Breakfast</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 apple, diced into pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Can(s) white grape juice concentrate</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) walnuts, coarsely chopped and toasted</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) oatmeal</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) milk</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put apples and white grape juice in a small saucepan and cook over medium heat until apples are tender, about 20 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Toast walnuts in medium saucepan. Add oatmeal and milk. Cook according to oatmeal directions. When done add apple mixture. Top with brown sugar if desired.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

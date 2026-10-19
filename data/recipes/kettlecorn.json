@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "kettlecorn",
+    "slug": "kettlecorn",
+    "title": "Kettlecorn",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¼ Cup(s) canola oil"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) powdered sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) yellow popcorn"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) granulated sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) kosher salt"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In 5 Quart pan add oil and powder sugar, then heat oil over high heat. Mix as the oil heats, it will be very pasty, but as the oil heats the paste will turn to liquid. When it is hot enough, the sugar begins to create brown liquid pockets."
+      },
+      {
+        "type": "step",
+        "text": "Put in the popcorn, cover. Occasionally pick up the pan and vigorously shake (probably not needed, but fun, and it makes this look more impressive). Popping time is about 2-3 minutes."
+      },
+      {
+        "type": "step",
+        "text": "When the popcorn starts to push the lid up, or popping stops, take off the stove and dump into large bowl."
+      },
+      {
+        "type": "step",
+        "text": "While"
+      },
+      {
+        "type": "step",
+        "text": "using a large fork/spoon to stir the popcorn, sprinkle the sugar over the popcorn. Then sprinkle the salt. Taste. Add more salt, if needed."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:54:11Z",
+    "modified": "2017-02-24T00:54:11Z",
+    "source": {
+      "wpId": 319,
+      "url": "https://www.khoza.com/recipes/kettlecorn/",
+      "html": "<p><div id=\"easyrecipe-319-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Kettlecorn</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/319-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) canola oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) powdered sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) yellow popcorn</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) granulated sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) kosher salt</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In 5 Quart pan add oil and powder sugar, then heat oil over high heat. Mix as the oil heats, it will be very pasty, but as the oil heats the paste will turn to liquid. When it is hot enough, the sugar begins to create brown liquid pockets.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put in the popcorn, cover. Occasionally pick up the pan and vigorously shake (probably not needed, but fun, and it makes this look more impressive). Popping time is about 2-3 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">When the popcorn starts to push the lid up, or popping stops, take off the stove and dump into large bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">While</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">using a large fork/spoon to stir the popcorn, sprinkle the sugar over the popcorn. Then sprinkle the salt. Taste. Add more salt, if needed.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

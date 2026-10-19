@@ -1,0 +1,1775 @@
+/* ==========================================================================
+   DS / components.css — every reusable component. See docs/DESIGN-SYSTEM.md.
+   Order: icon · btn · button-row · chip · segmented · stepper · search-field · input ·
+   switch · card · recipe-table · divider-tabs · badge · meta-list · dot-list · facts ·
+   checklist · steps · empty-state · recipe-hero · sheet · toast · cook-mode
+   ========================================================================== */
+
+/* ---- Icon ------------------------------------------------------------------ */
+.icon {
+  flex: none;
+  width: 1.25em;
+  height: 1.25em;
+  vertical-align: -0.25em;
+  overflow: visible;
+}
+
+.icon--sm { width: 18px; height: 18px; }
+.icon--md { width: 24px; height: 24px; }
+.icon--lg { width: 32px; height: 32px; }
+
+/* Toggle icon pairs inside any [aria-pressed] control */
+[aria-pressed] .icon--on { display: none; }
+[aria-pressed="true"] .icon--on { display: inline-block; }
+[aria-pressed="true"] .icon--off { display: none; }
+
+/* ---- Button ----------------------------------------------------------------- */
+.btn {
+  --btn-bg: transparent;
+  --btn-fg: var(--color-ink);
+  --btn-border: transparent;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2xs);
+  min-height: var(--tap);
+  padding: 0 var(--space-s);
+  border: 1.5px solid var(--btn-border);
+  border-radius: var(--radius-m);
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-label);
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  transition:
+    transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-base) var(--ease-out),
+    color var(--dur-fast) var(--ease-out);
+}
+
+.btn:active:not(:disabled) { transform: scale(var(--press-scale)); }
+
+.btn:disabled,
+.btn[aria-disabled="true"] {
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+.btn .icon { width: 1.35em; height: 1.35em; }
+
+.btn--primary {
+  --btn-bg: var(--color-accent-strong);
+  --btn-fg: var(--color-accent-ink);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.18),
+    0 1px 2px rgba(120, 45, 25, 0.2),
+    0 4px 12px -4px rgba(169, 67, 46, 0.45);
+}
+
+@media (hover: hover) {
+  .btn--primary:hover {
+    filter: brightness(1.07);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.18),
+      0 2px 4px rgba(120, 45, 25, 0.2),
+      0 8px 18px -6px rgba(169, 67, 46, 0.55);
+  }
+}
+
+.btn--secondary {
+  --btn-bg: var(--color-surface);
+  --btn-border: var(--color-line-strong);
+  box-shadow: var(--shadow-1), var(--shadow-inset-top);
+}
+
+@media (hover: hover) {
+  .btn--secondary:hover,
+  .btn--ghost:hover { --btn-bg: var(--color-surface-2); }
+}
+
+/* Small: tighter padding and radius. Height stays --tap-min on touch/mobile and
+   only drops to --control-sm for fine pointers on desktop. */
+.btn--sm {
+  padding-inline: var(--space-xs);
+  border-radius: var(--radius-s);
+}
+
+@media (min-width: 900px) and (pointer: fine) {
+  .btn--sm { min-height: var(--control-sm); }
+  /* keep a 44px hit area around the compact visual */
+  .btn--sm::after {
+    content: "";
+    position: absolute;
+    inset: calc((var(--control-sm) - var(--tap-min)) / 2);
+  }
+}
+
+/* Icon-only: square, no inline padding. Declared after the size modifiers so
+   their padding-inline never squashes the icon. */
+.btn.btn--icon {
+  width: var(--tap-min);
+  padding: 0;
+  border-radius: var(--radius-pill);
+}
+
+.btn--icon .icon { width: 22px; height: 22px; }
+
+@media (min-width: 900px) and (pointer: fine) {
+  .btn.btn--sm.btn--icon { width: var(--control-sm); }
+}
+
+.btn--lg {
+  min-height: 56px;
+  padding-inline: var(--space-m);
+  font-size: var(--step-0);
+  border-radius: var(--radius-m);
+}
+
+.btn.btn--lg.btn--icon { width: 56px; }
+
+.btn--block { display: flex; width: 100%; }
+
+.btn[aria-pressed="true"]:not(.btn--primary) {
+  color: var(--color-accent-strong);
+}
+
+/* ---- Button row: an even row of equal-width secondary buttons ---------------------------------
+   <div class="button-row"><button class="btn btn--secondary">…</button>…</div>
+   Every button gets the same width. Below 640px each button stacks its icon over its label so
+   three fit side by side at 360px without a lone button wrapping onto its own line. */
+.button-row {
+  display: grid;
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  gap: var(--space-2xs);
+}
+
+.button-row > .btn { min-width: 0; }
+
+@media (max-width: 639.98px) {
+  .button-row > .btn {
+    flex-direction: column;
+    gap: var(--space-3xs);
+    min-height: calc(var(--tap-min) + var(--space-xs));
+    padding: var(--space-2xs) var(--space-3xs);
+    white-space: normal;
+  }
+}
+
+/* ---- Chip & chip row ------------------------------------------------------------ */
+.chip {
+  position: relative;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3xs);
+  min-height: var(--tap-min);
+  padding: 0 var(--space-xs);
+  border: 1.5px solid var(--color-line-strong);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  letter-spacing: var(--tracking-label);
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out);
+}
+
+@media (min-width: 900px) and (pointer: fine) {
+  .chip { min-height: var(--control-md); }
+  .chip::after {
+    content: "";
+    position: absolute;
+    inset: calc((var(--control-md) - var(--tap-min)) / 2) 0;
+  }
+}
+
+@media (hover: hover) {
+  .chip:hover { border-color: var(--color-ink-muted); }
+}
+.chip:active { transform: scale(var(--press-scale)); }
+
+.chip[aria-pressed="true"],
+.chip[aria-current] {
+  background: var(--color-accent-soft);
+  border-color: var(--color-accent);
+  color: var(--color-accent-strong);
+}
+
+.chip .icon { width: 16px; height: 16px; }
+
+.chip__count {
+  font-size: 0.75rem;
+  font-weight: var(--weight-semibold);
+  font-variant-numeric: tabular-nums;
+  opacity: 0.75;
+}
+
+.chip-row,
+.divider-tabs {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+  scroll-padding-inline: var(--gutter);
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  margin-inline: calc(-1 * var(--gutter));
+  padding-inline: var(--gutter);
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 var(--gutter), #000 calc(100% - 2 * var(--gutter)), transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 var(--gutter), #000 calc(100% - 2 * var(--gutter)), transparent 100%);
+}
+
+.chip-row::-webkit-scrollbar,
+.divider-tabs::-webkit-scrollbar { display: none; }
+
+.chip-row {
+  gap: var(--space-2xs);
+  padding-block: 4px;
+}
+
+.chip-row > * { scroll-snap-align: start; }
+
+@media (min-width: 900px) {
+  .chip-row {
+    flex-wrap: wrap;
+    overflow: visible;
+    margin-inline: 0;
+    padding-inline: 0;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
+
+/* ---- Segmented control ------------------------------------------------------------ */
+.segmented {
+  display: inline-flex;
+  padding: 3px;
+  gap: 2px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-line);
+}
+
+.segmented__option {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3xs);
+  min-height: var(--tap-min);
+  min-width: var(--tap-min);
+  padding: 0 var(--space-xs);
+  border-radius: var(--radius-pill);
+  color: var(--color-ink-muted);
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  letter-spacing: var(--tracking-label);
+  white-space: nowrap;
+  transition: background-color var(--dur-base) var(--ease-out), color var(--dur-fast) var(--ease-out), box-shadow var(--dur-base) var(--ease-out);
+}
+
+@media (min-width: 900px) and (pointer: fine) {
+  .segmented__option { min-height: var(--control-md); }
+  .segmented__option::after { content: ""; position: absolute; inset: calc((var(--control-md) - var(--tap-min)) / 2) 0; }
+}
+
+@media (hover: hover) {
+  .segmented__option:hover { color: var(--color-ink); }
+}
+
+/* Selected thumb: a raised surface that is always lighter than the surface-2 track (both
+   themes), plus an accent ring — the ring carries the ≥3:1 non-text contrast against the
+   track, the same accent edge a selected chip uses. Inset ring: no layout shift. */
+.segmented__option[aria-pressed="true"] {
+  background: var(--color-surface-raised);
+  color: var(--color-ink);
+  font-weight: var(--weight-semibold);
+  box-shadow: inset 0 0 0 1.5px var(--color-accent), var(--shadow-1), var(--shadow-inset-top);
+}
+
+.segmented__option .icon { width: 16px; height: 16px; }
+
+/* ---- Stepper ----------------------------------------------------------------------- */
+.stepper {
+  display: inline-flex;
+  align-items: center;
+  border: 1.5px solid var(--color-line-strong);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+}
+
+.stepper__btn {
+  display: grid;
+  place-items: center;
+  width: var(--tap-min);
+  height: var(--tap-min);
+  border-radius: var(--radius-pill);
+  color: var(--color-ink);
+  transition: background-color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+
+.stepper__btn:hover { background: var(--color-surface-2); }
+.stepper__btn:active:not(:disabled) { transform: scale(0.9); }
+.stepper__btn:disabled { opacity: 0.35; }
+.stepper__btn .icon { width: 18px; height: 18px; }
+
+.stepper__value {
+  min-width: 4.5ch;
+  padding-inline: var(--space-3xs);
+  text-align: center;
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---- Search field -------------------------------------------------------------------
+   One size everywhere (home, search, 404, style guide): --field-h tall, raised, capped at
+   --container-narrow. The end padding reserves room for the clear button only while there
+   is a value; an empty field gives that room back to the placeholder, which also ellipsizes
+   instead of clipping. `.search-field--lg` is a legacy alias and changes nothing. */
+.search-field {
+  --field-inset: var(--space-s);                       /* icon start inset */
+  --field-icon: 22px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: var(--container-narrow);
+}
+
+.search-field__icon {
+  position: absolute;
+  left: var(--field-inset);
+  width: var(--field-icon);
+  height: var(--field-icon);
+  color: var(--color-ink-muted);
+  pointer-events: none;
+}
+
+.search-field__input {
+  width: 100%;
+  min-width: 0;
+  min-height: var(--field-h);
+  padding: 0 calc(var(--tap-min) + var(--space-3xs) * 2) 0 calc(var(--field-inset) + var(--field-icon) + var(--space-2xs));
+  border: 1.5px solid var(--color-line-strong);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-size: var(--step-0);
+  text-overflow: ellipsis;
+  box-shadow: var(--shadow-2), var(--shadow-inset-top);
+  -webkit-appearance: none;
+  appearance: none;
+  transition: border-color var(--dur-fast) var(--ease-out), box-shadow var(--dur-base) var(--ease-out);
+}
+
+/* empty: no clear button, so the placeholder may use the full width up to the end inset */
+.search-field__input:placeholder-shown { padding-inline-end: var(--space-s); }
+
+.search-field__input::placeholder {
+  color: var(--color-ink-muted);
+  opacity: 1;
+  text-overflow: ellipsis;
+}
+
+.search-field__input::-webkit-search-decoration,
+.search-field__input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
+
+.search-field__input:focus-visible {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px var(--color-accent-soft), var(--shadow-2);
+}
+
+.search-field__clear {
+  position: absolute;
+  right: var(--space-3xs);
+  display: grid;
+  place-items: center;
+  width: var(--tap-min);
+  height: var(--tap-min);
+  border-radius: var(--radius-pill);
+  color: var(--color-ink-muted);
+}
+
+@media (hover: hover) {
+  .search-field__clear:hover { color: var(--color-ink); background: var(--color-surface-2); }
+}
+.search-field__clear .icon { width: 18px; height: 18px; }
+.search-field__input:placeholder-shown ~ .search-field__clear { display: none; }
+
+@media (min-width: 640px) {
+  .search-field { --field-inset: var(--space-m); }
+  .search-field__input { font-size: var(--step-1); }
+}
+
+/* ---- Input / select / textarea ---------------------------------------------------------- */
+.input {
+  width: 100%;
+  min-height: 48px;
+  padding: 0 var(--space-s);
+  border: 1.5px solid var(--color-line-strong);
+  border-radius: var(--radius-m);
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-size: var(--step-0);
+  transition: border-color var(--dur-fast) var(--ease-out), box-shadow var(--dur-base) var(--ease-out);
+}
+
+textarea.input {
+  min-height: 7rem;
+  padding-block: var(--space-xs);
+  line-height: var(--leading-body);
+  resize: vertical;
+}
+
+select.input {
+  -webkit-appearance: none;
+  appearance: none;
+  padding-right: 44px;
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--color-ink-muted) 50%),
+    linear-gradient(135deg, var(--color-ink-muted) 50%, transparent 50%);
+  background-position: calc(100% - 22px) 52%, calc(100% - 16px) 52%;
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+}
+
+.input::placeholder { color: var(--color-ink-muted); opacity: 1; }
+
+.input:focus-visible {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px var(--color-accent-soft);
+}
+
+.input[aria-invalid="true"] { border-color: var(--color-danger); }
+
+.field {
+  display: grid;
+  gap: var(--space-3xs);
+}
+
+.field__label {
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  color: var(--color-ink);
+}
+
+.field__hint {
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+/* ---- Switch -------------------------------------------------------------------------------- */
+.switch {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  min-height: var(--tap);
+  cursor: pointer;
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.switch__input {
+  position: relative;
+  flex: none;
+  width: 46px;
+  height: 28px;
+  margin: 0;
+  border-radius: var(--radius-pill);
+  background: var(--color-line-strong);
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  transition: background-color var(--dur-base) var(--ease-out);
+}
+
+.switch__input::before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #FFFDF8;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  transition: transform var(--dur-base) var(--ease-spring);
+}
+
+.switch__input:checked { background: var(--color-accent-strong); }
+.switch__input:checked::before { transform: translateX(18px); }
+.switch__input:focus-visible { outline: 2.5px solid var(--color-focus); outline-offset: 2px; }
+
+/* ---- Card (index card) ------------------------------------------------------------------------ */
+.card {
+  position: relative;
+  padding: var(--space-m) var(--space-s) var(--space-s);
+  border-radius: var(--radius-m);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-1), var(--shadow-inset-top);
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 3px;
+  border-radius: var(--radius-m) var(--radius-m) 0 0;
+  background: var(--color-accent);
+}
+
+@media (min-width: 640px) {
+  .card { padding: var(--space-m); }
+}
+
+.card--ruled {
+  --rule: 1.75rem;
+  line-height: var(--rule);
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent calc(var(--rule) - 1px),
+    var(--color-rule) calc(var(--rule) - 1px),
+    var(--color-rule) var(--rule)
+  );
+  background-origin: content-box;
+  background-position: 0 0;
+}
+
+/* keep every line on the ruling */
+.card--ruled > * {
+  margin-block: 0;
+  line-height: var(--rule);
+}
+
+.card--ruled > * + * { margin-block-start: var(--rule); }
+.card--ruled > .card__title { margin-block-end: 0; }
+.card--ruled > .card__title + * { margin-block-start: 0; }
+
+.card--flat {
+  box-shadow: none;
+  border: 1px solid var(--color-line);
+}
+
+.card--flat::before,
+.card--plain::before { display: none; }
+
+.card__title {
+  font-size: var(--step-1);
+  margin-block-end: var(--space-2xs);
+}
+
+/* ---- Recipe table: the recipe index ------------------------------------------------------------------
+   One template (src/assets/js/app/markup.js → recipeTableHTML) renders it at build time and in the
+   browser. A real <table>: ≥640px it shows columns Recipe · From · Category · Time · (Added ≥900px) · ♥.
+   Below 640px — and at every width with .recipe-table--compact — the same markup shows compact list
+   rows: the title over a .dot-list meta line ("From · Category · Time") with the heart on the right.
+   The meta line and the extra cells are display:none at the other size, so assistive tech never
+   hears anything twice and the element keeps native table semantics at every width.
+   Row identity is a thin left rule in the category tint (style="--cat: var(--cat-<id>)" on the row). */
+.recipe-table {
+  --row-pad-block: var(--space-2xs);
+  --row-pad-inline: var(--space-s);
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: clip;
+  border-radius: var(--radius-m);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-1), var(--shadow-inset-top);
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  color: var(--color-ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.recipe-table[hidden] { display: none; }
+
+.recipe-table :is(th, td) {
+  padding: var(--row-pad-block) var(--row-pad-inline);
+  text-align: start;
+  vertical-align: middle;
+  font-weight: inherit;
+}
+
+/* hairline between rows; visible rows always come first, so the first child never needs one */
+.recipe-table tbody tr + tr > * { border-top: 1px solid var(--color-line); }
+
+.recipe-table__row { position: relative; }
+
+.recipe-table__row > * {
+  transition: background-color var(--dur-fast) var(--ease-out);
+}
+
+@media (hover: hover) {
+  .recipe-table__row:hover > * { background-color: var(--color-surface-2); }
+}
+
+.recipe-table__title {
+  width: 100%;
+  box-shadow: inset 3px 0 0 color-mix(in oklab, var(--cat, var(--cat-misc)) 78%, var(--color-ink));
+}
+
+.recipe-table__name {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.recipe-table__title:has(.recipe-table__thumb) {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.recipe-table__thumb {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-s);
+  object-fit: cover;
+  background: var(--color-surface-2);
+}
+
+.recipe-table__link {
+  font-size: var(--step-0);
+  font-weight: var(--weight-semibold);
+  line-height: var(--leading-snug);
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+  text-decoration: none;
+  text-wrap: pretty;
+}
+
+/* stretched link: the whole row opens the recipe; the heart sits above it */
+.recipe-table__link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+
+.recipe-table__link:focus-visible { outline: none; }
+.recipe-table__link:focus-visible::after {
+  outline: 2.5px solid var(--color-focus);
+  outline-offset: -2.5px;
+}
+
+.recipe-table__row:has(.recipe-table__link:active) > * { background-color: var(--color-surface-2); }
+
+.recipe-table__meta { line-height: var(--leading-snug); }
+
+.recipe-table .recipe-table__fav {
+  width: 1%;
+  padding-inline: 0 var(--space-3xs);
+  text-align: end;
+}
+
+.recipe-table__fav .btn {
+  position: relative;
+  z-index: 1;
+  color: var(--color-ink-muted);
+}
+
+.recipe-table__fav .btn[aria-pressed="true"] { color: var(--color-accent); }
+.recipe-table__fav .btn[aria-pressed="true"] .icon--on { animation: heart-pop var(--dur-slow) var(--ease-spring); }
+
+@keyframes heart-pop {
+  0% { transform: scale(0.6); }
+  60% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+.recipe-table__none { color: var(--color-ink-muted); }  /* ink-muted: ≥4.5:1, never a lighter tint */
+
+/* Phones (and compact everywhere): list rows */
+.recipe-table thead,
+.recipe-table :is(.recipe-table__by, .recipe-table__cat, .recipe-table__time, .recipe-table__added) { display: none; }
+
+/* Wide: real columns */
+@media (min-width: 640px) {
+  .recipe-table:not(.recipe-table--compact) thead { display: table-header-group; }
+
+  .recipe-table:not(.recipe-table--compact) :is(.recipe-table__by, .recipe-table__cat, .recipe-table__time) {
+    display: table-cell;
+    white-space: nowrap;
+  }
+
+  .recipe-table:not(.recipe-table--compact) .recipe-table__meta { display: none; }
+
+  /* body cells only: a th.recipe-table__by must keep the muted header colour */
+  .recipe-table:not(.recipe-table--compact) td.recipe-table__by { color: var(--color-ink); }
+
+  /* Fixed layout: the header row sets the column widths, so columns never move when the
+     data set changes (filters, search, sort). The Recipe column takes the remaining width. */
+  .recipe-table:not(.recipe-table--compact) { table-layout: fixed; }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__by { width: var(--col-by); }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__cat { width: var(--col-cat); }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__time { width: var(--col-time); }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__added { width: var(--col-added); }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__fav { width: var(--col-fav); }
+  .recipe-table:not(.recipe-table--compact) thead .recipe-table__title { width: auto; }
+  /* long names / multiple categories wrap inside their fixed column instead of widening it */
+  .recipe-table:not(.recipe-table--compact) tbody :is(.recipe-table__by, .recipe-table__cat) {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .recipe-table thead th {
+    height: var(--tap-min);
+    padding-block: 0;
+    border-bottom: 2px solid var(--color-line-strong);
+    background: var(--color-surface);
+    font-size: 0.75rem;
+    font-weight: var(--weight-semibold);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    white-space: nowrap;
+    color: var(--color-ink-muted);
+  }
+
+  .recipe-table thead .recipe-table__title { box-shadow: none; }
+}
+
+@media (min-width: 900px) {
+  .recipe-table:not(.recipe-table--compact) .recipe-table__added {
+    display: table-cell;
+    white-space: nowrap;
+  }
+}
+
+/* Sortable column header: the button carries the label; th[aria-sort] marks the active column.
+   Every sortable header shows a quiet two-way caret (ink-muted, drawn in CSS) in the same slot
+   the active direction chevron uses, so nothing shifts when the sort changes. Only the active
+   column gets emphasis: ink label + accent chevron. Headers without a button (From, Category)
+   are plain labels. */
+.recipe-table__sort {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3xs);
+  min-height: var(--tap-min);
+  margin-inline: calc(-1 * var(--space-2xs));
+  padding-inline: var(--space-2xs);
+  border-radius: var(--radius-s);
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  color: inherit;
+  transition: color var(--dur-fast) var(--ease-out), background-color var(--dur-fast) var(--ease-out);
+}
+
+.recipe-table__sort-icon {
+  width: 14px;
+  height: 14px;
+  opacity: 0;
+  transition: opacity var(--dur-fast) var(--ease-out), transform var(--dur-base) var(--ease-out);
+}
+
+/* two-way caret: an up and a down triangle stacked, centred on the icon slot */
+.recipe-table__sort::after {
+  content: "";
+  position: absolute;
+  inset-inline-end: calc(var(--space-2xs) + 3px);
+  top: 50%;
+  width: 8px;
+  height: 11px;
+  transform: translateY(-50%);
+  background:
+    linear-gradient(to bottom right, transparent 50%, currentColor 50%) 0 0 / 50% 40% no-repeat,
+    linear-gradient(to bottom left, transparent 50%, currentColor 50%) 100% 0 / 50% 40% no-repeat,
+    linear-gradient(to top right, transparent 50%, currentColor 50%) 0 100% / 50% 40% no-repeat,
+    linear-gradient(to top left, transparent 50%, currentColor 50%) 100% 100% / 50% 40% no-repeat;
+  transition: opacity var(--dur-fast) var(--ease-out);
+}
+
+@media (hover: hover) {
+  .recipe-table__sort:hover { color: var(--color-ink); background: var(--color-surface-2); }
+}
+.recipe-table__sort:focus-visible { color: var(--color-ink); }
+
+.recipe-table th[aria-sort] { color: var(--color-ink); }
+.recipe-table th[aria-sort] .recipe-table__sort::after { opacity: 0; }
+.recipe-table th[aria-sort] .recipe-table__sort-icon { opacity: 1; color: var(--color-accent-strong); }
+.recipe-table th[aria-sort="ascending"] .recipe-table__sort-icon { transform: rotate(180deg); }
+
+html:not(.js) .recipe-table__sort { pointer-events: none; }
+html:not(.js) .recipe-table__sort-icon,
+html:not(.js) .recipe-table__sort::after { display: none; }
+
+/* Hide a column that repeats the page's own filter (category archive → category, contributor
+   page → from): <table class="recipe-table" data-hide-col="category from">. Hides the header,
+   the cells and the matching item of the phone meta line (<li data-col="category|from|time">). */
+.recipe-table[data-hide-col~="from"] .recipe-table__by,
+.recipe-table[data-hide-col~="category"] .recipe-table__cat,
+.recipe-table[data-hide-col~="time"] .recipe-table__time,
+.recipe-table[data-hide-col~="from"] .recipe-table__meta > [data-col="from"],
+.recipe-table[data-hide-col~="category"] .recipe-table__meta > [data-col="category"],
+.recipe-table[data-hide-col~="time"] .recipe-table__meta > [data-col="time"] { display: none; }
+
+/* ---- Divider tabs (recipe-box category dividers) ----------------------------------------------------- */
+/* The strip bleeds one gutter past its content box so it can scroll edge to
+   edge on phones, while the first tab and the baseline rule sit exactly on the
+   content edges. Use it inside a .container, or as the container itself
+   (<nav class="divider-tabs container">) — both align to the page grid. */
+.divider-tabs {
+  align-items: flex-end;
+  gap: 0;
+  padding-top: var(--space-2xs);
+  /* the "top edge of the cards" the tabs stand on: spans the content width */
+  background: linear-gradient(var(--color-line-strong), var(--color-line-strong)) 50% 100% / calc(100% - 2 * var(--gutter)) 2px no-repeat;
+}
+
+.divider-tabs.container {
+  width: calc(min(100% - 2 * var(--gutter), var(--container)) + 2 * var(--gutter));
+  margin-inline: auto;
+}
+
+@media (min-width: 900px) {
+  /* nothing to scroll past on desktop: no edge fade */
+  .divider-tabs {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
+
+.divider-tab {
+  position: relative;
+  flex: none;
+  scroll-snap-align: start;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  min-height: var(--tab-h);
+  margin-inline-end: -4px;
+  padding: 0 var(--space-s);
+  border-radius: 14px 14px 0 0;
+  background: var(--cat, var(--cat-misc));
+  color: var(--color-ink);
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  letter-spacing: var(--tracking-label);
+  text-decoration: none;
+  white-space: nowrap;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.45),
+    inset 0 -2px 0 var(--color-line-strong),
+    -3px 0 6px -4px rgba(77, 52, 30, 0.35);
+  transition: min-height var(--dur-base) var(--ease-spring), filter var(--dur-fast) var(--ease-out);
+}
+
+.divider-tab:first-child { margin-inline-start: 0; }
+
+.divider-tab:hover { filter: brightness(1.03) saturate(1.08); }
+
+.divider-tab[aria-current] {
+  z-index: var(--z-raised);
+  min-height: var(--tab-h-current);
+  font-weight: var(--weight-semibold);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.5),
+    0 -4px 12px -6px rgba(77, 52, 30, 0.35);
+}
+
+.divider-tab:focus-visible {
+  z-index: 3;
+  outline-offset: -3px;
+  border-radius: 14px 14px 0 0;
+}
+
+.divider-tab__count {
+  display: inline-grid;
+  place-items: center;
+  min-width: 22px;
+  height: 20px;
+  padding-inline: 6px;
+  border-radius: var(--radius-pill);
+  background: rgba(255, 255, 255, 0.6);
+  font-size: 0.6875rem;
+  font-weight: var(--weight-semibold);
+  font-variant-numeric: tabular-nums;
+}
+
+[data-theme="dark"] .divider-tab { box-shadow: inset 0 1px 0 rgba(255, 240, 225, 0.06), inset 0 -2px 0 var(--color-line-strong), -3px 0 6px -4px rgba(0, 0, 0, 0.6); }
+[data-theme="dark"] .divider-tab[aria-current] { box-shadow: inset 0 1px 0 rgba(255, 240, 225, 0.08), 0 -4px 12px -6px rgba(0, 0, 0, 0.7); }
+[data-theme="dark"] .divider-tab__count { background: rgba(0, 0, 0, 0.25); }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .divider-tab { box-shadow: inset 0 1px 0 rgba(255, 240, 225, 0.06), inset 0 -2px 0 var(--color-line-strong), -3px 0 6px -4px rgba(0, 0, 0, 0.6); }
+  :root:not([data-theme="light"]) .divider-tab[aria-current] { box-shadow: inset 0 1px 0 rgba(255, 240, 225, 0.08), 0 -4px 12px -6px rgba(0, 0, 0, 0.7); }
+  :root:not([data-theme="light"]) .divider-tab__count { background: rgba(0, 0, 0, 0.25); }
+}
+
+/* ---- Badge ----------------------------------------------------------------------------------- */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 24px;
+  padding: 2px 10px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-2);
+  color: var(--color-ink);
+  font-size: 0.75rem;
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-label);
+  line-height: 1.2;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.badge .icon { width: 14px; height: 14px; }
+.badge--accent { background: var(--color-accent-soft); color: var(--color-accent-strong); }
+.badge--cat { background: var(--cat, var(--cat-misc)); }
+.badge--outline { background: transparent; box-shadow: inset 0 0 0 1.5px var(--color-line-strong); }
+.badge--success { background: transparent; color: var(--color-success); box-shadow: inset 0 0 0 1.5px currentColor; }
+
+/* ---- Meta list --------------------------------------------------------------------------------- */
+.meta-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2xs) var(--space-s);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.meta-list__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  color: var(--color-ink-muted);
+}
+
+.meta-list__item .icon {
+  width: 18px;
+  height: 18px;
+  color: var(--color-accent);
+}
+
+.meta-list__item strong,
+.meta-list__item a {
+  color: var(--color-ink);
+  font-weight: var(--weight-semibold);
+}
+
+.meta-list__item a { text-decoration-color: var(--color-line-strong); }
+
+/* ---- Dot list: inline items separated by a centred dot ---------------------------------------------
+   <ul class="dot-list"><li>Amy</li><li>Dessert</li><li>50 min</li></ul>
+   Wraps freely; a separator never starts or ends a line. Every item carries its
+   dot in a leading gutter, and the list is shifted left by that gutter and
+   clipped there, so whichever item starts a line has its dot cut off. */
+.dot-list {
+  --dot-gap: var(--space-xs);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0 0 0 calc(-1 * var(--dot-gap));
+  padding: 0;
+  list-style: none;
+  clip-path: inset(-0.5em -0.5em -0.5em var(--dot-gap));
+}
+
+.dot-list > li {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3xs);
+  min-width: 0;
+  padding-inline-start: var(--dot-gap);
+}
+
+.dot-list > li::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--dot-gap) / 2);
+  top: 50%;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.6;
+  transform: translate(-50%, -50%);
+}
+
+/* ---- Facts: labelled values in a row (recipe header) ------------------------------------------------
+   <dl class="facts"><div class="facts__item"><dt class="facts__label">From</dt><dd class="facts__value">…</dd></div>…</dl>
+   Reads like one row of the recipe index: small caps label over the value. Wraps freely. */
+.facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs) var(--space-l);
+  margin: 0;
+}
+
+.facts__item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.facts__label {
+  font-size: 0.75rem;
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+}
+
+.facts__value {
+  margin: 0;
+  font-size: var(--step-0);
+  font-weight: var(--weight-medium);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+}
+
+.facts__value a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--tap-min);
+  margin-block: calc((var(--tap-min) - 1.6em) / -2);
+  color: var(--color-ink);
+  font-weight: var(--weight-semibold);
+  text-decoration-color: var(--color-line-strong);
+  text-underline-offset: 0.2em;
+}
+
+/* ---- Checklist (ingredients, shopping list) -------------------------------------------------------- */
+.checklist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.checklist > li { list-style: none; }
+
+.check-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 24px 1fr auto;
+  align-items: start;
+  column-gap: var(--space-xs);
+  min-height: var(--tap);
+  padding-block: 10px;
+  border-bottom: 1px solid var(--color-rule);
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.check-item__input {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.check-item__box {
+  position: relative;
+  grid-column: 1;
+  width: 22px;
+  height: 22px;
+  margin-top: 0.1em;
+  border: 2px solid var(--color-line-strong);
+  border-radius: 7px;
+  background: var(--color-surface);
+  transition: background-color var(--dur-fast) var(--ease-out), border-color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+
+.check-item__box::after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 2px;
+  width: 6px;
+  height: 11px;
+  border: solid var(--color-accent-ink);
+  border-width: 0 2.5px 2.5px 0;
+  transform: rotate(45deg) scale(0);
+  transition: transform var(--dur-base) var(--ease-spring);
+}
+
+.check-item__label {
+  grid-column: 2;
+  line-height: 1.5;
+  transition: color var(--dur-base) var(--ease-out);
+  text-decoration-line: line-through;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+}
+
+.check-item__aside {
+  grid-column: 3;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.check-item:hover .check-item__box { border-color: var(--color-accent); }
+.check-item:active .check-item__box { transform: scale(0.88); }
+
+.check-item__input:focus-visible + .check-item__box {
+  outline: 2.5px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.check-item--done .check-item__box,
+.check-item__input:checked + .check-item__box {
+  background: var(--color-accent-strong);
+  border-color: var(--color-accent-strong);
+}
+
+.check-item--done .check-item__box::after,
+.check-item__input:checked + .check-item__box::after {
+  transform: rotate(45deg) scale(1);
+}
+
+.check-item--done .check-item__label,
+.check-item:has(.check-item__input:checked) .check-item__label {
+  color: var(--color-ink-muted);
+  text-decoration-color: color-mix(in srgb, var(--color-accent) 70%, transparent);
+}
+
+/* Selection list: checked means "include", not "done" — no strikethrough, no muted
+   ink. Use .checklist--select (or .check-item--select on one item). A checklist
+   inside a .sheet is a selection list by default (sheets are for choosing). */
+.checklist--select .check-item:has(.check-item__input:checked) .check-item__label,
+.sheet .checklist .check-item:has(.check-item__input:checked) .check-item__label,
+.check-item--select:has(.check-item__input:checked) .check-item__label {
+  color: inherit;
+  text-decoration-color: transparent;
+}
+
+.check-item--heading {
+  display: block;
+  min-height: 0;
+  padding: var(--space-m) 0 var(--space-3xs);
+  border-bottom: 0;
+  cursor: default;
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-accent-strong);
+}
+
+.checklist > .check-item--heading:first-child,
+.checklist > li:first-child > .check-item--heading { padding-top: 0; }
+
+/* ---- Steps (instructions) ------------------------------------------------------------------------------ */
+.steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+}
+
+.step {
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  column-gap: var(--space-s);
+  align-items: start;
+  padding-block: var(--space-s);
+  border-bottom: 1px solid var(--color-rule);
+  counter-increment: step;
+}
+
+.step:last-child { border-bottom: 0; }
+
+.step[tabindex],
+.step[role="button"] {
+  cursor: pointer;
+  border-radius: var(--radius-s);
+}
+
+.step__num {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border: 2px solid var(--color-accent);
+  border-radius: 50%;
+  color: var(--color-accent-strong);
+  font-size: var(--step--1);
+  font-weight: var(--weight-bold);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  transition: background-color var(--dur-base) var(--ease-out), color var(--dur-base) var(--ease-out);
+}
+
+.step__num:empty::before { content: counter(step); grid-area: 1 / 1; }
+
+.step__text {
+  max-width: var(--measure);
+  padding-top: 4px;
+  line-height: var(--leading-body);
+  transition: color var(--dur-base) var(--ease-out);
+}
+
+.step__num::after { content: none; }
+
+/* Done: the number becomes a check on a filled disc; text muted (still ≥ 4.5:1) */
+.step--done .step__num,
+.step[data-done] .step__num {
+  position: relative;
+  background: var(--color-accent-strong);
+  border-color: var(--color-accent-strong);
+  color: var(--color-accent-ink);
+  font-size: 0;
+}
+
+.step--done .step__num::after,
+.step[data-done] .step__num::after {
+  content: "";
+  /* same grid cell as the (empty) counter ::before — otherwise the grid gives the check a
+     second row and it sits below centre */
+  grid-area: 1 / 1;
+  font-size: var(--step-1);
+  width: 0.36em;
+  height: 0.68em;
+  border: solid currentColor;
+  border-width: 0 0.13em 0.13em 0;
+  transform: rotate(45deg);
+}
+
+.step--done .step__text,
+.step[data-done] .step__text { color: var(--color-ink-muted); }
+
+.steps__heading {
+  padding: var(--space-m) 0 var(--space-3xs);
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-accent-strong);
+}
+
+.steps__heading:first-child { padding-top: 0; }
+
+/* ---- Empty state ------------------------------------------------------------------------------------- */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-xl) var(--space-s);
+  text-align: center;
+}
+
+/* One sprite icon on a quiet accent disc — no illustrations. */
+.empty-state__icon {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  margin-bottom: var(--space-3xs);
+  border-radius: 50%;
+  background: var(--color-accent-soft);
+  color: var(--color-accent-strong);
+}
+
+.empty-state__icon > .icon { width: 28px; height: 28px; }
+
+.empty-state__title {
+  font-size: var(--step-2);
+}
+
+.empty-state__text {
+  max-width: 34ch;
+  color: var(--color-ink-muted);
+}
+
+.empty-state .cluster { justify-content: center; margin-top: var(--space-2xs); }
+
+/* ---- Recipe hero: typographic header ---------------------------------------------------------------------- */
+/* Category badge, big title, a facts strip and the action bar, closed by the same 2px rule the
+   divider tabs stand on. A photo column appears only when the recipe has images[0]. */
+.recipe-hero {
+  display: grid;
+  gap: var(--space-m);
+  align-items: end;
+  padding-block-end: var(--space-m);
+  border-bottom: 2px solid var(--color-line-strong);
+}
+
+.recipe-hero__photo {
+  margin: 0;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: var(--radius-m);
+  background: var(--color-surface-2);
+}
+
+.recipe-hero__photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.recipe-hero__body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-xs);
+  min-width: 0;
+}
+
+.recipe-hero__kicker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3xs);
+}
+
+.recipe-hero__title {
+  max-width: 22ch;
+  font-size: var(--step-5);
+  font-weight: var(--weight-bold);
+  line-height: 1.04;
+  letter-spacing: -0.035em;
+}
+
+.recipe-hero__summary {
+  font-size: var(--step-1);
+  color: var(--color-ink-muted);
+  line-height: 1.5;
+}
+
+.recipe-hero__facts { margin-block-start: var(--space-2xs); }
+
+@media (min-width: 900px) {
+  .recipe-hero:has(.recipe-hero__photo) {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: var(--space-xl);
+  }
+
+  .recipe-hero__photo { order: 2; }
+}
+
+/* ---- Sheet (<dialog class="sheet">) ---------------------------------------------------------------------------- */
+.sheet {
+  position: fixed;
+  width: 100%;
+  max-width: 100%;
+  max-height: calc(100dvh - var(--safe-top) - 24px);
+  margin: auto 0 0;
+  padding: 0 0 var(--safe-bottom);
+  border: 0;
+  border-radius: var(--radius-l) var(--radius-l) 0 0;
+  background: var(--color-surface);
+  color: var(--color-ink);
+  /* the extra flat shadow hides the gap if the spring overshoots */
+  box-shadow: var(--shadow-3), 0 60px 0 0 var(--color-surface);
+  overflow: visible;
+}
+
+.sheet[open] {
+  display: flex;
+  flex-direction: column;
+  animation: sheet-up var(--dur-slow) var(--ease-spring);
+}
+
+.sheet::before {
+  content: "";
+  flex: none;
+  align-self: center;
+  width: 40px;
+  height: 5px;
+  margin-top: 8px;
+  border-radius: var(--radius-pill);
+  background: var(--color-line-strong);
+}
+
+.sheet::backdrop {
+  background: var(--color-scrim);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+
+.sheet[open]::backdrop { animation: fade-in var(--dur-base) var(--ease-out); }
+
+.sheet.is-closing { animation: sheet-down var(--dur-base) var(--ease-in) forwards; }
+.sheet.is-closing::backdrop { animation: fade-out var(--dur-base) var(--ease-in) forwards; }
+
+.sheet__head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-2xs) var(--space-2xs) var(--space-2xs) var(--gutter);
+}
+
+.sheet__title {
+  flex: 1;
+  min-width: 0;
+  font-size: var(--step-1);
+  font-weight: var(--weight-bold);
+}
+
+.sheet__close { margin-left: auto; }
+
+.sheet__body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 0 var(--gutter) var(--space-s);
+}
+
+/* Scroll cue for any scroll area (.sheet__body has it built in; add .scroll-shadow elsewhere).
+   Pure CSS: two surface-coloured covers scroll with the content (attachment: local) and
+   hide two shadows pinned to the box edges (attachment: scroll). At the top the top cover
+   sits over the top shadow; scrolled, the cover moves away and the shadow shows. A box that
+   does not overflow never shows either shadow. --scroll-bg must match the box background. */
+.sheet__body,
+.scroll-shadow {
+  --scroll-bg: var(--color-surface);
+  background:
+    linear-gradient(var(--scroll-bg) 30%, transparent) center top / 100% var(--space-l) no-repeat local,
+    linear-gradient(transparent, var(--scroll-bg) 70%) center bottom / 100% var(--space-l) no-repeat local,
+    radial-gradient(farthest-side at 50% 0, var(--color-scroll-shadow), transparent) center top / 100% var(--space-xs) no-repeat scroll,
+    radial-gradient(farthest-side at 50% 100%, var(--color-scroll-shadow), transparent) center bottom / 100% var(--space-xs) no-repeat scroll,
+    var(--scroll-bg);
+}
+
+.sheet__actions {
+  display: flex;
+  gap: var(--space-2xs);
+  /* same inset on every side (plus the safe area the sheet adds below on phones) */
+  padding: var(--space-s) var(--gutter);
+  border-top: 1px solid var(--color-line);
+}
+
+.sheet__actions > .btn { flex: 1; }
+
+@media (min-width: 640px) {
+  .sheet {
+    width: min(540px, 100% - 2 * var(--gutter));
+    max-height: min(80dvh, 720px);
+    margin: auto;
+    padding-bottom: 0;
+    border-radius: var(--radius-l);
+    box-shadow: var(--shadow-3);
+  }
+
+  .sheet[open] { animation: sheet-pop var(--dur-slow) var(--ease-spring); }
+  .sheet.is-closing { animation: sheet-unpop var(--dur-base) var(--ease-in) forwards; }
+  .sheet::before { display: none; }
+  .sheet__head { padding-top: var(--space-xs); }
+  .sheet__actions { justify-content: flex-end; }
+  .sheet__actions > .btn { flex: none; }
+}
+
+@keyframes sheet-up { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes sheet-down { from { transform: translateY(0); } to { transform: translateY(100%); } }
+@keyframes sheet-pop { from { opacity: 0; transform: translateY(16px) scale(0.96); } to { opacity: 1; transform: none; } }
+@keyframes sheet-unpop { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(8px) scale(0.97); } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fade-out { from { opacity: 1; } to { opacity: 0; } }
+
+/* ---- Toast -------------------------------------------------------------------------------------------- */
+.toast-region {
+  position: fixed;
+  inset-inline: var(--gutter);
+  bottom: calc(var(--tabbar-h) + var(--safe-bottom) + var(--space-xs));
+  z-index: var(--z-toast);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2xs);
+  pointer-events: none;
+}
+
+body:has(.action-bar) .toast-region,
+[data-page="recipe"] .toast-region {
+  bottom: calc(var(--tabbar-h) + var(--action-bar-h) + var(--safe-bottom) + var(--space-xs));
+}
+
+body:has(.cook-mode:not([hidden])) .toast-region {
+  bottom: calc(var(--safe-bottom) + 110px);
+}
+
+/* Desktop: the region's end edge sits on the .container edge (same formula as the header). */
+@media (min-width: 900px) {
+  .toast-region,
+  body:has(.action-bar) .toast-region,
+  [data-page="recipe"] .toast-region {
+    inset-inline: auto max(var(--gutter), (100% - var(--container)) / 2);
+    bottom: var(--space-m);
+    align-items: flex-end;
+  }
+}
+
+.toast {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  width: max-content;
+  max-width: min(30rem, 100%);
+  min-height: 48px;
+  padding: var(--space-2xs) var(--space-2xs) var(--space-2xs) var(--space-s);
+  border-radius: var(--radius-m);
+  background: var(--color-inverse);
+  color: var(--color-inverse-ink);
+  box-shadow: var(--shadow-3);
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  line-height: 1.4;
+  pointer-events: auto;
+  animation: toast-in var(--dur-slow) var(--ease-spring);
+}
+
+.toast:not(:has(.toast__action)) { padding-right: var(--space-s); }
+
+.toast.is-leaving { animation: toast-out var(--dur-base) var(--ease-in) forwards; }
+
+.toast__icon { width: 20px; height: 20px; color: var(--color-inverse-accent); }
+
+.toast__message { flex: 1; min-width: 0; }
+
+.toast__action {
+  flex: none;
+  min-height: var(--tap-min);
+  padding: 0 var(--space-xs);
+  border-radius: var(--radius-s);
+  color: var(--color-inverse-accent);
+  font-weight: var(--weight-bold);
+  letter-spacing: var(--tracking-label);
+}
+
+.toast__action:hover { background: color-mix(in srgb, var(--color-inverse-ink) 10%, transparent); }
+.toast__action:focus-visible { outline-color: var(--color-inverse-accent); }
+
+@keyframes toast-in { from { opacity: 0; transform: translateY(16px) scale(0.96); } to { opacity: 1; transform: none; } }
+@keyframes toast-out { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(8px) scale(0.98); } }
+
+/* ---- Cook mode (fullscreen step-by-step) ------------------------------------------------------------------
+   Fixed full-viewport overlay on a solid bg. The stage is the only scroller: content
+   starts at the top (never centred-and-clipped), and the measure is set in ch of the
+   step font so it scales with the type. */
+.cook-mode {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-cook);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
+  padding-top: var(--safe-top);
+  background: var(--color-bg);
+  color: var(--color-ink);
+  overflow: hidden;
+  animation: cook-in var(--dur-slow) var(--ease-out);
+}
+
+.cook-mode > * { min-width: 0; }
+
+.cook-mode__bar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  min-height: var(--header-h);
+  padding: 0 var(--space-2xs) 0 var(--gutter);
+  width: min(100%, var(--cook-width));
+  margin-inline: auto;
+}
+
+.cook-mode__bar > * { min-width: 0; }
+.cook-mode__bar > .btn { flex: none; }
+
+.cook-mode__title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+}
+
+/* Phones: the bar can't fit a readable title beside its controls, so the title drops to its
+   own row under them (up to two lines) instead of truncating to a couple of words. */
+@media (max-width: 639.98px) {
+  .cook-mode__bar {
+    flex-wrap: wrap;
+    row-gap: 0;
+    padding-block-end: var(--space-2xs);
+  }
+
+  .cook-mode__title {
+    order: 1;
+    flex: 1 0 100%;
+    padding-inline-end: var(--space-2xs);
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    font-size: var(--step-0);
+    line-height: var(--leading-snug);
+  }
+
+  .cook-mode__count { margin-inline-end: auto; }
+}
+
+.cook-mode__count {
+  flex: none;
+  font-size: var(--step--1);
+  font-weight: var(--weight-medium);
+  color: var(--color-ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.cook-mode__progress {
+  width: min(100% - 2 * var(--gutter), var(--cook-width) - 2 * var(--gutter));
+  height: 6px;
+  margin-inline: auto;
+  border-radius: var(--radius-pill);
+  background:
+    linear-gradient(var(--color-accent), var(--color-accent)) 0 0 / var(--progress, 0%) 100% no-repeat,
+    var(--color-surface-2);
+  transition: background-size var(--dur-slow) var(--ease-out);
+}
+
+/* font-size lives here so the ch-based measure tracks the step type */
+.cook-mode__stage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--space-xs);
+  width: 100%;
+  min-height: 0;
+  padding: var(--space-l) max(var(--gutter), (100% - var(--measure-cook)) / 2) var(--space-l);
+  font-size: var(--step-3);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.cook-mode__stage > * { max-width: 100%; }
+
+/* JS moves focus to the stage (tabindex="-1") on open / step change */
+.cook-mode__stage:focus,
+.cook-mode__stage:focus-visible { outline: none; }
+
+.cook-mode__heading {
+  font-size: var(--step--1);
+  font-weight: var(--weight-semibold);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--color-accent-strong);
+}
+
+.cook-mode__heading:empty { display: none; }
+
+/* inline padding gives the focus ring room; negative margin keeps the text on
+   the same edge as the heading and hint (stage padding ≥ this inset + ring) */
+.cook-mode__step {
+  display: block;
+  width: calc(100% + 2 * var(--space-xs));
+  margin-inline: calc(-1 * var(--space-xs));
+  padding: var(--space-2xs) var(--space-xs);
+  text-align: start;
+  font-size: 1em;
+  font-weight: var(--weight-medium);
+  line-height: var(--leading-snug);
+  letter-spacing: -0.015em;
+  color: var(--color-ink);
+  cursor: pointer;
+  border-radius: var(--radius-m);
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+  transition: color var(--dur-base) var(--ease-out), opacity var(--dur-base) var(--ease-out);
+}
+
+.cook-mode__step:focus-visible {
+  outline: 2.5px solid var(--color-focus);
+  outline-offset: 0;
+  border-radius: var(--radius-m);
+}
+
+/* Done: muted ink (still ≥ 4.5:1) plus a leading success check — no strike-through */
+.cook-mode__step.is-done,
+.cook-mode__step[data-done],
+.cook-mode__step[aria-pressed="true"] {
+  color: var(--color-ink-muted);
+}
+
+.cook-mode__step.is-done::before,
+.cook-mode__step[data-done]::before,
+.cook-mode__step[aria-pressed="true"]::before {
+  content: "";
+  display: inline-block;
+  width: 0.3em;
+  height: 0.58em;
+  margin: 0 0.5em 0.12em 0.12em;
+  border: solid var(--color-success);
+  border-width: 0 0.11em 0.11em 0;
+  transform: rotate(45deg);
+}
+
+.cook-mode__step.is-entering { animation: step-in var(--dur-slow) var(--ease-out); }
+
+.cook-mode__hint {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3xs);
+  font-size: var(--step--1);
+  line-height: var(--leading-snug);
+  color: var(--color-ink-muted);
+  overflow-wrap: anywhere;
+}
+
+.cook-mode__hint .icon { width: 16px; height: 16px; color: var(--color-success); }
+
+.cook-mode__nav {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr);
+  gap: var(--space-2xs);
+  width: min(100%, var(--cook-width));
+  margin-inline: auto;
+  padding: var(--space-xs) var(--gutter) calc(var(--space-xs) + var(--safe-bottom));
+  border-top: 1px solid var(--color-line);
+}
+
+.cook-mode__nav .btn { min-width: 0; min-height: 60px; font-size: var(--step-0); }
+
+@keyframes cook-in { from { opacity: 0; transform: scale(0.98); } to { opacity: 1; transform: none; } }
+@keyframes step-in { from { opacity: 0; transform: translateX(18px); } to { opacity: 1; transform: none; } }
+
+/* ---- Scroll lock while an overlay is open ------------------------------------------------------------- */
+:root:has(.sheet[open]),
+:root:has(.cook-mode:not([hidden])) {
+  overflow: hidden;
+}

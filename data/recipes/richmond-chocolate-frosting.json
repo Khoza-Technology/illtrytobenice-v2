@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "richmond-chocolate-frosting",
+    "slug": "richmond-chocolate-frosting",
+    "title": "Richmond Chocolate Frosting",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "½ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "1½ Tablespoon(s) cornstarch"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "1 baking chocolate square"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) boiling water"
+      },
+      {
+        "type": "item",
+        "text": "1½ Tablespoon(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) vanilla"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix sugar, salt, and cornstarch together in small saucepan with a fork. Add chocolate square and water and cook on medium high heat while stirring constantly. Once the mixture thickens* (should be like thick like pudding), remove from heat and add butter and vanilla. Let cool and spread on cake."
+      },
+      {
+        "type": "step",
+        "text": "*If the frosting isn't thickening when the mixture comes to a full boil, remove frosting pan from heat. In a separate small bowl, mix 1 tablespoon more cornstarch with a little water. Add the cornstarch water to the frosting, return pan to heat and stir."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:22:47Z",
+    "modified": "2017-02-24T01:22:47Z",
+    "source": {
+      "wpId": 355,
+      "url": "https://www.khoza.com/recipes/richmond-chocolate-frosting/",
+      "html": "<p><div id=\"easyrecipe-355-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Richmond Chocolate Frosting</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/355-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Tablespoon(s) cornstarch</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 baking chocolate square</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) boiling water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Tablespoon(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) vanilla</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix sugar, salt, and cornstarch together in small saucepan with a fork. Add chocolate square and water and cook on medium high heat while stirring constantly. Once the mixture thickens* (should be like thick like pudding), remove from heat and add butter and vanilla. Let cool and spread on cake.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">*If the frosting isn't thickening when the mixture comes to a full boil, remove frosting pan from heat. In a separate small bowl, mix 1 tablespoon more cornstarch with a little water. Add the cornstarch water to the frosting, return pan to heat and stir.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

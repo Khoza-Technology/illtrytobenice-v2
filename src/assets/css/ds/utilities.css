@@ -1,0 +1,59 @@
+/* ==========================================================================
+   DS / utilities.css — small single-purpose helpers. Keep this list short.
+   ========================================================================== */
+
+.visually-hidden:not(:focus):not(:active) {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Skip link: visible only when focused */
+.skip-link {
+  position: absolute;
+  top: var(--space-2xs);
+  left: var(--space-2xs);
+  z-index: 100;
+  padding: var(--space-2xs) var(--space-s);
+  border-radius: var(--radius-m);
+  background: var(--color-accent-strong);
+  color: var(--color-accent-ink);
+  font-weight: var(--weight-semibold);
+  text-decoration: none;
+  transform: translateY(-200%);
+}
+
+.skip-link:focus-visible { transform: none; }
+
+@media (max-width: 899.98px) {
+  .hide-mobile { display: none !important; }
+}
+
+@media (min-width: 900px) {
+  .hide-desktop { display: none !important; }
+}
+
+.text-muted { color: var(--color-ink-muted) !important; }
+.text-accent { color: var(--color-accent-strong) !important; }
+.text-center { text-align: center !important; }
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.flow > * + * { margin-block-start: var(--flow-space, 1em); }
+
+.tabular { font-variant-numeric: tabular-nums; }
+
+.no-js-hide { display: none; }
+.js .no-js-hide { display: revert; }

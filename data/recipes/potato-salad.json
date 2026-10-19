@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "potato-salad",
+    "slug": "potato-salad",
+    "title": "Potato Salad",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 Pound(s) russet potatoes"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) freshly chopped parsley"
+      },
+      {
+        "type": "item",
+        "text": "3 scallions, thinly sliced (1/2 cup)"
+      },
+      {
+        "type": "item",
+        "text": "1 cucumber, chopped (1/2 cup)"
+      },
+      {
+        "type": "item",
+        "text": "1 medium onion, finely diced (1/2 cup)"
+      },
+      {
+        "type": "item",
+        "text": "1 red bell pepper, cut into ¼ inch dice (1/2 cup)"
+      },
+      {
+        "type": "item",
+        "text": "3 celery stalks, cut into ¼ inch dice (1/2 cup)"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground black pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) dry mustard"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) celery seed"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) mayonnaise"
+      },
+      {
+        "type": "item",
+        "text": "3 large eggs"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) cider vinegar"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) plus 2 tsp. salt"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) paprika"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Peel and cut potatoes into 1 inch chunks. Place potatoes in a large pot with enough water to cover by several inches. Bring to a boil over high heat, add 1 tablespoon salt, and lower to a gentle boil. Cook until potatoes are tender when pierced with a knife, about 25 minutes. Drain into a colander. Drizzle with vinegar; set aside."
+      },
+      {
+        "type": "step",
+        "text": "Place eggs in a small pan with enough water to cover by 1 inch, and place over medium-high heat. When water comes to a boil, turn off heat, cover, and let stand for 13 minutes. Drain, and place in a bowl with cold water to cover. When cold, peel eggs. Chop 2 into ¼ inch dice. Slice the third egg i"
+      },
+      {
+        "type": "step",
+        "text": "nto ¼ inch thick rounds, and set aside for garnish."
+      },
+      {
+        "type": "step",
+        "text": "Combine diced eggs, mayonnaise, celery seed, mustard, 2 tsp salt, and black pepper in a large bowl, and whisk to combine. Add reserved potatoes to mayonnaise mixture. Add celery, red pepper, onion, cucumber, scallions, and chopped parsley. Stir to combine. Chill for 30 minutes before serving. Garnish with paprika and reserved hard-boiled egg rounds."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:13:46Z",
+    "modified": "2017-02-24T01:13:46Z",
+    "source": {
+      "wpId": 349,
+      "url": "https://www.khoza.com/recipes/potato-salad/",
+      "html": "<p><div id=\"easyrecipe-349-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Potato Salad</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/349-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 Pound(s) russet potatoes</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) freshly chopped parsley</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 scallions, thinely sliced (1/2 cup)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cucumber, chopped (1/2 cup)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 medium onion, finely diced (1/2 cup)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 red bell pepper, cut into &frac14; inch dice (1/2 cup)</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 celery stalks, cut into &frac14; inch dice (1/2 cup)</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) dry mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) celery seed</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) mayonnaise</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 large eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) cider vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) plus 2 tsp. salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) paprika</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Peel and cut potatoes into 1 inch chunks. Place potatoes in a large pot with enough water to cover by several inches. Bring to a boil over high heat, add 1 tablespoon salt, and lower o a gentle boil. Cook until potatoes are tender when pierced with a knife, about 25 minutes. Drain into a colander. Drizzle with vinegar; set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place eggs in a small pan with enough water to cover by 1 inch, and place over medium-high heat. Wen water comes to a boil, turn off heat, cover, and let stand for 13 minutes. Drain, and place in a bowl wit cold water to cover. When cold, peel eggs. Chop 2 into &frac14; inch dice. Slice the third egg i</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">nto &frac14; inch thick rounds, and set aside for garnish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine diced eggs, mayonnaise, celery seed, mustard, 2 tsp salt, and black pepper in a large bowl, and wisk to combine. Add reserved potatoes to mayonnaise mixture. Add celery, red pepper, onion, cucumber, scallions, and chopped parsley. Stir to combine. Chill for 30 minutes before serving. Garnish with paprika and reserved hard-boiled egg rounds.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "fire-sauce",
+    "slug": "fire-sauce",
+    "title": "Fire Sauce",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "sauce"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 oz can tomato paste"
+      },
+      {
+        "type": "item",
+        "text": "3 cups water"
+      },
+      {
+        "type": "item",
+        "text": "3 tablespoons white vinegar"
+      },
+      {
+        "type": "item",
+        "text": "½ cup pickled jalapeno slices, drained"
+      },
+      {
+        "type": "item",
+        "text": "1½ teaspoons chili powder"
+      },
+      {
+        "type": "item",
+        "text": "1½ teaspoons ground ancho chili powder"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon dehydrated minced onions"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons salt"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons cornstarch"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon cayenne pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon sugar"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine all ingredients in a blender, and blend until smooth. Transfer to a saucepan, and bring to a simmer over medium heat. Simmer, stirring occasionally. Transfer to a container and refrigerate overnight before using."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2019-12-16T19:06:46Z",
+    "modified": "2020-09-17T17:16:26Z",
+    "source": {
+      "wpId": 506,
+      "url": "https://www.khoza.com/recipes/fire-sauce/",
+      "html": "<p><div id=\"easyrecipe-506-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Fire Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/506-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 oz can tomato paste</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 cups water</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 tablespoons white vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup pickled jalapeno slices, drained</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; teaspoons chili powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; teaspoons ground ancho chili powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon dehydrated minced onions</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons cornstarch</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon cayenne pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon sugar</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine all ingredients in a blender, and blend until smooth. Transfer to a saucepan, and bring to a simmer over medium heat. Simmer, stirring ocassionally. Transfer to a container and refrigerate overnight before using.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div><br />\n </p>\n"
+    }
+  }
+}

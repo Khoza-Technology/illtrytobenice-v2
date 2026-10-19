@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "sweet-smoked-chicken-rub",
+    "slug": "sweet-smoked-chicken-rub",
+    "title": "Sweet Smoked Chicken Rub",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "½ cup brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons paprika"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon smoked paprika"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon black pepper"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon garlic powder"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon onion powder"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon mustard powder"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon cayenne pepper"
+      }
+    ],
+    "instructions": [],
+    "notes": null,
+    "images": [],
+    "published": "2020-09-21T20:15:35Z",
+    "modified": "2020-09-21T20:30:31Z",
+    "source": {
+      "wpId": 519,
+      "url": "https://www.khoza.com/recipes/sweet-smoked-chicken-rub/",
+      "html": "<p><div id=\"easyrecipe-519-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Sweet Smoked Chicken Rub</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/519-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons paprika</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon smoked paprika</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon garlic powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon onion powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon mustard powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon cayenne pepper</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div><br />\n </p>\n"
+    }
+  }
+}

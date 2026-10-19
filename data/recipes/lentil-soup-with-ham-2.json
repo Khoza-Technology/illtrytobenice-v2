@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "lentil-soup-with-ham-2",
+    "slug": "lentil-soup-with-ham-2",
+    "title": "Lentil Soup with Ham",
+    "summary": null,
+    "contributor": "olivia",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) Dried brown lentils"
+      },
+      {
+        "type": "item",
+        "text": "2 carrot, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 onion, diced"
+      },
+      {
+        "type": "item",
+        "text": "3 Clove(s) minced garlic"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) white wine"
+      },
+      {
+        "type": "item",
+        "text": "7 Cup(s) chicken broth"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) fresh thyme, minced"
+      },
+      {
+        "type": "item",
+        "text": "1 bay leaves"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) red pepper flakes"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) diced cooked ham"
+      },
+      {
+        "type": "item",
+        "text": "½ Pound(s) Kale, stemmed and leaves chopped"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oil in Dutch oven over medium heat until shimmering. Add lentils, carrots, and onion and cook until vegetables are softened and lentils are beginning to brown, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add wine and cook until reduced by half, about 1 minute. Stir in broth, thyme, bay leaf, and pepper flakes and bring to boil."
+      },
+      {
+        "type": "step",
+        "text": "Reduce heat to medium low, and simmer, covered, until thickened and lentils are completely tender, about 1 hour. Discard bay leaf. Puree 2 cups soup until smooth. Return pureed soup to pot and stir in kale and ham. Simmer, covered, until kale is tender, about 10 minutes. Season with salt and pepper. Serve."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:58:30Z",
+    "modified": "2017-02-24T00:58:30Z",
+    "source": {
+      "wpId": 323,
+      "url": "https://www.khoza.com/recipes/lentil-soup-with-ham-2/",
+      "html": "<p><div id=\"easyrecipe-323-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Lentil Soup with Ham</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/323-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Olivia House</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) Dried brown lentils</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 carrot, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 onion, diced</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Clove(s) minced garlic</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) white wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">7 Cup(s) chicken broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) fresh thyme, minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 bay leaves</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) red pepper flakes</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) diced cooked ham</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Pound(s) Kale, stemmed and leaves chopped</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oil in Dutch oven over medium heat until shimmering. Add lentils, carrots, and onion and cook until vegetables are softened and lentils are beginning to brown, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add wine and cook until reduced by half, about 1 minute. Stir in broth, thyme, bay leaf, and pepper flakes and bring to boil.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Reduce heat to medium low, and simmer, covered, until thickened and lentils are completely tender, about 1 hour. Discard bay leaf. Puree 2 cups soup until smooth. Return pureed soup to pot and stir in kale and ham. Simmer, covered, until kale is tender, about 10 minutes. Season with salt and pepper. Serve.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

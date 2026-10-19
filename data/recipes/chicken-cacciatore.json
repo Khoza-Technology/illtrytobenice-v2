@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "chicken-cacciatore",
+    "slug": "chicken-cacciatore",
+    "title": "Chicken Cacciatore",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "Italian",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "½ Cup(s) roughly chopped basil leaves, fresh is best"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) campanelle or penne regate pasta, cooked"
+      },
+      {
+        "type": "item",
+        "text": "6 Cup(s) italian crushed tomatoes"
+      },
+      {
+        "type": "item",
+        "text": "4 Ounce(s) oyster mushrooms sliced"
+      },
+      {
+        "type": "item",
+        "text": "2 red bell peppers, cut into 1 inch squares"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) gaeta olives, chopped"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) white wine"
+      },
+      {
+        "type": "item",
+        "text": "¼ Cup(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "3 Clove(s) garlic pressed with knife and minced"
+      },
+      {
+        "type": "item",
+        "text": "1 onion, diced"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) dried rosemary, fresh is better"
+      },
+      {
+        "type": "item",
+        "text": "¾ Teaspoon(s) dried oregano"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) dried parsley flakes"
+      },
+      {
+        "type": "item",
+        "text": "¾ Teaspoon(s) coarse salt or sea salt"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) red pepper flakes"
+      },
+      {
+        "type": "item",
+        "text": "3½ Pound(s) chicken thighs, wings, breasts and drumsticks"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) red wine vinegar-this needs to be good vinegar"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) tomato paste"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oil, garlic, onion, rosemary, parsley, ½ tsp oregano, ½ tsp salt, and red pepper flakes in a large shallow saucepan over medium heat. Cook, stirring occasionally until the onions are translucent but not browned. Add chicken and cook, turning occasionally until well browned on both sides (about 30 minutes). Add vinegar and cook until reduced by half (10-12 minutes)."
+      },
+      {
+        "type": "step",
+        "text": "Add tomatoes, tomato paste and ¼ tsp oregano. Cook until the tomatoes have reduced and thickened slightly, stirring occasionally (about 20 minutes)."
+      },
+      {
+        "type": "step",
+        "text": "Add basil, wine, olives, peppers, and mushrooms. Cook until the peppers have softened and the chicken is very tender (about 15 minutes). Serve imme"
+      },
+      {
+        "type": "step",
+        "text": "diately over the pasta."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:03:39Z",
+    "modified": "2017-02-23T23:03:39Z",
+    "source": {
+      "wpId": 273,
+      "url": "https://www.khoza.com/recipes/chicken-cacciatore/",
+      "html": "<p><div id=\"easyrecipe-273-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Chicken Cacciatore</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/273-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Italian</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) roughly chopped basil leaves, fresh is best</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) campanelle or penne regate pasta, cooked</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Cup(s) italian crushed tomatoes</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Ounce(s) oyster mushrooms sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 red bell peppers, cut into 1 inch squares</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) gaeta olives, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) white wine</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Clove(s) garlic pressed with knife and minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 onion, diced</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) dried rosemary, fresh is better</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Teaspoon(s) dried oregano</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) dried parsely flakes</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Teaspoon(s) coarse salt or sea salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) red pepper flakes</li> <li class=\"ingredient\" itemprop=\"ingredients\">3&frac12; Pound(s) chicken thighs, wings, breasts and drumsticks</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) red wine vinegar-this needs to be good vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) tomato paste</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oil, garlic, onion, rosemary, parsely, &frac12; tsp oregano, &frac12; sp salt, and red pepper flakes in a large shallow saucepan over medium heat. Cook, stirring occasionally until the onions are translucent but not browned. Add chicken and cook, turning occasionally until well browned on both sides (about 30 minutes). Add vinegar and cook until reduced by half (10-12 minutes).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add tomatoes, tomato paste and &frac14; tsp oregano. Cook until te tomatoes have reduced and thickened slightly, stirring occasionally (about 20 minutes).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add basil, wine, olives, peppers, and mushrooms. Cook until the peppers have softened and the chicken is very tender (about 15 minutes). Serve imme</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">diately over the pasta.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

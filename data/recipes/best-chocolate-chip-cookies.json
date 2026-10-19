@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "best-chocolate-chip-cookies",
+    "slug": "best-chocolate-chip-cookies",
+    "title": "Best Chocolate Chip Cookies",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 cup butter, softened"
+      },
+      {
+        "type": "item",
+        "text": "1 cup white sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 cup packed brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons vanilla extract"
+      },
+      {
+        "type": "item",
+        "text": "3 cups all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon baking soda"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons hot water"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon salt"
+      },
+      {
+        "type": "item",
+        "text": "2 cups semisweet chocolate chips"
+      },
+      {
+        "type": "item",
+        "text": "1 cup chopped walnuts (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees F."
+      },
+      {
+        "type": "step",
+        "text": "Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans."
+      },
+      {
+        "type": "step",
+        "text": "Bake for about 10 minutes in the preheated oven, or until edges are nicely browned."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:21:48Z",
+    "modified": "2017-02-23T22:41:59Z",
+    "source": {
+      "wpId": 231,
+      "url": "https://www.khoza.com/recipes/best-chocolate-chip-cookies/",
+      "html": "<p><div id=\"easyrecipe-231-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Best Chocolate Chip Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/231-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup butter, softened</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup white sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup packed brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons vanilla extract</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 cups all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons hot water</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups semisweet chocolate chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup chopped walnuts (optional)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees F.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "easy-meatloaf",
+    "slug": "easy-meatloaf",
+    "title": "Easy Meatloaf",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT10M",
+        "minutes": 10,
+        "label": "10 mins"
+      },
+      "cook": {
+        "iso": "PT60M",
+        "minutes": 60,
+        "label": "60 mins"
+      },
+      "total": {
+        "iso": "PT1H10M",
+        "minutes": 70,
+        "label": "1 hour 10 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1½ pounds ground beef"
+      },
+      {
+        "type": "item",
+        "text": "1 egg"
+      },
+      {
+        "type": "item",
+        "text": "1 onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 cup milk"
+      },
+      {
+        "type": "item",
+        "text": "1 cup dried bread crumbs"
+      },
+      {
+        "type": "item",
+        "text": "salt and pepper to taste"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons prepared mustard"
+      },
+      {
+        "type": "item",
+        "text": "⅓ cup ketchup"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees F (175 degrees C)."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl, combine the beef, egg, onion, milk and bread OR cracker crumbs. Season with salt and pepper to taste and place in a lightly greased 5x9 inch loaf pan, OR form into a loaf and place in a lightly greased 9x13 inch baking dish."
+      },
+      {
+        "type": "step",
+        "text": "In a separate small bowl, combine the brown sugar, mustard and ketchup. Mix well and pour over the meatloaf."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 350 degrees F (175 degrees C) for 1 hour."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/easy-meatloaf-1.jpeg",
+        "alt": "Easy Meatloaf"
+      }
+    ],
+    "published": "2017-02-23T21:23:34Z",
+    "modified": "2017-02-23T21:23:34Z",
+    "source": {
+      "wpId": 207,
+      "url": "https://www.khoza.com/recipes/easy-meatloaf/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-208\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/GC_good-eats-meatloaf_s4x3.jpg.rend_.hgtvcom.406.305-300x225.jpeg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/GC_good-eats-meatloaf_s4x3.jpg.rend_.hgtvcom.406.305-300x225.jpeg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/GC_good-eats-meatloaf_s4x3.jpg.rend_.hgtvcom.406.305.jpeg 406w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-207-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Easy Meatloaf</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/GC_good-eats-meatloaf_s4x3.jpg.rend_.hgtvcom.406.305-300x225.jpeg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/207-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT10M\">10 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT60M\">60 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT1H10M\">1 hour 10 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; pounds ground beef</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup dried bread crumbs</li> <li class=\"ingredient\" itemprop=\"ingredients\">salt and pepper to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons prepared mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; cup ketchup</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees F (175 degrees C).</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, combine the beef, egg, onion, milk and bread OR cracker crumbs. Season with salt and pepper to taste and place in a lightly greased 5x9 inch loaf pan, OR form into a loaf and place in a lightly greased 9x13 inch baking dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a separate small bowl, combine the brown sugar, mustard and ketchup. Mix well and pour over the meatloaf.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 350 degrees F (175 degrees C) for 1 hour.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

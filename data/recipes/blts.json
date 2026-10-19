@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "blts",
+    "slug": "blts",
+    "title": "BLTs",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner",
+      "lunch"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Pound(s) bacon"
+      },
+      {
+        "type": "item",
+        "text": "4 Slice(s) sourdough bread"
+      },
+      {
+        "type": "item",
+        "text": "1 butter"
+      },
+      {
+        "type": "item",
+        "text": "1 romaine lettuce (this needs to be romaine)"
+      },
+      {
+        "type": "item",
+        "text": "2 red tomatoes (vine ripened are best, they need to be really"
+      },
+      {
+        "type": "item",
+        "text": "1 mayonnaise"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Cook bacon until semi-crisp. You want about 8-10 pieces of bacon per sandwich (if you're going to make these-don't try to make them low-fat. It's a waste of time-they don't taste as good. Go all out and make them right.) You don't want the bacon too crisp or it will just shatter when you eat it. It will get more crisp as it dries, so make just less crisp then you think is perfect."
+      },
+      {
+        "type": "step",
+        "text": "Butter the sourdough bread. This is a very important step-make sure you butter every part of the bread and make sure you butter clear to the edges. Otherwise, bread will be dry, hard and taste like toast-yuck. Cook bread, butter side down, over medium heat. When done, take off and place on those wire cookie grates until ready to assemble sandwich. If you place bread on a plate, it will get soggy and it's really gross. You want the outside crispy and the inside warm and soft."
+      },
+      {
+        "type": "step",
+        "text": "Cut one tomato per sandwich."
+      },
+      {
+        "type": "step",
+        "text": "Clean one leaf of romaine lettuce per sandwich. Romaine is best because of the taste and it's not too floppy."
+      },
+      {
+        "type": "step",
+        "text": "Mayonnaise each piece of bread. Place lettuce, then tomatoes (use liberally-the tomatoes make the sandwich juicy and good), then bacon, then the last slice of bread. Cut in half and enjoy with a salad and some good wine or a good coke."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:48:53Z",
+    "modified": "2017-02-23T22:48:53Z",
+    "source": {
+      "wpId": 255,
+      "url": "https://www.khoza.com/recipes/blts/",
+      "html": "<p><div id=\"easyrecipe-255-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">BLT's</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/255-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Lunch</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) bacon</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Slice(s) sourdough bread</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 romaine lettuce (this needs to be romaine)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 red tomatoes (vine rippened are best, they need to be really</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 mayonnaise</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cook bacon until semi-crisp. You want about 8-10 pieces of bacon per sandwhich (if you're going to make these-don't try to make them low-fat. It's a waste of time-they don't taste as good. Go all out and make them right.) You don't want the bacon too crisp or it will just shatter when you eat it. It will get more crisp as it dries, so make just less crisp then you think is perfect.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Butter the sourdough bread. This is a very important step-make sure you butter every part of the bread and make sure you butter clear to the edges. Otherwise, bread will be dry, hard and taste like toast-yuck. Cook bread, butter side down, over medium heat. When done, take off and place on those wire cookie grates until ready to assemble sandwhich. If you place bread on a plate, it will get soggy and it's really gross. You want the outside crispy and the inside warm and soft.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut one tomato per sandwhich.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Clean one leaf of romaine lettuce per sandwhich. Romaine is best because of the taste and it's not too floppy.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mayonnaise each piece of bread. Place lettuce, then tomatoes (use liberally-the tomatoes make the sandwhich juicy and good), then bacon, then the last slice of bread. Cut in half and enjoy with a salad and some good wine or a good coke.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

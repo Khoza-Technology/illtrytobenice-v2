@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "homemade-black-bean-veggie-burgers",
+    "slug": "homemade-black-bean-veggie-burgers",
+    "title": "Homemade Black Bean Veggie Burgers",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner",
+      "lunch"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT15M",
+        "minutes": 15,
+        "label": "15 mins"
+      },
+      "cook": {
+        "iso": "PT20M",
+        "minutes": 20,
+        "label": "20 mins"
+      },
+      "total": {
+        "iso": "PT35M",
+        "minutes": 35,
+        "label": "35 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 (16 ounce) can black beans, drained and rinsed"
+      },
+      {
+        "type": "item",
+        "text": "½ green bell pepper, cut into 2 inch pieces"
+      },
+      {
+        "type": "item",
+        "text": "½ onion, cut into wedges"
+      },
+      {
+        "type": "item",
+        "text": "3 cloves garlic, peeled"
+      },
+      {
+        "type": "item",
+        "text": "1 egg"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon chili powder"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon cumin"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon Thai chili sauce or hot sauce"
+      },
+      {
+        "type": "item",
+        "text": "½ cup bread crumbs"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet."
+      },
+      {
+        "type": "step",
+        "text": "In a medium bowl, mash black beans with a fork until thick and pasty."
+      },
+      {
+        "type": "step",
+        "text": "In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans."
+      },
+      {
+        "type": "step",
+        "text": "In a small bowl, stir together egg, chili powder, cumin, and chili sauce."
+      },
+      {
+        "type": "step",
+        "text": "Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties."
+      },
+      {
+        "type": "step",
+        "text": "If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/homemade-black-bean-veggie-burgers-1.jpg",
+        "alt": "Homemade Black Bean Veggie Burgers"
+      }
+    ],
+    "published": "2017-02-23T21:36:08Z",
+    "modified": "2017-02-23T21:36:08Z",
+    "source": {
+      "wpId": 222,
+      "url": "https://www.khoza.com/recipes/homemade-black-bean-veggie-burgers/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-223\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/820428-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/820428-300x169.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/820428.jpg 560w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-222-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Homemade Black Bean Veggie Burgers</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/820428-300x169.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/222-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT15M\">15 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT20M\">20 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT35M\">35 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 (16 ounce) can black beans, drained and rinsed</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; green bell pepper, cut into 2 inch pieces</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; onion, cut into wedges</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 cloves garlic, peeled</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon chili powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon cumin</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon Thai chili sauce or hot sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup bread crumbs</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a medium bowl, mash black beans with a fork until thick and pasty.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a small bowl, stir together egg, chili powder, cumin, and chili sauce.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

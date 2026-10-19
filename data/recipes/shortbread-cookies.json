@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "shortbread-cookies",
+    "slug": "shortbread-cookies",
+    "title": "Shortbread Cookies",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¾ C + 1 Tbsp butter"
+      },
+      {
+        "type": "item",
+        "text": "⅓ heaping C sugar"
+      },
+      {
+        "type": "item",
+        "text": "¼ tsp salt"
+      },
+      {
+        "type": "item",
+        "text": "1½ scant C flour"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 and place rack in middle of oven."
+      },
+      {
+        "type": "step",
+        "text": "Cream butter, sugar, and salt in a mixing bowl."
+      },
+      {
+        "type": "step",
+        "text": "Add flour to combine."
+      },
+      {
+        "type": "step",
+        "text": "Place dough into 8x8 glass, ungreased pan and press flat with your fingers."
+      },
+      {
+        "type": "step",
+        "text": "Add and smash in whatever chips you prefer."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 18-20 minutes until the bottom and edges just start to turn brown. Look at the sides through the glass, not the top."
+      },
+      {
+        "type": "step",
+        "text": "Let cool 15 minutes. Cut into bars and place cookies on cooling rack."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2019-05-23T17:56:37Z",
+    "modified": "2019-05-23T18:19:56Z",
+    "source": {
+      "wpId": 492,
+      "url": "https://www.khoza.com/recipes/shortbread-cookies/",
+      "html": "<p><div id=\"easyrecipe-492-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Shortbread Cookies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/492-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; C + 1 Tbsp butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; heaping C sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; tsp salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; scant C flour</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 and place rack in middle of oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cream butter, sugar, and salt in a mixing bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add flour to combine.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place dough into 8x8 glass, ungreased pan and press flat with your fingers.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add and smash in whatever chips you prefer.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 18-20 minutes until the bottom and edges just start to turn brown. Look at the sides through the glass, not the top.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let cool 15 minutes. Cut into bars and place cookies on cooling rack.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div><br />\n </p>\n"
+    }
+  }
+}

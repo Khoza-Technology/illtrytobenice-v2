@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "slow-cooker-barbacoa-beef",
+    "slug": "slow-cooker-barbacoa-beef",
+    "title": "Slow-Cooker Barbacoa Beef",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 canned chipotles in adobo sauce, minced, plus all the adobo sauce it sits in"
+      },
+      {
+        "type": "item",
+        "text": "1 bunch fresh cilantro, coarsely chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 medium red onion, peeled and cut into large chunks"
+      },
+      {
+        "type": "item",
+        "text": "1 head garlic, peeled and cloves smashed"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon ground cloves"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "Juice of 4 limes"
+      },
+      {
+        "type": "item",
+        "text": "½ cup apple cider vinegar"
+      },
+      {
+        "type": "item",
+        "text": "5 to 7 pounds beef brisket"
+      },
+      {
+        "type": "item",
+        "text": "4 to 6 cups beef or chicken stock"
+      },
+      {
+        "type": "item",
+        "text": "5 bay leaves"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Place the chipotle peppers and their sauce, cilantro, red onion, garlic, clove, salt, lime juice, and cider vinegar in a 7-quart or larger slow cooker until combined (if you have a food processor, you can also pulse till combined before adding). Place the brisket on top of this mixture. (Cut the brisket into a few pieces if necessary to better fit in the slow cooker.) Add stock to cover the meat and place the bay leaves on top. Use tongs to turn the meat a few times in the sauce."
+      },
+      {
+        "type": "step",
+        "text": "Put the lid on the slow cooker. Cook until the meat shreds easily with 2 forks, 8 to 10 hours on low."
+      },
+      {
+        "type": "step",
+        "text": "Transfer the meat to a rimmed baking sheet. Use 2 forks to pull the meat apart. Discard the fat, if desired (although if you plan on frying it again before use, the small fat bits are extra tasty and should be kept!). Place the shredded beef in a large bowl and ladle the cooking liquid over the top a few scoops at a time. You want the meat to hold the liquid but not swim in it; you might not need to use all of the cooking liquid. (The leftover liquid is very tasty and can be frozen in cube-sized portions for use in later dishes.)"
+      },
+      {
+        "type": "step",
+        "text": "To keep the barbacoa warm for guests, you can return the shredded beef to your slow cooker and keep it warm on the WARM setting. Serve with tortillas, onion, cilantro, and salsa."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/slow-cooker-barbacoa-beef-1.jpg",
+        "alt": "Slow-Cooker Barbacoa Beef"
+      }
+    ],
+    "published": "2017-02-23T21:21:35Z",
+    "modified": "2017-02-23T21:21:35Z",
+    "source": {
+      "wpId": 204,
+      "url": "https://www.khoza.com/recipes/slow-cooker-barbacoa-beef/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-205\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/a42c462e4a449d55294dc47611e5e92d04e167ca-200x300.jpg\" alt=\"\" width=\"200\" height=\"300\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/a42c462e4a449d55294dc47611e5e92d04e167ca-200x300.jpg 200w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/a42c462e4a449d55294dc47611e5e92d04e167ca.jpg 610w\" sizes=\"auto, (max-width: 200px) 100vw, 200px\" /><br />\n<div id=\"easyrecipe-204-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Slow-Cooker Barbacoa Beef</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/a42c462e4a449d55294dc47611e5e92d04e167ca-200x300.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/204-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 canned chipotles in adobo sauce, minced, plus all the adobo sauce it sits in</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 bunch fresh cilantro, coarsely chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 medium red onion, peeled and cut into large chunks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 head garlic, peeled and cloves smashed</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon ground cloves</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">Juice of 4 limes</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup apple cider vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 to 7 pounds beef brisket</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 to 6 cups beef or chicken stock</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 bay leaves</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the chipotle peppers and their sauce, cilantro, red onion, garlic, clove, salt, lime juice, and cider vinegar in a 7-quart or larger slow cooker until combined (if you have a food processor, you can also pulse till combined before adding). Place the brisket on top of this mixture. (Cut the brisket into a few pieces if necessary to better fit in the slow cooker.) Add stock to cover the meat and place the bay leaves on top. Use tongs to turn the meat a few times in the sauce.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put the lid on the slow cooker. Cook until the meat shreds easily with 2 forks, 8 to 10 hours on low.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Transfer the meat to a rimmed baking sheet. Use 2 forks to pull the meat apart. Discard the fat, if desired (although if you plan on frying it again before use, the small fat bits are extra tasty and should be kept!). Place the shredded beef in a large bowl and ladle the cooking liquid over the top a few scoops at a time. You want the meat to hold the liquid but not swim in it; you might not need to use all of the cooking liquid. (The leftover liquid is very tasty and can be frozen in cube-sized portions for use in later dishes.)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">To keep the barbacoa warm for guests, you can return the shredded beef to your slow cooker and keep it warm on the WARM setting. Serve with tortillas, onion, cilantro, and salsa.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

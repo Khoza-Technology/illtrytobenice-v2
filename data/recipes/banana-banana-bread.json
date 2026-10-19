@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "banana-banana-bread",
+    "slug": "banana-banana-bread",
+    "title": "Banana Banana Bread",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "bread",
+      "breakfast"
+    ],
+    "cuisine": null,
+    "times": {
+      "prep": {
+        "iso": "PT15M",
+        "minutes": 15,
+        "label": "15 mins"
+      },
+      "cook": {
+        "iso": "PT65M",
+        "minutes": 65,
+        "label": "65 mins"
+      },
+      "total": {
+        "iso": "PT1H20M",
+        "minutes": 80,
+        "label": "1 hour 20 mins"
+      }
+    },
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 cups all-purpose flour"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon baking soda"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon salt"
+      },
+      {
+        "type": "item",
+        "text": "½ cup butter"
+      },
+      {
+        "type": "item",
+        "text": "¾ cup brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs, beaten"
+      },
+      {
+        "type": "item",
+        "text": "2⅓ cups mashed overripe bananas"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan."
+      },
+      {
+        "type": "step",
+        "text": "In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan."
+      },
+      {
+        "type": "step",
+        "text": "Bake in preheated oven for 60 to 65 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/banana-banana-bread-1.jpg",
+        "alt": "Banana Banana Bread"
+      }
+    ],
+    "published": "2017-02-23T21:29:26Z",
+    "modified": "2017-02-23T21:29:26Z",
+    "source": {
+      "wpId": 216,
+      "url": "https://www.khoza.com/recipes/banana-banana-bread/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-217\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/914962.jpg\" alt=\"\" width=\"250\" height=\"250\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/914962.jpg 250w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/914962-150x150.jpg 150w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/914962-50x50.jpg 50w\" sizes=\"auto, (max-width: 250px) 100vw, 250px\" /><br />\n<div id=\"easyrecipe-216-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Banana Banana Bread</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/914962.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/216-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"ERSTimes\"> <div class=\"ERSTime\"> <div class=\"ERSTimeHeading\">Prep time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"prepTime\" datetime=\"PT15M\">15 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Cook time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"cookTime\" datetime=\"PT65M\">65 mins</time> </div> </div> <div class=\"ERSTime ERSTimeRight\"> <div class=\"ERSTimeHeading\">Total time</div> <div class=\"ERSTimeItem\"> <time itemprop=\"totalTime\" datetime=\"PT1H20M\">1 hour 20 mins</time> </div> </div> <div class=\"ERSClearLeft\">&nbsp;</div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 cups all-purpose flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon baking soda</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup butter</li> <li class=\"ingredient\" itemprop=\"ingredients\"></li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; cup brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs, beaten</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&#8531; cups mashed overripe bananas</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake in preheated oven for 60 to 65 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "spicy-almonds",
+    "slug": "spicy-almonds",
+    "title": "Spicy Almonds",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 cup whole natural almonds"
+      },
+      {
+        "type": "item",
+        "text": "1 cup extra-virgin olive oil"
+      },
+      {
+        "type": "item",
+        "text": "4 tablespoons soy sauce"
+      },
+      {
+        "type": "item",
+        "text": "3 tablespoons maple syrup"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon cumin"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon garlic powder"
+      },
+      {
+        "type": "item",
+        "text": "1 tablespoon coarse sea salt"
+      },
+      {
+        "type": "item",
+        "text": "1½ teaspoon cayenne"
+      },
+      {
+        "type": "item",
+        "text": "1½ teaspoon paprika"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Preheat the oven to 350°F. Toss all of the ingredients together in a bowl, then spread the almonds in a single layer on a baking sheet lined with parchment paper and drizzle with any remaining sauce."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 20 minutes, turning once halfway through. Cool completely, then roughly chop."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-03-03T01:06:28Z",
+    "modified": "2017-05-17T02:18:10Z",
+    "source": {
+      "wpId": 380,
+      "url": "https://www.khoza.com/recipes/spicy-almonds/",
+      "html": "<p><div id=\"easyrecipe-380-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Spicy Almonds</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/380-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Danielle Walker</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 cup whole natural almonds</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup extra-virgin olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 tablespoons soy sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 tablespoons maple syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon cumin</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon garlic powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 tablespoon coarse sea salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; teaspoon cayenne</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; teaspoon paprika</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 350°F. Toss all of the ingredients together in a bowl, then spread the almonds in a single layer on a baking sheet lined with parchment paper and drizzle with any remaining sauce.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 20 minutes, turning once halfway through. Cool completely, then roughly chop.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

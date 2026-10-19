@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="en" data-base="{{BASE}}" data-page="styleguide">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Style guide · I&rsquo;ll Try To Be Nice</title>
+  <meta name="description" content="The living style guide for the I'll Try To Be Nice recipe box: tokens, components and patterns.">
+  <meta name="theme-color" content="#FBF6EE">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:,">
+  <script>(function(){var d=document.documentElement;try{var t=JSON.parse(localStorage.getItem('itbn:state')||'{}').theme;if(t==='light'||t==='dark')d.dataset.theme=t;else d.removeAttribute('data-theme')}catch(e){d.removeAttribute('data-theme')}})();</script>
+  <link rel="stylesheet" href="{{BASE}}assets/css/site.css">
+  <style>
+    /* Style-guide-only presentation helpers (sg-*). Never use these on site pages. */
+    .sg-swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: var(--space-s); }
+    .sg-swatches--8 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    @media (min-width: 640px) { .sg-swatches--8 { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+    @media (min-width: 1100px) { .sg-swatches--8 { grid-template-columns: repeat(8, minmax(0, 1fr)); } }
+    .sg-swatch { display: grid; align-content: start; gap: 4px; font-size: var(--step--1); }
+    .sg-swatch__chip { height: 64px; border-radius: var(--radius-m); box-shadow: inset 0 0 0 1px var(--color-line), var(--shadow-1); }
+    .sg-swatch code, .sg-type code, .sg-space code, .sg-icon code { font-size: var(--step--1); font-weight: 500; color: var(--color-ink); }
+    .sg-type { display: grid; gap: 2px; padding-block: var(--space-xs); border-bottom: 1px solid var(--color-line); }
+    .sg-space { display: grid; grid-template-columns: 8.5rem 1fr; align-items: center; gap: var(--space-xs); }
+    .sg-space__bar { height: 14px; border-radius: 4px; background: var(--color-accent); }
+    .sg-shadows { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: var(--space-m); }
+    .sg-shadows > div { display: grid; place-items: center; height: 96px; background: var(--color-surface); font-size: var(--step--1); font-weight: 500; }
+    .sg-icons { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: var(--space-2xs); }
+    .sg-icon { display: grid; justify-items: center; gap: 6px; padding: var(--space-xs) 4px; border-radius: var(--radius-m); background: var(--color-surface); box-shadow: var(--shadow-1); text-align: center; }
+    .sg-theme { padding: var(--space-s); border-radius: var(--radius-l); background: var(--color-bg); color: var(--color-ink); box-shadow: inset 0 0 0 1px var(--color-line); }
+    .sg-theme > .sg-note { margin-bottom: var(--space-2xs); }
+    .sg-demo { display: grid; gap: var(--space-s); }
+    .sg-note { font-size: var(--step--1); color: var(--color-ink-muted); }
+    .sg-split { display: grid; gap: var(--space-m); }
+    .sg-split > * { min-width: 0; }
+    @media (min-width: 900px) { .sg-split { grid-template-columns: 1fr 1fr; } }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="app-header">
+    <a class="app-header__brand" href="{{BASE}}">
+      <span class="app-header__mark"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-card"/></svg></span>
+      <span class="app-header__name">I&rsquo;ll Try To Be Nice</span>
+    </a>
+    <nav class="app-header__nav" aria-label="Main">
+      <a href="{{BASE}}" data-nav="home"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-book"/></svg>Recipes</a>
+      <a href="{{BASE}}search/" data-nav="search"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-search"/></svg>Search</a>
+      <a href="{{BASE}}favorites/" data-nav="favorites"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg>Favorites</a>
+      <a href="{{BASE}}list/" data-nav="list"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-cart"/></svg><span data-label>List</span><span class="tabbar__badge" data-list-count hidden>0</span></a>
+    </nav>
+    <div class="app-header__actions">
+      <button class="btn btn--icon btn--ghost" type="button" data-theme-toggle aria-label="Theme: System. Switch to light"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-auto"/></svg></button>
+    </div>
+  </header>
+
+  <main id="main" class="page container">
+    <header class="section stack" style="--gap: var(--space-xs)">
+      <span class="section__kicker">Living style guide</span>
+      <h1>The recipe box, card by card</h1>
+      <p class="text-muted" style="font-size: var(--step-1)">Every token and component the site is built from, shown with real recipes. If you need something that isn&rsquo;t here, add it to the design system first.</p>
+      <div class="cluster">
+        <button class="btn btn--secondary" type="button" data-theme-toggle aria-label="Theme: System. Switch to light"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-auto"/></svg><span data-theme-label>System</span></button>
+        <a class="btn btn--ghost" href="#components"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-right"/></svg>Jump to components</a>
+      </div>
+    </header>
+
+    <!-- ============ TOKENS ============ -->
+    <section class="section" id="color" aria-labelledby="color-title">
+      <div class="section__head"><div><span class="section__kicker">Tokens</span><h2 class="section__title" id="color-title">Color</h2></div></div>
+      <p class="sg-note" style="margin-bottom: var(--space-s)">Swatches follow the current theme. Toggle the theme to see the dark palette.</p>
+      <ul class="sg-swatches">
+        <li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-bg)"></span><code>--color-bg</code><span class="text-muted">Page paper</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-surface)"></span><code>--color-surface</code><span class="text-muted">Card</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-surface-2)"></span><code>--color-surface-2</code><span class="text-muted">Recessed / hover</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-ink)"></span><code>--color-ink</code><span class="text-muted">Body text</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-ink-muted)"></span><code>--color-ink-muted</code><span class="text-muted">Secondary text</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-line)"></span><code>--color-line</code><span class="text-muted">Hairline</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-line-strong)"></span><code>--color-line-strong</code><span class="text-muted">Input border</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-accent)"></span><code>--color-accent</code><span class="text-muted">Brand fill, icons, focus</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-accent-strong)"></span><code>--color-accent-strong</code><span class="text-muted">Accent text, primary button</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-accent-ink)"></span><code>--color-accent-ink</code><span class="text-muted">Text on primary</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-accent-soft)"></span><code>--color-accent-soft</code><span class="text-muted">Selected fill</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-success)"></span><code>--color-success</code><span class="text-muted">Success</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-danger)"></span><code>--color-danger</code><span class="text-muted">Danger</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--color-inverse)"></span><code>--color-inverse</code><span class="text-muted">Toast surface</span></li>
+      </ul>
+    </section>
+
+    <section class="section" id="categories" aria-labelledby="cat-title">
+      <div class="section__head"><h2 class="section__title" id="cat-title">Category tints</h2></div>
+      <ul class="sg-swatches sg-swatches--8">
+        <li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-bread)"></span><code>--cat-bread</code><span class="text-muted">Bread</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-breakfast)"></span><code>--cat-breakfast</code><span class="text-muted">Breakfast</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-dessert)"></span><code>--cat-dessert</code><span class="text-muted">Dessert</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-dinner)"></span><code>--cat-dinner</code><span class="text-muted">Dinner</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-lunch)"></span><code>--cat-lunch</code><span class="text-muted">Lunch</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-sauce)"></span><code>--cat-sauce</code><span class="text-muted">Sauce</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-sides)"></span><code>--cat-sides</code><span class="text-muted">Sides</span></li>
+<li class="sg-swatch"><span class="sg-swatch__chip" style="background:var(--cat-misc)"></span><code>--cat-misc</code><span class="text-muted">Uncategorized</span></li>
+      </ul>
+    </section>
+
+    <section class="section" id="type" aria-labelledby="type-title">
+      <div class="section__head"><h2 class="section__title" id="type-title">Type scale</h2><span class="sg-note">Poppins 400 · 500 · 600 · 700</span></div>
+      <div class="sg-type"><code>--step-5</code><span style="font-size:var(--step-5);font-weight:700;letter-spacing:-0.03em;line-height:1.15">Grandma&rsquo;s Fudge</span></div>
+<div class="sg-type"><code>--step-4</code><span style="font-size:var(--step-4);font-weight:700;letter-spacing:-0.03em;line-height:1.15">Chicken Pot Pie</span></div>
+<div class="sg-type"><code>--step-3</code><span style="font-size:var(--step-3);font-weight:700;letter-spacing:-0.03em;line-height:1.15">What goes in it</span></div>
+<div class="sg-type"><code>--step-2</code><span style="font-size:var(--step-2);font-weight:700;letter-spacing:normal;line-height:1.15">Instructions</span></div>
+<div class="sg-type"><code>--step-1</code><span style="font-size:var(--step-1);font-weight:700;letter-spacing:normal;line-height:1.15">Cream the butter and sugar</span></div>
+<div class="sg-type"><code>--step-0</code><span style="font-size:var(--step-0);font-weight:400;letter-spacing:normal;line-height:1.15">Stir in eggs and mashed bananas until well blended.</span></div>
+<div class="sg-type"><code>--step--1</code><span style="font-size:var(--step--1);font-weight:400;letter-spacing:normal;line-height:1.15">Genevieve · 1 hour 20 mins</span></div>
+    </section>
+
+    <section class="section sg-split" aria-label="Space, radius and shadow">
+      <div class="stack" style="--gap: var(--space-2xs)">
+        <h2 class="section__title">Space</h2>
+        <div class="sg-space"><code>--space-3xs</code><span class="sg-space__bar" style="width:var(--space-3xs)"></span></div>
+<div class="sg-space"><code>--space-2xs</code><span class="sg-space__bar" style="width:var(--space-2xs)"></span></div>
+<div class="sg-space"><code>--space-xs</code><span class="sg-space__bar" style="width:var(--space-xs)"></span></div>
+<div class="sg-space"><code>--space-s</code><span class="sg-space__bar" style="width:var(--space-s)"></span></div>
+<div class="sg-space"><code>--space-m</code><span class="sg-space__bar" style="width:var(--space-m)"></span></div>
+<div class="sg-space"><code>--space-l</code><span class="sg-space__bar" style="width:var(--space-l)"></span></div>
+<div class="sg-space"><code>--space-xl</code><span class="sg-space__bar" style="width:var(--space-xl)"></span></div>
+<div class="sg-space"><code>--space-2xl</code><span class="sg-space__bar" style="width:var(--space-2xl)"></span></div>
+<div class="sg-space"><code>--space-3xl</code><span class="sg-space__bar" style="width:var(--space-3xl)"></span></div>
+<div class="sg-space"><code>--tap-min</code><span class="sg-space__bar" style="width:var(--tap-min)"></span></div>
+<div class="sg-space"><code>--control-md</code><span class="sg-space__bar" style="width:var(--control-md)"></span></div>
+<div class="sg-space"><code>--control-sm</code><span class="sg-space__bar" style="width:var(--control-sm)"></span></div>
+<p class="sg-note"><code>--tap-min</code> is the height of every interactive control on touch / below 900px. <code>--control-md</code> (chips, segmented) and <code>--control-sm</code> (<code>.btn--sm</code>) apply only to fine pointers &ge;900px, with a 44px hit area kept by a pseudo-element.</p>
+      </div>
+      <div class="stack">
+        <h2 class="section__title">Radius &amp; shadow</h2>
+        <div class="sg-shadows">
+          <div style="border-radius: var(--radius-s); box-shadow: var(--shadow-1)">radius-s · shadow-1</div>
+          <div style="border-radius: var(--radius-m); box-shadow: var(--shadow-2)">radius-m · shadow-2</div>
+          <div style="border-radius: var(--radius-l); box-shadow: var(--shadow-3)">radius-l · shadow-3</div>
+          <div style="border-radius: var(--radius-pill); box-shadow: var(--shadow-1); height: 56px">radius-pill</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="icons" aria-labelledby="icons-title">
+      <div class="section__head"><h2 class="section__title" id="icons-title">Icons</h2><span class="sg-note">assets/img/icons.svg</span></div>
+      <ul class="sg-icons">
+        <li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-book"/></svg><code>i-book</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-search"/></svg><code>i-search</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><code>i-heart</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg><code>i-heart-fill</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-cart"/></svg><code>i-cart</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-sun"/></svg><code>i-sun</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-moon"/></svg><code>i-moon</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-auto"/></svg><code>i-auto</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-plus"/></svg><code>i-plus</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-minus"/></svg><code>i-minus</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-check"/></svg><code>i-check</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-x"/></svg><code>i-x</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-share"/></svg><code>i-share</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-copy"/></svg><code>i-copy</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chef"/></svg><code>i-chef</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-clock"/></svg><code>i-clock</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-users"/></svg><code>i-users</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-shuffle"/></svg><code>i-shuffle</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-print"/></svg><code>i-print</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-trash"/></svg><code>i-trash</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-left"/></svg><code>i-arrow-left</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-right"/></svg><code>i-arrow-right</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chevron-right"/></svg><code>i-chevron-right</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg><code>i-chevron-down</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-filter"/></svg><code>i-filter</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-list"/></svg><code>i-list</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-merge"/></svg><code>i-merge</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-sparkle"/></svg><code>i-sparkle</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-utensils"/></svg><code>i-utensils</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-card"/></svg><code>i-card</code></li>
+<li class="sg-icon"><svg class="icon icon--md" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-external"/></svg><code>i-external</code></li>
+      </ul>
+    </section>
+
+    <section class="section" id="components" aria-labelledby="buttons-title">
+      <div class="section__head"><div><span class="section__kicker">Components</span><h2 class="section__title" id="buttons-title">Buttons</h2></div></div>
+      <div class="sg-demo">
+        <div class="cluster">
+          <button class="btn btn--primary" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-cart"/></svg>Add to list</button>
+          <button class="btn btn--secondary" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chef"/></svg>Cook</button>
+          <button class="btn btn--ghost" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-print"/></svg>Print</button>
+          <button class="btn btn--secondary" type="button" aria-pressed="true" data-demo-toggle><svg class="icon icon--off" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg>Saved</button>
+          <button class="btn btn--primary" type="button" disabled>Disabled</button>
+        </div>
+        <div class="cluster">
+          <button class="btn btn--primary btn--lg" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chef"/></svg>Start cooking</button>
+          <button class="btn btn--secondary btn--sm" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-shuffle"/></svg>Surprise me</button>
+          <button class="btn btn--icon btn--secondary" type="button" aria-label="Share"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-share"/></svg></button>
+          <button class="btn btn--icon btn--ghost" type="button" aria-label="Delete"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-trash"/></svg></button>
+        </div>
+        <div class="stack" style="--gap: var(--space-2xs); max-width: var(--container-narrow)">
+          <button class="btn btn--primary btn--block btn--lg" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-share"/></svg>Send to Google Keep</button>
+          <div class="button-row">
+            <button class="btn btn--secondary" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-copy"/></svg><span>Copy list</span></button>
+            <button class="btn btn--ghost" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-check"/></svg><span>Clear checked</span></button>
+            <button class="btn btn--ghost" type="button"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-trash"/></svg><span>Clear all</span></button>
+          </div>
+        </div>
+        <p class="sg-note"><code>.button-row</code>: equal-width buttons in one row (shopping list actions). Below 640px each button stacks its icon over its label, so three fit at 360px.</p>
+      </div>
+    </section>
+
+    <section class="section sg-split" aria-label="Controls">
+      <div class="stack">
+        <h2 class="section__title">Search field</h2>
+        <div class="search-field search-field--lg">
+          <svg class="icon search-field__icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-search"/></svg>
+          <input class="search-field__input" type="search" placeholder="Search recipes, ingredients, people" aria-label="Search recipes" value="banana">
+          <button class="search-field__clear" type="button" aria-label="Clear search" data-demo-clear><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-x"/></svg></button>
+        </div>
+        <div class="search-field">
+          <svg class="icon search-field__icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-search"/></svg>
+          <input class="search-field__input" type="search" placeholder="Filter this list" aria-label="Filter">
+          <button class="search-field__clear" type="button" aria-label="Clear search" data-demo-clear><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-x"/></svg></button>
+        </div>
+        <h2 class="section__title">Inputs</h2>
+        <label class="field">
+          <span class="field__label">Item</span>
+          <input class="input" type="text" placeholder="e.g. 2 lemons">
+          <span class="field__hint">Added to the bottom of your list.</span>
+        </label>
+        <label class="field">
+          <span class="field__label">Sort</span>
+          <select class="input"><option>A&ndash;Z</option><option>Newest</option></select>
+        </label>
+      </div>
+      <div class="stack">
+        <h2 class="section__title">Chips</h2>
+        <div class="chip-row" role="group" aria-label="Filter by contributor">
+          <button class="chip" type="button" aria-pressed="true">Everyone</button>
+          <button class="chip" type="button" aria-pressed="false">Amy <span class="chip__count">64</span></button>
+          <button class="chip" type="button" aria-pressed="false">Genevieve <span class="chip__count">43</span></button>
+          <button class="chip" type="button" aria-pressed="false">Olivia <span class="chip__count">5</span></button>
+          <button class="chip" type="button" aria-pressed="false">Maddy <span class="chip__count">1</span></button>
+        </div>
+        <h2 class="section__title">Segmented</h2>
+        <div class="cluster">
+          <div class="segmented" role="group" aria-label="Scale">
+            <button class="segmented__option" type="button" aria-pressed="false">&frac12;&times;</button>
+            <button class="segmented__option" type="button" aria-pressed="true">1&times;</button>
+            <button class="segmented__option" type="button" aria-pressed="false">2&times;</button>
+            <button class="segmented__option" type="button" aria-pressed="false">3&times;</button>
+          </div>
+          <div class="segmented" role="group" aria-label="Sort">
+            <button class="segmented__option" type="button" aria-pressed="true">A&ndash;Z</button>
+            <button class="segmented__option" type="button" aria-pressed="false">Newest</button>
+          </div>
+        </div>
+        <h2 class="section__title">Stepper &amp; switch</h2>
+        <div class="cluster" style="--gap: var(--space-m)">
+          <div class="stepper" role="group" aria-label="Servings" data-demo-stepper>
+            <button class="stepper__btn" type="button" aria-label="Fewer servings" data-step="-1"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-minus"/></svg></button>
+            <output class="stepper__value" aria-live="polite">14</output>
+            <button class="stepper__btn" type="button" aria-label="More servings" data-step="1"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-plus"/></svg></button>
+          </div>
+          <label class="switch"><input class="switch__input" type="checkbox" role="switch" checked><span>Combine like items</span></label>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="tabs-title">
+      <div class="section__head"><h2 class="section__title" id="tabs-title">Divider tabs</h2></div>
+      <nav class="divider-tabs" aria-label="Categories">
+        <a class="divider-tab" href="#tabs-all">All<span class="divider-tab__count">116</span></a>
+        <a class="divider-tab" data-cat="bread" href="#tabs-bread">Bread<span class="divider-tab__count">7</span></a>
+<a class="divider-tab" data-cat="breakfast" href="#tabs-breakfast">Breakfast<span class="divider-tab__count">10</span></a>
+<a class="divider-tab" data-cat="dessert" href="#tabs-dessert" aria-current="page">Dessert<span class="divider-tab__count">26</span></a>
+<a class="divider-tab" data-cat="dinner" href="#tabs-dinner">Dinner<span class="divider-tab__count">35</span></a>
+<a class="divider-tab" data-cat="lunch" href="#tabs-lunch">Lunch<span class="divider-tab__count">4</span></a>
+<a class="divider-tab" data-cat="sauce" href="#tabs-sauce">Sauce<span class="divider-tab__count">3</span></a>
+<a class="divider-tab" data-cat="sides" href="#tabs-sides">Sides<span class="divider-tab__count">23</span></a>
+      </nav>
+    </section>
+
+    <section class="section" aria-labelledby="pagehead-title">
+      <div class="section__head"><h2 class="section__title" id="pagehead-title">Page head</h2></div>
+      <p class="sg-note" style="margin-bottom: var(--space-s)">One title + meta pattern for list, favorites, search, category and contributor pages. Stacks on phones; from 640px the meta sits on the title&rsquo;s baseline at the end edge.</p>
+      <div class="card card--flat">
+        <header class="page__head" style="margin: 0">
+          <p class="page__back"><a href="#pagehead-title"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-left"/></svg> All recipes</a></p>
+          <h1 class="page__title">Shopping list</h1>
+          <p class="page__meta">10 items to get &middot; 1 checked</p>
+          <p class="page__intro">Everything you&rsquo;ve added from recipes, grouped by recipe.</p>
+        </header>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="table-title">
+      <div class="section__head"><h2 class="section__title" id="table-title">Recipe table</h2><span class="sg-note">markup.js &rarr; recipeTableHTML()</span></div>
+      <p class="sg-note" style="margin-bottom: var(--space-s)">The recipe index on home, search, category, contributor and favorites pages. A real <code>&lt;table&gt;</code>: columns from 640px (<em>Added</em> from 900px), compact list rows below 640px &mdash; resize the window. Headers sort (<code>aria-sort</code>); the title link covers the row; the heart is its own button. The left rule is the category tint (kraft = uncategorized). Both panels below force a theme.</p>
+      <div class="stack">
+        <div class="sg-theme" data-theme="light">
+          <p class="sg-note">Light</p>
+          <table class="recipe-table" data-recipe-table><caption class="visually-hidden">Recipe table demo (light)</caption><thead><tr><th scope="col" class="recipe-table__title" aria-sort="ascending"><button type="button" class="recipe-table__sort" data-sort="az">Recipe<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__by">From</th><th scope="col" class="recipe-table__cat">Category</th><th scope="col" class="recipe-table__time"><button type="button" class="recipe-table__sort" data-sort="quick">Time<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__added"><button type="button" class="recipe-table__sort" data-sort="new">Added<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__fav"><span class="visually-hidden">Favorite</span></th></tr></thead><tbody data-recipe-rows><tr class="recipe-table__row" style="--cat: var(--cat-bread)" data-slug="sgl-banana-bread" data-categories="bread" data-contributor="genevieve" data-published="2019-11-02" data-minutes="80" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgl-banana-bread">Banana Banana Bread</a><ul class="dot-list recipe-table__meta"><li>Genevieve Hammil</li><li>Bread</li><li>1 hr 20 min</li></ul></span></th><td class="recipe-table__by">Genevieve Hammil</td><td class="recipe-table__cat">Bread</td><td class="recipe-table__time">1 hr 20 min</td><td class="recipe-table__added"><time datetime="2019-11-02">Nov 2019</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgl-banana-bread" aria-pressed="false" aria-label="Favorite Banana Banana Bread" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-breakfast)" data-slug="sgl-waffles" data-categories="breakfast" data-contributor="amy" data-published="2021-04-10" data-minutes="25" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgl-waffles">Buttermilk Waffles</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Breakfast</li><li>25 min</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Breakfast</td><td class="recipe-table__time">25 min</td><td class="recipe-table__added"><time datetime="2021-04-10">Apr 2021</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgl-waffles" aria-pressed="false" aria-label="Favorite Buttermilk Waffles" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-dessert)" data-slug="sgl-cookies" data-categories="dessert" data-contributor="amy" data-published="2017-02-20" data-minutes="" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgl-cookies">Best Chocolate Chip Cookies</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Dessert</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Dessert</td><td class="recipe-table__time"><span class="recipe-table__none" aria-hidden="true">—</span><span class="visually-hidden">Not listed</span></td><td class="recipe-table__added"><time datetime="2017-02-20">Feb 2017</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgl-cookies" aria-pressed="false" aria-label="Favorite Best Chocolate Chip Cookies" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-sauce)" data-slug="sgl-bbq" data-categories="sauce dinner" data-contributor="olivia" data-published="2025-02-01" data-minutes="20" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgl-bbq">Honey BBQ Sauce</a><ul class="dot-list recipe-table__meta"><li>Olivia House</li><li>Sauce, Dinner</li><li>20 min</li></ul></span></th><td class="recipe-table__by">Olivia House</td><td class="recipe-table__cat">Sauce, Dinner</td><td class="recipe-table__time">20 min</td><td class="recipe-table__added"><time datetime="2025-02-01">Feb 2025</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgl-bbq" aria-pressed="false" aria-label="Favorite Honey BBQ Sauce" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-misc)" data-slug="sgl-butter" data-categories="" data-contributor="maddy" data-published="2023-08-15" data-minutes="10" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgl-butter">Homemade Butter</a><ul class="dot-list recipe-table__meta"><li>Maddy Simonsen</li><li>10 min</li></ul></span></th><td class="recipe-table__by">Maddy Simonsen</td><td class="recipe-table__cat"><span class="recipe-table__none" aria-hidden="true">—</span><span class="visually-hidden">Not listed</span></td><td class="recipe-table__time">10 min</td><td class="recipe-table__added"><time datetime="2023-08-15">Aug 2023</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgl-butter" aria-pressed="false" aria-label="Favorite Homemade Butter" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr></tbody></table>
+        </div>
+        <div class="sg-theme" data-theme="dark">
+          <p class="sg-note">Dark</p>
+          <table class="recipe-table" data-recipe-table><caption class="visually-hidden">Recipe table demo (dark)</caption><thead><tr><th scope="col" class="recipe-table__title" aria-sort="ascending"><button type="button" class="recipe-table__sort" data-sort="az">Recipe<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__by">From</th><th scope="col" class="recipe-table__cat">Category</th><th scope="col" class="recipe-table__time"><button type="button" class="recipe-table__sort" data-sort="quick">Time<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__added"><button type="button" class="recipe-table__sort" data-sort="new">Added<svg class="icon recipe-table__sort-icon" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-chevron-down"/></svg></button></th><th scope="col" class="recipe-table__fav"><span class="visually-hidden">Favorite</span></th></tr></thead><tbody data-recipe-rows><tr class="recipe-table__row" style="--cat: var(--cat-bread)" data-slug="sgd-banana-bread" data-categories="bread" data-contributor="genevieve" data-published="2019-11-02" data-minutes="80" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgd-banana-bread">Banana Banana Bread</a><ul class="dot-list recipe-table__meta"><li>Genevieve Hammil</li><li>Bread</li><li>1 hr 20 min</li></ul></span></th><td class="recipe-table__by">Genevieve Hammil</td><td class="recipe-table__cat">Bread</td><td class="recipe-table__time">1 hr 20 min</td><td class="recipe-table__added"><time datetime="2019-11-02">Nov 2019</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgd-banana-bread" aria-pressed="false" aria-label="Favorite Banana Banana Bread" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-breakfast)" data-slug="sgd-waffles" data-categories="breakfast" data-contributor="amy" data-published="2021-04-10" data-minutes="25" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgd-waffles">Buttermilk Waffles</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Breakfast</li><li>25 min</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Breakfast</td><td class="recipe-table__time">25 min</td><td class="recipe-table__added"><time datetime="2021-04-10">Apr 2021</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgd-waffles" aria-pressed="false" aria-label="Favorite Buttermilk Waffles" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-dessert)" data-slug="sgd-cookies" data-categories="dessert" data-contributor="amy" data-published="2017-02-20" data-minutes="" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgd-cookies">Best Chocolate Chip Cookies</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Dessert</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Dessert</td><td class="recipe-table__time"><span class="recipe-table__none" aria-hidden="true">—</span><span class="visually-hidden">Not listed</span></td><td class="recipe-table__added"><time datetime="2017-02-20">Feb 2017</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgd-cookies" aria-pressed="false" aria-label="Favorite Best Chocolate Chip Cookies" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-sauce)" data-slug="sgd-bbq" data-categories="sauce dinner" data-contributor="olivia" data-published="2025-02-01" data-minutes="20" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgd-bbq">Honey BBQ Sauce</a><ul class="dot-list recipe-table__meta"><li>Olivia House</li><li>Sauce, Dinner</li><li>20 min</li></ul></span></th><td class="recipe-table__by">Olivia House</td><td class="recipe-table__cat">Sauce, Dinner</td><td class="recipe-table__time">20 min</td><td class="recipe-table__added"><time datetime="2025-02-01">Feb 2025</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgd-bbq" aria-pressed="false" aria-label="Favorite Honey BBQ Sauce" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-misc)" data-slug="sgd-butter" data-categories="" data-contributor="maddy" data-published="2023-08-15" data-minutes="10" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgd-butter">Homemade Butter</a><ul class="dot-list recipe-table__meta"><li>Maddy Simonsen</li><li>10 min</li></ul></span></th><td class="recipe-table__by">Maddy Simonsen</td><td class="recipe-table__cat"><span class="recipe-table__none" aria-hidden="true">—</span><span class="visually-hidden">Not listed</span></td><td class="recipe-table__time">10 min</td><td class="recipe-table__added"><time datetime="2023-08-15">Aug 2023</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgd-butter" aria-pressed="false" aria-label="Favorite Homemade Butter" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr></tbody></table>
+        </div>
+      </div>
+      <p class="sg-note" style="margin-block: var(--space-m) var(--space-2xs)"><code>.recipe-table--compact</code> &mdash; list rows at every width, no header (&ldquo;More from &lt;category&gt;&rdquo; on recipe pages).</p>
+      <div style="max-width: var(--container-narrow)">
+        <table class="recipe-table recipe-table--compact" data-recipe-table><caption class="visually-hidden">Compact recipe list demo</caption><tbody data-recipe-rows><tr class="recipe-table__row" style="--cat: var(--cat-bread)" data-slug="sgc-banana-bread" data-categories="bread" data-contributor="genevieve" data-published="2019-11-02" data-minutes="80" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgc-banana-bread">Banana Banana Bread</a><ul class="dot-list recipe-table__meta"><li>Genevieve Hammil</li><li>Bread</li><li>1 hr 20 min</li></ul></span></th><td class="recipe-table__by">Genevieve Hammil</td><td class="recipe-table__cat">Bread</td><td class="recipe-table__time">1 hr 20 min</td><td class="recipe-table__added"><time datetime="2019-11-02">Nov 2019</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgc-banana-bread" aria-pressed="false" aria-label="Favorite Banana Banana Bread" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-breakfast)" data-slug="sgc-waffles" data-categories="breakfast" data-contributor="amy" data-published="2021-04-10" data-minutes="25" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgc-waffles">Buttermilk Waffles</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Breakfast</li><li>25 min</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Breakfast</td><td class="recipe-table__time">25 min</td><td class="recipe-table__added"><time datetime="2021-04-10">Apr 2021</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgc-waffles" aria-pressed="false" aria-label="Favorite Buttermilk Waffles" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr><tr class="recipe-table__row" style="--cat: var(--cat-dessert)" data-slug="sgc-cookies" data-categories="dessert" data-contributor="amy" data-published="2017-02-20" data-minutes="" data-cuisine=""><th scope="row" class="recipe-table__title"><span class="recipe-table__name"><a class="recipe-table__link" href="#sgc-cookies">Best Chocolate Chip Cookies</a><ul class="dot-list recipe-table__meta"><li>Amy Simonsen</li><li>Dessert</li></ul></span></th><td class="recipe-table__by">Amy Simonsen</td><td class="recipe-table__cat">Dessert</td><td class="recipe-table__time"><span class="recipe-table__none" aria-hidden="true">—</span><span class="visually-hidden">Not listed</span></td><td class="recipe-table__added"><time datetime="2017-02-20">Feb 2017</time></td><td class="recipe-table__fav"><button type="button" class="btn btn--icon btn--ghost" data-fav="sgc-cookies" aria-pressed="false" aria-label="Favorite Best Chocolate Chip Cookies" data-requires-js><svg class="icon icon--off" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true" focusable="false"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button></td></tr></tbody></table>
+      </div>
+    </section>
+
+    <section class="section sg-split" aria-label="Cards and badges">
+      <div class="stack">
+        <h2 class="section__title">Card</h2>
+        <div class="card">
+          <h3 class="card__title">Notes from Genevieve</h3>
+          <p>Freeze overripe bananas in their skins. Thaw them in a bowl and pour off the liquid before mashing.</p>
+        </div>
+        <div class="card card--ruled">
+          <h3 class="card__title">Ruled index card</h3>
+          <p>Use for handwritten-feeling notes. The rule spacing follows the text line height.</p>
+        </div>
+      </div>
+      <div class="stack">
+        <h2 class="section__title">Badges &amp; meta</h2>
+        <div class="cluster">
+          <span class="badge">American</span>
+          <span class="badge badge--accent"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-sparkle"/></svg>New</span>
+          <span class="badge badge--cat" data-cat="dessert">Dessert</span>
+          <span class="badge badge--outline">Gluten free</span>
+          <span class="badge badge--success"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-check"/></svg>Added</span>
+        </div>
+        <ul class="dot-list text-muted" style="font-size: var(--step--1); max-width: 16rem">
+          <li>Genevieve Hammil</li><li>Bread, Breakfast</li><li><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-clock"/></svg>1 hr 20 min</li>
+        </ul>
+        <p class="sg-note"><code>.dot-list</code> (also the recipe table&rsquo;s mobile meta line): resize the window &mdash; a dot never starts or ends a line.</p>
+        <ul class="meta-list">
+          <li class="meta-list__item"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-users"/></svg>By <a href="#">Genevieve</a></li>
+          <li class="meta-list__item"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-clock"/></svg>Prep <strong>15 mins</strong></li>
+          <li class="meta-list__item"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-utensils"/></svg>Serves <strong>14</strong></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section sg-split" aria-label="Checklist and steps">
+      <div class="stack">
+        <h2 class="section__title">Checklist</h2>
+        <ul class="checklist" data-demo-checklist>
+          <li class="check-item check-item--heading">Dry ingredients</li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">2 cups all-purpose flour</span></label></li>
+<li><label class="check-item check-item--done"><input class="check-item__input" type="checkbox" checked><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">1 teaspoon baking soda</span></label></li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">¼ teaspoon salt</span></label></li>
+<li class="check-item check-item--heading">Wet ingredients</li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">½ cup butter</span></label></li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">¾ cup brown sugar</span></label></li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">2 eggs, beaten</span></label></li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">2⅓ cups mashed overripe bananas</span></label></li>
+        </ul>
+      </div>
+      <div class="stack">
+        <h2 class="section__title">Selection list</h2>
+        <p class="sg-note"><code>.checklist--select</code> (default inside a <code>.sheet</code>): checked means &ldquo;include&rdquo;, so no strikethrough.</p>
+        <ul class="checklist checklist--select">
+<li><label class="check-item"><input class="check-item__input" type="checkbox" checked><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">3 ripe bananas</span></label></li>
+<li><label class="check-item"><input class="check-item__input" type="checkbox"><span class="check-item__box" aria-hidden="true"></span><span class="check-item__label">½ cup butter</span></label></li>
+        </ul>
+        <h2 class="section__title">Steps</h2>
+        <ol class="steps">
+          <li class="step step--done" tabindex="0" data-demo-step><span class="step__num" aria-hidden="true"></span><p class="step__text">Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan.</p></li>
+<li class="step" tabindex="0" data-demo-step><span class="step__num" aria-hidden="true"></span><p class="step__text">In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar.</p></li>
+<li class="step" tabindex="0" data-demo-step><span class="step__num" aria-hidden="true"></span><p class="step__text">Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.</p></li>
+<li class="steps__heading">Bake</li>
+<li class="step" tabindex="0" data-demo-step><span class="step__num" aria-hidden="true"></span><p class="step__text">Bake in preheated oven for 60 to 65 minutes, until a toothpick inserted into center of the loaf comes out clean.</p></li>
+<li class="step" tabindex="0" data-demo-step><span class="step__num" aria-hidden="true"></span><p class="step__text">Let bread cool in pan for 10 minutes, then turn out onto a wire rack.</p></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="hero-title">
+      <div class="section__head"><h2 class="section__title" id="hero-title">Recipe hero</h2></div>
+      <header class="recipe-hero">
+        <div class="recipe-hero__body">
+          <p class="recipe-hero__kicker"><a class="badge badge--cat" data-cat="bread" href="#hero-title">Bread</a><a class="badge badge--cat" data-cat="breakfast" href="#hero-title">Breakfast</a></p>
+          <h1 class="recipe-hero__title">Banana Banana Bread</h1>
+          <p class="recipe-hero__summary">Twice the banana, half the fuss. Moist enough to keep for days, if it lasts that long.</p>
+          <dl class="facts recipe-hero__facts">
+            <div class="facts__item"><dt class="facts__label">From</dt><dd class="facts__value"><a href="#hero-title">Genevieve Hammil</a></dd></div>
+            <div class="facts__item"><dt class="facts__label">Prep</dt><dd class="facts__value">15 mins</dd></div>
+            <div class="facts__item"><dt class="facts__label">Total</dt><dd class="facts__value">1 hr 20 mins</dd></div>
+            <div class="facts__item"><dt class="facts__label">Serves</dt><dd class="facts__value">12</dd></div>
+          </dl>
+          <div class="action-bar" role="toolbar" aria-label="Recipe actions">
+            <button class="btn btn--primary" type="button" data-demo-add><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-cart"/></svg><span class="btn__label">Add to list</span></button>
+            <button class="btn btn--secondary" type="button" data-cook-open><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chef"/></svg><span class="btn__label">Cook</span></button>
+            <button class="btn btn--icon btn--ghost" type="button" aria-pressed="false" aria-label="Favorite" data-demo-toggle><svg class="icon icon--off" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg><svg class="icon icon--on" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart-fill"/></svg></button>
+            <button class="btn btn--icon btn--ghost" type="button" aria-label="Share"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-share"/></svg></button>
+          </div>
+        </div>
+      </header>
+      <p class="sg-note" style="margin-top: var(--space-s)">Typographic header: no artwork. <code>.facts</code> is a <code>&lt;dl&gt;</code> of label-over-value pairs. When a recipe has <code>images[0]</code>, a <code>&lt;figure class="recipe-hero__photo"&gt;</code> comes first and takes the right column from 900px.</p>
+      <p class="sg-note" style="margin-top: var(--space-s)">On phones the action bar above is fixed above the tab bar (primary flexes, labelled buttons keep their label, icon buttons stay 44px square; below 360px labelled secondaries go icon-only, so wrap labels in <code>&lt;span class="btn__label"&gt;</code>). From 900px it sits inline in the hero.</p>
+    </section>
+
+    <section class="section" aria-labelledby="empty-title">
+      <div class="section__head"><h2 class="section__title" id="empty-title">Empty state</h2></div>
+      <div class="card card--plain">
+        <div class="empty-state">
+          <div class="empty-state__icon"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg></div>
+          <h3 class="empty-state__title">No favorites yet</h3>
+          <p class="empty-state__text">Tap the heart on any recipe to keep it here.</p>
+          <div class="cluster"><a class="btn btn--primary" href="#table-title"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-book"/></svg>Browse recipes</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="overlays-title">
+      <div class="section__head"><h2 class="section__title" id="overlays-title">Overlays</h2></div>
+      <div class="cluster">
+        <button class="btn btn--secondary" type="button" data-sheet-open="#servings-sheet"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-users"/></svg>Prebuilt sheet</button>
+        <button class="btn btn--secondary" type="button" data-demo-opensheet><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-trash"/></svg>openSheet()</button>
+        <button class="btn btn--secondary" type="button" data-demo-toast><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-check"/></svg>Toast</button>
+        <button class="btn btn--secondary" type="button" data-demo-toast-action><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-copy"/></svg>Toast with action</button>
+        <button class="btn btn--secondary" type="button" data-demo-share><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-share"/></svg>shareText()</button>
+        <button class="btn btn--primary" type="button" data-cook-open><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-chef"/></svg>Cook mode</button>
+      </div>
+    </section>
+  </main>
+
+  <nav class="tabbar" aria-label="Primary">
+    <a class="tabbar__item" href="{{BASE}}" data-nav="home"><span class="tabbar__icon"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-book"/></svg></span><span class="tabbar__label">Recipes</span></a>
+    <a class="tabbar__item" href="{{BASE}}search/" data-nav="search"><span class="tabbar__icon"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-search"/></svg></span><span class="tabbar__label">Search</span></a>
+    <a class="tabbar__item" href="{{BASE}}favorites/" data-nav="favorites"><span class="tabbar__icon"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-heart"/></svg></span><span class="tabbar__label">Favorites</span></a>
+    <a class="tabbar__item" href="{{BASE}}list/" data-nav="list"><span class="tabbar__icon"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-cart"/></svg><span class="tabbar__badge" data-list-count hidden>0</span></span><span class="tabbar__label">List</span></a>
+  </nav>
+
+  <dialog class="sheet" id="servings-sheet" aria-labelledby="servings-sheet-title">
+    <header class="sheet__head">
+      <h2 class="sheet__title" id="servings-sheet-title">Scale this recipe</h2>
+      <button class="btn btn--icon btn--ghost sheet__close" type="button" data-sheet-close aria-label="Close"><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-x"/></svg></button>
+    </header>
+    <div class="sheet__body stack">
+      <p class="text-muted">Ingredient amounts update as you change the scale.</p>
+      <div class="segmented" role="group" aria-label="Scale">
+        <button class="segmented__option" type="button" aria-pressed="false">&frac12;&times;</button>
+        <button class="segmented__option" type="button" aria-pressed="true">1&times;</button>
+        <button class="segmented__option" type="button" aria-pressed="false">2&times;</button>
+        <button class="segmented__option" type="button" aria-pressed="false">3&times;</button>
+      </div>
+    </div>
+    <footer class="sheet__actions">
+      <button class="btn btn--secondary" type="button" data-sheet-close>Cancel</button>
+      <button class="btn btn--primary" type="button" data-sheet-close value="apply">Apply</button>
+    </footer>
+  </dialog>
+
+  <div class="cook-mode" id="cook-mode" role="dialog" aria-modal="true" aria-labelledby="cook-title" hidden>
+    <div class="cook-mode__bar">
+      <p class="cook-mode__title" id="cook-title">Banana Banana Bread</p>
+      <span class="cook-mode__count" data-cook-count>Step 1 of 5</span>
+      <button class="btn btn--icon btn--ghost cook-mode__close" type="button" aria-label="Close cook mode" data-cook-close><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-x"/></svg></button>
+    </div>
+    <div class="cook-mode__progress" role="progressbar" aria-label="Progress" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1" style="--progress: 20%"></div>
+    <div class="cook-mode__stage">
+      <p class="cook-mode__heading" data-cook-heading>Prep</p>
+      <button class="cook-mode__step" type="button" aria-pressed="false" data-cook-step>Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan.</button>
+      <p class="cook-mode__hint" data-cook-hint>Tap the step when it&rsquo;s done.</p>
+    </div>
+    <div class="cook-mode__nav">
+      <button class="btn btn--secondary btn--lg cook-mode__prev" type="button" data-cook-prev><svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-left"/></svg>Back</button>
+      <button class="btn btn--primary btn--lg cook-mode__next" type="button" data-cook-next>Next step<svg class="icon" aria-hidden="true"><use href="{{BASE}}assets/img/icons.svg#i-arrow-right"/></svg></button>
+    </div>
+  </div>
+
+  <script type="module">
+    import { initDS, $, $$, on, h, store, toast, openSheet, shareText, keepAwake, viewTransition } from '{{BASE}}assets/js/ds/index.js';
+    initDS();
+
+    // Toggle buttons (favorite etc.)
+    on(document, 'click', '[data-demo-toggle], [data-demo-fav]', (e, btn) => {
+      const pressed = btn.getAttribute('aria-pressed') === 'true';
+      btn.setAttribute('aria-pressed', String(!pressed));
+      toast(pressed ? 'Removed from favorites' : 'Saved to favorites', { icon: pressed ? 'heart' : 'heart-fill' });
+    });
+
+    // Recipe table demo: hearts toggle, sortable headers move aria-sort within their table
+    on(document, 'click', '.recipe-table [data-fav]', (e, btn) => {
+      btn.setAttribute('aria-pressed', String(btn.getAttribute('aria-pressed') !== 'true'));
+    });
+    on(document, 'click', '.recipe-table__sort', (e, btn) => {
+      const dir = { az: 'ascending', quick: 'ascending', new: 'descending' }[btn.dataset.sort];
+      $$('th[aria-sort]', btn.closest('table')).forEach((th) => th.removeAttribute('aria-sort'));
+      btn.closest('th').setAttribute('aria-sort', dir);
+    });
+
+    // Chips and segmented controls: single-select within their group
+    on(document, 'click', '.chip-row .chip, .segmented__option', (e, btn) => {
+      const group = btn.closest('.chip-row, .segmented');
+      $$('[aria-pressed]', group).forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+    });
+
+    // Divider tabs
+    on(document, 'click', '.divider-tab', (e, tab) => {
+      e.preventDefault();
+      viewTransition(() => $$('.divider-tab').forEach((t) => t === tab ? t.setAttribute('aria-current', 'page') : t.removeAttribute('aria-current')));
+    });
+
+    // Search clear buttons
+    on(document, 'click', '[data-demo-clear]', (e, btn) => {
+      const input = $('.search-field__input', btn.closest('.search-field'));
+      input.value = ''; input.focus();
+    });
+
+    // Stepper
+    on(document, 'click', '[data-demo-stepper] [data-step]', (e, btn) => {
+      const out = $('.stepper__value', btn.closest('.stepper'));
+      out.value = out.textContent = String(Math.max(1, Number(out.textContent) + Number(btn.dataset.step)));
+    });
+
+    // Checklist: mirror checked state to the --done modifier
+    on(document, 'change', '.check-item__input', (e, input) => {
+      input.closest('.check-item').classList.toggle('check-item--done', input.checked);
+    });
+
+    // Steps: tap to complete
+    on(document, 'click', '[data-demo-step]', (e, step) => step.classList.toggle('step--done'));
+    on(document, 'keydown', '[data-demo-step]', (e, step) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); step.classList.toggle('step--done'); }
+    });
+
+    // Add to list → store → tab badge updates via initDS subscription
+    on(document, 'click', '[data-demo-add]', () => {
+      const items = ['2 cups all-purpose flour', '¾ cup brown sugar', '2 eggs', '3 overripe bananas'].map((text) => ({
+        id: (crypto.randomUUID && crypto.randomUUID()) || String(Math.random()).slice(2),
+        text, recipe: 'banana-banana-bread', recipeTitle: 'Banana Banana Bread', scale: 1, checked: false, addedAt: new Date().toISOString(),
+      }));
+      store.update('list.items', (list = []) => [...list, ...items]);
+      toast(`Added ${items.length} items to your list`, {
+        icon: 'check',
+        action: { label: 'Undo', onClick: () => store.update('list.items', (list = []) => list.filter((i) => !items.some((n) => n.id === i.id))) },
+      });
+    });
+
+    // Toasts
+    on(document, 'click', '[data-demo-toast]', () => toast('Recipe link copied', { icon: 'check' }));
+    on(document, 'click', '[data-demo-toast-action]', () => toast('List copied. Paste it into a new Keep note.', {
+      action: { label: 'Open Keep', onClick: () => window.open('https://keep.google.com', '_blank', 'noopener') },
+    }));
+
+    // openSheet()
+    on(document, 'click', '[data-demo-opensheet]', () => {
+      const count = (store.get('list.items') || []).length;
+      openSheet({
+        title: 'Clear your list?',
+        content: h('p', { class: 'text-muted' }, `This removes all ${count} item${count === 1 ? '' : 's'}. You can't undo this.`),
+        actions: [
+          { label: 'Keep list', variant: 'secondary' },
+          { label: 'Clear list', variant: 'primary', icon: 'trash', onClick: () => { store.set('list.items', []); toast('List cleared'); } },
+        ],
+      });
+    });
+
+    // shareText()
+    on(document, 'click', '[data-demo-share]', async () => {
+      const result = await shareText({ title: 'Banana Banana Bread', text: '2 cups all-purpose flour\n¾ cup brown sugar\n2 eggs' });
+      if (result === 'copied') toast('Copied to clipboard', { icon: 'copy' });
+      else if (result === 'failed') toast('Couldn’t share. Try copying instead.');
+    });
+
+    // Cook mode demo
+    const steps = [{"heading": "Prep", "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan."}, {"heading": "Prep", "text": "In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar."}, {"heading": "Prep", "text": "Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan."}, {"heading": "Bake", "text": "Bake in preheated oven for 60 to 65 minutes, until a toothpick inserted into center of the loaf comes out clean."}, {"heading": "Bake", "text": "Let bread cool in pan for 10 minutes, then turn out onto a wire rack."}];
+    const cook = $('#cook-mode');
+    let index = 0, release = null, lastFocus = null;
+    const done = new Set();
+    function renderCook() {
+      const step = $('[data-cook-step]', cook);
+      step.textContent = steps[index].text;
+      step.setAttribute('aria-pressed', String(done.has(index)));
+      step.classList.toggle('is-done', done.has(index));
+      step.classList.remove('is-entering'); void step.offsetWidth; step.classList.add('is-entering');
+      $('[data-cook-heading]', cook).textContent = steps[index].heading;
+      $('[data-cook-count]', cook).textContent = `Step ${index + 1} of ${steps.length}`;
+      const bar = $('.cook-mode__progress', cook);
+      bar.style.setProperty('--progress', `${((index + 1) / steps.length) * 100}%`);
+      bar.setAttribute('aria-valuenow', String(index + 1));
+      $('[data-cook-prev]', cook).disabled = index === 0;
+      const next = $('[data-cook-next]', cook);
+      next.firstChild.textContent = index === steps.length - 1 ? 'Finish' : 'Next step';
+    }
+    function openCook() {
+      lastFocus = document.activeElement; index = 0; done.clear();
+      cook.hidden = false; renderCook(); release = keepAwake();
+      $('[data-cook-step]', cook).focus();
+    }
+    function closeCook() {
+      cook.hidden = true; if (release) release(); release = null;
+      if (lastFocus) lastFocus.focus();
+    }
+    on(document, 'click', '[data-cook-open]', openCook);
+    on(cook, 'click', '[data-cook-close]', closeCook);
+    on(cook, 'click', '[data-cook-prev]', () => { if (index > 0) { index--; renderCook(); } });
+    on(cook, 'click', '[data-cook-next]', () => {
+      done.add(index);
+      if (index < steps.length - 1) { index++; renderCook(); } else { closeCook(); toast('Enjoy your banana bread!', { icon: 'sparkle' }); }
+    });
+    on(cook, 'click', '[data-cook-step]', () => { done.has(index) ? done.delete(index) : done.add(index); renderCook(); });
+    on(document, 'keydown', (e) => {
+      if (cook.hidden) return;
+      if (e.key === 'Escape') closeCook();
+      if (e.key === 'ArrowRight') $('[data-cook-next]', cook).click();
+      if (e.key === 'ArrowLeft' && index > 0) { index--; renderCook(); }
+    });
+  </script>
+</body>
+</html>

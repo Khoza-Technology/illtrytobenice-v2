@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "mayonnaise",
+    "slug": "mayonnaise",
+    "title": "Mayonnaise",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 large egg yolk"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon lemon juice"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon white vinegar"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon sea salt"
+      },
+      {
+        "type": "item",
+        "text": "¼ teaspoon Dijon mustard"
+      },
+      {
+        "type": "item",
+        "text": "¾ cup olive oil"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Place the egg, lemon juice, white vinegar, sea salt, and Dijon mustard in a small blender or food processor and blend on low until combined."
+      },
+      {
+        "type": "step",
+        "text": "With the blender on medium-low, add the oil 1 drop at a time until the mixture resembles mayonnaise. Begin adding the oil in a slow stream with the blender still running, until all the oil has been incorporated."
+      },
+      {
+        "type": "step",
+        "text": "Cover and chill."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:20:13Z",
+    "modified": "2017-04-10T21:52:12Z",
+    "source": {
+      "wpId": 351,
+      "url": "https://www.khoza.com/recipes/mayonnaise/",
+      "html": "<p><div id=\"easyrecipe-351-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Mayonnaise</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/351-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Danielle Walker</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 large egg yolk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon lemon juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon white vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon sea salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; teaspoon Dijon mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; cup olive oil</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the egg, lemon juice, white vinegar, sea salt, and Dijon mustard in a small blender or food processor and blend on low until combined.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">With the blender on medium-low, add the oil 1 drop at a time until the mixture resembles mayonnaise. Begin adding the oil in a slow stream with the blender still running, until all the oil has been incorporated.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover and chill.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

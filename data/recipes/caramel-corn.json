@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "caramel-corn",
+    "slug": "caramel-corn",
+    "title": "Caramel Corn",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "8 Cup(s) popcorn"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) light corn syrup"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "⅔ Teaspoon(s) vinegar"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) butter"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine sugar, brown sugar, corn syrup, water vinegar, and salt in medium saucepan and cook to 260 degrees."
+      },
+      {
+        "type": "step",
+        "text": "Add butter and stir. Drizzle over popcorn."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:02:08Z",
+    "modified": "2017-02-23T23:02:08Z",
+    "source": {
+      "wpId": 271,
+      "url": "https://www.khoza.com/recipes/caramel-corn/",
+      "html": "<p><div id=\"easyrecipe-271-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Caramel Corn</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/271-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">8 Cup(s) popcorn</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) light corn syrup</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8532; Teaspoon(s) vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) butter</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine sugar, brown sugar, corn syrup, water vinegar, and salt in medium saucepan and cook to 260 degrees.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add butter and stir. Drizzle over popcorn.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "holiday-stuffing",
+    "slug": "holiday-stuffing",
+    "title": "Holiday Stuffing",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "6 Italian Sausages"
+      },
+      {
+        "type": "item",
+        "text": "1 15 oz. box of seasoned stuffing"
+      },
+      {
+        "type": "item",
+        "text": "1 white onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "3 cloves of garlic, chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 whole bunch of celery, cut in half (using only the top leafy half. Discard the bottom half. Chop coarsely the top half, including leaves)"
+      },
+      {
+        "type": "item",
+        "text": "28 ounces chicken broth"
+      },
+      {
+        "type": "item",
+        "text": "approx. 1 stick of butter"
+      },
+      {
+        "type": "item",
+        "text": "Olive oil"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Remove the casing (outer film) from the Italian sausage and chop into smaller than bite size pieces (about the size you see on pizzas)"
+      },
+      {
+        "type": "step",
+        "text": "Preheat the oven to 325 (see step 11 below for other alternatives)"
+      },
+      {
+        "type": "step",
+        "text": "In a large saucepan over medium heat, add approx 2 tablespoons of olive oil, then brown the sausages on medium low until still just pink inside. Be careful not to overcook. Discard oil and Reserve sausage."
+      },
+      {
+        "type": "step",
+        "text": "In the saucepan, warm ½ stick of butter of medium heat (Use the remaining ½ stick of butter to make stuffing more moist if desired, otherwise discard it). Add approx. 7 ounces of chicken broth"
+      },
+      {
+        "type": "step",
+        "text": "Add onion, celery and garlic and cook for 3 minutes over medium heat, stirring often."
+      },
+      {
+        "type": "step",
+        "text": "Add remaining chicken broth and sausage and mix together"
+      },
+      {
+        "type": "step",
+        "text": "Place the stuffing mix in a large bowl and slowly and gently add the sausage/veggie mix. Do not over-mix or the stuffing will turn mushy. Add any seasoning packets that came with the stuffing mix at this time, again gently mixing it in. If, after all the ingredients are added, the stuffing seems dry, add more chicken broth, but do so very sparingly. Remember that more fat from the sausages will cook out and add some moisture to the mix."
+      },
+      {
+        "type": "step",
+        "text": "Place the stuffing mix in a greased or Pam-sprayed baking pan, then cover with aluminum foil."
+      },
+      {
+        "type": "step",
+        "text": "Bake for 45 minutes and check for doneness. If stuffing is still too moist, cook for up to an additional 15 minutes. If it's too dry, add some chicken broth and cook, checking frequently, for approx 5-15 more minutes."
+      },
+      {
+        "type": "step",
+        "text": "Just before serving, pour 2 tablespoons of turkey drippings (from the roasting pan you made your turkey with) into the stuffing mix and stir. If you don't have any turkey drippings, skip this step."
+      },
+      {
+        "type": "step",
+        "text": "If the oven is being used on thanksgiving day, for example, the stuffing can be baked earlier in the day (before the turkey goes in) and reheated for dinner in the microwave until warm. This is not ideal, but it will still produce a great stuffing."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2019-11-14T18:37:47Z",
+    "modified": "2019-11-14T18:37:47Z",
+    "source": {
+      "wpId": 503,
+      "url": "https://www.khoza.com/recipes/holiday-stuffing/",
+      "html": "<p>[et_pb_section bb_built=&#8221;1&#8243;][et_pb_row][et_pb_column type=&#8221;4_4&#8243;][et_pb_text _builder_version=&#8221;4.0.6&#8243; text_text_shadow_horizontal_length=&#8221;text_text_shadow_style,%91object Object%93&#8243; text_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; text_text_shadow_vertical_length=&#8221;text_text_shadow_style,%91object Object%93&#8243; text_text_shadow_vertical_length_tablet=&#8221;0px&#8221; text_text_shadow_blur_strength=&#8221;text_text_shadow_style,%91object Object%93&#8243; text_text_shadow_blur_strength_tablet=&#8221;1px&#8221; link_text_shadow_horizontal_length=&#8221;link_text_shadow_style,%91object Object%93&#8243; link_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; link_text_shadow_vertical_length=&#8221;link_text_shadow_style,%91object Object%93&#8243; link_text_shadow_vertical_length_tablet=&#8221;0px&#8221; link_text_shadow_blur_strength=&#8221;link_text_shadow_style,%91object Object%93&#8243; link_text_shadow_blur_strength_tablet=&#8221;1px&#8221; ul_text_shadow_horizontal_length=&#8221;ul_text_shadow_style,%91object Object%93&#8243; ul_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; ul_text_shadow_vertical_length=&#8221;ul_text_shadow_style,%91object Object%93&#8243; ul_text_shadow_vertical_length_tablet=&#8221;0px&#8221; ul_text_shadow_blur_strength=&#8221;ul_text_shadow_style,%91object Object%93&#8243; ul_text_shadow_blur_strength_tablet=&#8221;1px&#8221; ol_text_shadow_horizontal_length=&#8221;ol_text_shadow_style,%91object Object%93&#8243; ol_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; ol_text_shadow_vertical_length=&#8221;ol_text_shadow_style,%91object Object%93&#8243; ol_text_shadow_vertical_length_tablet=&#8221;0px&#8221; ol_text_shadow_blur_strength=&#8221;ol_text_shadow_style,%91object Object%93&#8243; ol_text_shadow_blur_strength_tablet=&#8221;1px&#8221; quote_text_shadow_horizontal_length=&#8221;quote_text_shadow_style,%91object Object%93&#8243; quote_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; quote_text_shadow_vertical_length=&#8221;quote_text_shadow_style,%91object Object%93&#8243; quote_text_shadow_vertical_length_tablet=&#8221;0px&#8221; quote_text_shadow_blur_strength=&#8221;quote_text_shadow_style,%91object Object%93&#8243; quote_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_text_shadow_horizontal_length=&#8221;header_text_shadow_style,%91object Object%93&#8243; header_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_text_shadow_vertical_length=&#8221;header_text_shadow_style,%91object Object%93&#8243; header_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_text_shadow_blur_strength=&#8221;header_text_shadow_style,%91object Object%93&#8243; header_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_2_text_shadow_horizontal_length=&#8221;header_2_text_shadow_style,%91object Object%93&#8243; header_2_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_2_text_shadow_vertical_length=&#8221;header_2_text_shadow_style,%91object Object%93&#8243; header_2_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_2_text_shadow_blur_strength=&#8221;header_2_text_shadow_style,%91object Object%93&#8243; header_2_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_3_text_shadow_horizontal_length=&#8221;header_3_text_shadow_style,%91object Object%93&#8243; header_3_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_3_text_shadow_vertical_length=&#8221;header_3_text_shadow_style,%91object Object%93&#8243; header_3_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_3_text_shadow_blur_strength=&#8221;header_3_text_shadow_style,%91object Object%93&#8243; header_3_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_4_text_shadow_horizontal_length=&#8221;header_4_text_shadow_style,%91object Object%93&#8243; header_4_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_4_text_shadow_vertical_length=&#8221;header_4_text_shadow_style,%91object Object%93&#8243; header_4_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_4_text_shadow_blur_strength=&#8221;header_4_text_shadow_style,%91object Object%93&#8243; header_4_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_5_text_shadow_horizontal_length=&#8221;header_5_text_shadow_style,%91object Object%93&#8243; header_5_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_5_text_shadow_vertical_length=&#8221;header_5_text_shadow_style,%91object Object%93&#8243; header_5_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_5_text_shadow_blur_strength=&#8221;header_5_text_shadow_style,%91object Object%93&#8243; header_5_text_shadow_blur_strength_tablet=&#8221;1px&#8221; header_6_text_shadow_horizontal_length=&#8221;header_6_text_shadow_style,%91object Object%93&#8243; header_6_text_shadow_horizontal_length_tablet=&#8221;0px&#8221; header_6_text_shadow_vertical_length=&#8221;header_6_text_shadow_style,%91object Object%93&#8243; header_6_text_shadow_vertical_length_tablet=&#8221;0px&#8221; header_6_text_shadow_blur_strength=&#8221;header_6_text_shadow_style,%91object Object%93&#8243; header_6_text_shadow_blur_strength_tablet=&#8221;1px&#8221; box_shadow_horizontal_tablet=&#8221;0px&#8221; box_shadow_vertical_tablet=&#8221;0px&#8221; box_shadow_blur_tablet=&#8221;40px&#8221; box_shadow_spread_tablet=&#8221;0px&#8221; z_index_tablet=&#8221;500&#8243;]</p>\n<div id=\"easyrecipe-503-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Holiday Stuffing</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/503-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">6 Italian Sausages</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 15 oz. box of seasoned stuffing</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 white onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 cloves of garlic, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole bunch of celery, cut in half (using only the top leafy half. Discard the bottom half. Chop coarsely the top half, including leaves)</li> <li class=\"ingredient\" itemprop=\"ingredients\">28 ounces chicken broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">approx. 1 stick of butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">Olive oil</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Remove the casing (outer film) from the Italian sausage and chop into smaller than bite size pieces (about the size you see on pizzas)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 325 (see step 11 below for other alternatives)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large saucepan over medium heat, add approx 2 tablespoons of olive oil, then brown the sausages on medium low until still just pink inside. Be careful not to overcook. Discard oil and Reserve sausage.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In the saucepan, warm ½ stick of butter of medium heat (Use the remaining &frac12; stick of butter to make stuffing more moist if desired, otherwise discard it). Add approx. 7 ounces of chicken broth</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add onion, celery and garlic and cook for 3 minutes over medium heat, stirring often.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add remaining chicken broth and sausage and mix together</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the stuffing mix in a large bowl and slowly and gently add the sausage/veggie mix. Do not over-mix or the stuffing will turn mushy. Add any seasoning packets that came with the stuffing mix at this time, again gently mixing it in. If, after all the ingredients are added, the stuffing seems dry, add more chicken broth, but do so very sparingly. Remember that more fat from the sausages will cook out and add some moisture to the mix.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the stuffing mix in a greased or Pam-sprayed baking pan, then cover with aluminum foil.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake for 45 minutes and check for doneness. If stuffing is still too moist, cook for up to an additional 15 minutes. If it's too dry, add some chicken broth and cook, checking frequently, for approx 5-15 more minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Just before serving, pour 2 tablespoons of turkey drippings (from the roasting pan you made your turkey with) into the stuffing mix and stir. If you don't have any turkey drippings, skip this step.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">If the oven is being used on thanksgiving day, for example, the stuffing can be baked earlier in the day (before the turkey goes in) and reheated for dinner in the microwave until warm. This is not ideal, but it will still produce a great stuffing.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div>\n<p> </p>\n<p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]</p>\n"
+    }
+  }
+}

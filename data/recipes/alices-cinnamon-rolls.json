@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "alices-cinnamon-rolls",
+    "slug": "alices-cinnamon-rolls",
+    "title": "Alice's Cinnamon Rolls",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "breakfast"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) active dry yeast active dry yeast"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) milk, scalded"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) shortening"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "6 Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "2 egg"
+      },
+      {
+        "type": "item",
+        "text": "4 Tablespoon(s) butter, melted"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "4 Teaspoon(s) cinnamon"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) powdered sugar"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine yeast and warm water in a small bowl."
+      },
+      {
+        "type": "step",
+        "text": "In another large bowl, combine milk, sugar, shortening, and salt. Slowly add 3 cups flour. Beat lightly."
+      },
+      {
+        "type": "step",
+        "text": "Beat in yeast mixture and egg."
+      },
+      {
+        "type": "step",
+        "text": "Slowly add flour kneading lightly. Too much kneading will make dough tough. Dough should be very sticky and wet."
+      },
+      {
+        "type": "step",
+        "text": "Let rise in greased bowl until doubled."
+      },
+      {
+        "type": "step",
+        "text": "Divide in half. Roll out each dough ball into a large rectangle and cover with butter. Sprinkle generously with brown sugar and cinnamon."
+      },
+      {
+        "type": "step",
+        "text": "Roll and fold ends under. Cut in ½ inch slices and place on rimmed baking sheet."
+      },
+      {
+        "type": "step",
+        "text": "Cover and let rise for 1 hour."
+      },
+      {
+        "type": "step",
+        "text": "Preheat oven to 400 and bake for 15 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Can freeze in foil. Reheat at 300 for 20-25 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Mix confectioner's sugar and water in a small bowl until the sauce is the consistency you like. Spread on rolls."
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/alices-cinnamon-rolls-1.jpg",
+        "alt": "Alice's Cinnamon Rolls"
+      }
+    ],
+    "published": "2017-02-20T17:34:56Z",
+    "modified": "2017-02-20T17:34:56Z",
+    "source": {
+      "wpId": 157,
+      "url": "https://www.khoza.com/recipes/alices-cinnamon-rolls/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-158\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o-300x225.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o-768x576.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o-510x382.jpg 510w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o.jpg 800w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-157-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Alice's Cinnamon Rolls</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/16181657470_1ba0d3ae7f_o-300x225.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/157-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) active dry yeast active dry yeast</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) milk, scalded</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) shortening</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 egg</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Tablespoon(s) butter, melted</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Teaspoon(s) cinnamon</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) powdered sugar</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine yeast and warm water in a small bowl.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In another large bowl, combine milk, sugar, shortening, and salt. Slowly add 3 cups flour. Beat lightly.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat in yeast mixture and egg.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Slowly add flour kneading lightly. Too much kneading will make dough tough. Dough should be very sticky and wet.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Let rise in greased bowl until doubled.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divide in half. Roll out each dough ball into a large rectangle and cover with butter. Sprinkle generously with brown sugar and cinnamon.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Roll and fold ends under. Cut in &frac12; inch slices and place on rimmed baking sheet.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cover and let rise for 1 hour.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat oven to 400 and bake for 15 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Can freeze in foil. Reheat at 300 for 20-25 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix confectioner's sugar and water in a small bowl until the sauce is the consistency you like. Spread on rolls.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

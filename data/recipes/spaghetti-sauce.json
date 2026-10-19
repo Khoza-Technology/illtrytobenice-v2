@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "spaghetti-sauce",
+    "slug": "spaghetti-sauce",
+    "title": "Spaghetti Sauce",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 Pound(s) beef stew meat"
+      },
+      {
+        "type": "item",
+        "text": "1 Pound(s) ground beef"
+      },
+      {
+        "type": "item",
+        "text": "2 medium onions, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2 red pepper, seeded and chopped"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) garlic, minced"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) leaf basil"
+      },
+      {
+        "type": "item",
+        "text": "⅛ Teaspoon(s) crushed red pepper"
+      },
+      {
+        "type": "item",
+        "text": "32 Ounce(s) italian-style tomatoes (2 16 oz cans)"
+      },
+      {
+        "type": "item",
+        "text": "8 Ounce(s) tomato sauce (1 can)"
+      },
+      {
+        "type": "item",
+        "text": "6 Ounce(s) tomato paste (1 can)"
+      },
+      {
+        "type": "item",
+        "text": "2 cooked sausage, cut into pieces"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Brown stew meat and ground beef in large stockpot or dutch oven."
+      },
+      {
+        "type": "step",
+        "text": "Add rest of ingredients and cook over high heat until boiling."
+      },
+      {
+        "type": "step",
+        "text": "Turn heat down to low and let cook for 5 to 8 hours stirring once every hour. Cover pot with a lid once the sauce is the thickness you want. If you don't want to cook on the stovetop, heat oven to 300 and place stockpot or dutch oven in the oven with the lid on and cook for 6 hours."
+      },
+      {
+        "type": "step",
+        "text": "Test taste sauce and add more salt/pepper."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T01:28:12Z",
+    "modified": "2017-02-24T01:28:12Z",
+    "source": {
+      "wpId": 366,
+      "url": "https://www.khoza.com/recipes/spaghetti-sauce/",
+      "html": "<p><div id=\"easyrecipe-366-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Spaghetti Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/366-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) beef stew meat</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pound(s) ground beef</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 medium onions, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 red pepper, seeded and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) garlic, minced</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) leaf basil</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539; Teaspoon(s) crushed red pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">32 Ounce(s) italian-style tomatoes (2 16 oz cans)</li> <li class=\"ingredient\" itemprop=\"ingredients\">8 Ounce(s) tomato sauce (1 can)</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Ounce(s) tomato paste (1 can)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 cooked sausage, cut into pieces</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Brown stew meat and ground beef in large stockpot or dutch oven.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add rest of ingredients and cook over high heat until boiling.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Turn heat down to low and let cook for 5 to 8 hours stirring once every hour. Cover pot with a lid once the sauce is the thickness you want. If you don't want to cook on the stovetop, heat oven to 300 and place stockpot or dutch oven in the oven with the lid on and cook for 6 hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Test taste sauce and add more salt/pepper.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

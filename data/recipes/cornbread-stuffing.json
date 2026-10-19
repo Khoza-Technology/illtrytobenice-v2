@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "cornbread-stuffing",
+    "slug": "cornbread-stuffing",
+    "title": "Cornbread Stuffing",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) butter"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) celery, finely chopped"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) bread crumbs"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) crumbled cornbread"
+      },
+      {
+        "type": "item",
+        "text": "3 Cup(s) chicken broth"
+      },
+      {
+        "type": "item",
+        "text": "2 eggs"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) poultry seasoning"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground black pepper"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) ground sage"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) walnuts or pecans"
+      },
+      {
+        "type": "item",
+        "text": "1 Recipe Cornbread"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Make cornbread"
+      },
+      {
+        "type": "step",
+        "text": "Chop cornbread and bread slices into ½"
+      },
+      {
+        "type": "step",
+        "text": "\""
+      },
+      {
+        "type": "step",
+        "text": "cubes and bake at 350 until toasted."
+      },
+      {
+        "type": "step",
+        "text": "Heat butter in skillet over medium-high heat. Add celery and onion; cook, stirring until tender."
+      },
+      {
+        "type": "step",
+        "text": "Add nuts and saute together until nuts are browned."
+      },
+      {
+        "type": "step",
+        "text": "Combine celery mixture with bread crumbs and cornbread; mix."
+      },
+      {
+        "type": "step",
+        "text": "In a separate bowl, combine broth, eggs"
+      },
+      {
+        "type": "step",
+        "text": ", poultry seasoning, salt, pepper and sage and mix together."
+      },
+      {
+        "type": "step",
+        "text": "Add broth mixture to bread crumb mix."
+      },
+      {
+        "type": "step",
+        "text": "Spoon into a 9x13-inch dish."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 350 for 20 minutes or until light brown and crisp around the edges."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:12:41Z",
+    "modified": "2017-02-23T23:12:41Z",
+    "source": {
+      "wpId": 294,
+      "url": "https://www.khoza.com/recipes/cornbread-stuffing/",
+      "html": "<p><div id=\"easyrecipe-294-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Cornbread Stuffing</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/294-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) butter</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) celery, finely chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) bread crumbs</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) crumbled cornbread</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Cup(s) chicken broth</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) poultry seasoning</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) ground sage</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) walnuts or pecans</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Recipe Cornbread</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Make cornbread</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Chop cornbread and bread slices into &frac12;</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">\"</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">cubes and bake at 350 until toasted.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat butter in skillet over medium-high heat. Add celery and onion; cook, stirring until tender.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add nuts and saute together until nuts are browned.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine celery mixture with bread crumbs and cornbread; mix.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a separate bowl, combine broth, eggs</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">, poultry seasoning, salt, pepper and sage and mix together.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add broth mixture to bread crumb mix.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Spoon into a 9x13-inch dish.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 350 for 20 minutes or until light brown and crisp around the edges.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

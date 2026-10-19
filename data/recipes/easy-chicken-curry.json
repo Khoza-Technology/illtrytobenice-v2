@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "easy-chicken-curry",
+    "slug": "easy-chicken-curry",
+    "title": "Easy Chicken Curry",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "2 tablespoons canola, corn or other neutral oil"
+      },
+      {
+        "type": "item",
+        "text": "2 large onions, peeled and sliced"
+      },
+      {
+        "type": "item",
+        "text": "Salt and freshly ground black pepper to taste"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons curry powder"
+      },
+      {
+        "type": "item",
+        "text": "1 can unsweetened coconut milk (1½ to 2 cups)"
+      },
+      {
+        "type": "item",
+        "text": "1 1⁄2 pounds peeled shrimp or boneless chicken, cut into ¾- to 1-inch chunks"
+      },
+      {
+        "type": "item",
+        "text": "1 cup peeled, seeded and diced tomato (canned is fine; cut up and drain before using)"
+      },
+      {
+        "type": "item",
+        "text": "Chopped basil or mint for garnish (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Place oil in a large skillet; turn heat to medium-high. A minute later, add onions, along with a generous pinch of salt and some pepper. Cook, stirring occasionally, until onions are very soft and almost falling apart, 15 minutes or more. Stir in curry powder, and cook, stirring, for another minute or so."
+      },
+      {
+        "type": "step",
+        "text": "Add coconut milk, and cook until it thickens, about 2 minutes, stirring occasionally. Add chicken, and stir, then cook until done, 3 to 6 minutes. (If you use shrimp, keep in mind that it cooks a little faster than chicken; if you are in doubt about whether chicken is done, cut into a piece.)"
+      },
+      {
+        "type": "step",
+        "text": "Add tomato, and cook another minute; adjust seasonings as necessary. Serve over rice, garnished with basil or mint, if desired."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2021-04-30T18:03:23Z",
+    "modified": "2021-04-30T18:15:48Z",
+    "source": {
+      "wpId": 527,
+      "url": "https://www.khoza.com/recipes/easy-chicken-curry/",
+      "html": "<div class=\"easyrecipeWrapper mceNonEditable\">\r\n<div class=\"easyrecipeAbove mceNonEditable\"><input class=\"ERInsertLine mceNonEditable\" type=\"button\" value=\"Insert line above\"></div>\r\n<div id=\"easyrecipe-527-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Easy Chicken Curry</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/527-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons canola, corn or other neutral oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 large onions, peeled and sliced</li> <li class=\"ingredient\" itemprop=\"ingredients\">Salt and freshly ground black pepper to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons curry powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 can unsweetened coconut milk (1&frac12; to 2 cups)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 1⁄2 pounds peeled shrimp or boneless chicken, cut into &frac34;- to 1-inch chunks</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup peeled, seeded and diced tomato (canned is fine; cut up and drain before using)</li> <li class=\"ingredient\" itemprop=\"ingredients\">Chopped basil or mint for garnish (optional)</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place oil in a large skillet; turn heat to medium-high. A minute later, add onions, along with a generous pinch of salt and some pepper. Cook, stirring occasionally, until onions are very soft and almost falling apart, 15 minutes or more. Stir in curry powder, and cook, stirring, for another minute or so.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add coconut milk, and cook until it thickens, about 2 minutes, stirring occasionally. Add chicken, and stir, then cook until done, 3 to 6 minutes. (If you use shrimp, keep in mind that it cooks a little faster than chicken; if you are in doubt about whether chicken is done, cut into a piece.)</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add tomato, and cook another minute; adjust seasonings as necessary. Serve over rice, garnished with basil or mint, if desired.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div></div>\n<p> </p>\n"
+    }
+  }
+}

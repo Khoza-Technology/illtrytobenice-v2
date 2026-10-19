@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "ahi-with-spinach-salad",
+    "slug": "ahi-with-spinach-salad",
+    "title": "Ahi with Spinach Salad",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "dinner",
+      "lunch"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": {
+      "label": "4",
+      "count": 4
+    },
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "¼ Cup(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) finely diced yellow onion"
+      },
+      {
+        "type": "item",
+        "text": "2 Teaspoon(s) minced garlic (or more!)"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) dried oregano"
+      },
+      {
+        "type": "item",
+        "text": "4 Cup(s) fresh spinach (or one bag)"
+      },
+      {
+        "type": "item",
+        "text": "1 Can(s) black beans, drained and rinsed (15 ounces)"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) lime juice"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) curry powder"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) pure chile powder"
+      },
+      {
+        "type": "item",
+        "text": "¼ Teaspoon(s) freshly ground pepper"
+      },
+      {
+        "type": "item",
+        "text": "4 ahi steaks about 1 inch thick"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In a large skillet over medium heat, warm the oil. Add the onion and cook until transparent (about 5 minutes), stirring occasionally. Add the garlic and oregano and cook until the garlic begins to brown (about 2 minutes). Immediately add the spinach, black beans, lime juice and ¼ teaspoon of kosher salt. Mix well, cover the skillet with a lid and set aside."
+      },
+      {
+        "type": "step",
+        "text": "In a small bowl, mix 1¼ teaspoons of kosher salt, curry powder, chile powder, and pepper. Brush each side of fish with olive oil. Season them with the spice mixture."
+      },
+      {
+        "type": "step",
+        "text": "In another large skillet, add 2 tablespoons olive oil and heat over high heat until oil is hot. Add steaks and grill for 2"
+      },
+      {
+        "type": "step",
+        "text": "minutes on each side."
+      },
+      {
+        "type": "step",
+        "text": "Serve fish on plate and spoon spinach salad over top. You can also lay a bed of couscous, or rice cooked in chicken broth on the bottom of the plate, then the fish on top finishing with the spinach salad on top of that. Yummy!"
+      }
+    ],
+    "notes": null,
+    "images": [
+      {
+        "src": "assets/img/recipes/ahi-with-spinach-salad-1.jpg",
+        "alt": "Ahi with Spinach Salad"
+      }
+    ],
+    "published": "2017-02-20T17:33:28Z",
+    "modified": "2017-02-20T17:33:28Z",
+    "source": {
+      "wpId": 154,
+      "url": "https://www.khoza.com/recipes/ahi-with-spinach-salad/",
+      "html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-155\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-300x224.jpg\" alt=\"\" width=\"300\" height=\"224\" srcset=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-300x224.jpg 300w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-768x574.jpg 768w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-1024x765.jpg 1024w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-510x382.jpg 510w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-1080x807.jpg 1080w, https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087.jpg 1600w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><br />\n<div id=\"easyrecipe-154-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Ahi with Spinach Salad</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <img decoding=\"async\" itemprop=\"image\" src=\"https://www.khoza.com/recipes/wp-content/uploads/2017/02/DSC_0087-300x224.jpg\" width=\"205\"/> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/154-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> <div class=\"ERSServes\">Serves: <span itemprop=\"recipeYield\">4</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Cup(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) finely diced yellow onion</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Teaspoon(s) minced garlic (or more!)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) dried oregano</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 Cup(s) fresh spinach (or one bag)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Can(s) black beans, drained and rinsed (15 ounces)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) lime juice</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) curry powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) pure chile powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Teaspoon(s) freshly ground pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 ahi steaks about 1 inch thick</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a large skillet over medium heat, warm the oil. Add the onion and cook until transparent (about 5 minutes), stirring occasionally. Add the garlic and oregano and cook until the garlic begins to brown (about 2 minutes). Immediately add the spinach, black beans, lime juice and &frac14; teaspoon of kosher salt. Mix well, cover the skillet with a lid and set aside.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In a small bowl, mix 1&frac14; teaspoons of kosher salt, curry powder, chile powder, and pepper. Brush each side of fish with olive oil. Season them with the spice mixture.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">In another large skillet, add 2 tablespoons olive oil and heat over high heat until oil is hot. Add steaks and grill for 2</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">minutes on each side.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Serve fish on plate and spoon spinach salad over top. You can also lay a bed of couscous, or rice cooked in chicken broth on the bottom of the plate, then the fish on top finishing with the spinach salad on top of that. Yummy!</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

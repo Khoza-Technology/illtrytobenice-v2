@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "dutch-babies",
+    "slug": "dutch-babies",
+    "title": "Dutch Babies",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "bread"
+    ],
+    "cuisine": "Appetizer",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "4 eggs"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) flour"
+      },
+      {
+        "type": "item",
+        "text": "1 Cup(s) milk"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) salt"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Mix all the ingredients together in a medium bowl. Preheat 9x13\" pan in 425 degree oven with ⅓ cup butter in it."
+      },
+      {
+        "type": "step",
+        "text": "Pour mixture into pan."
+      },
+      {
+        "type": "step",
+        "text": "Bake at 425 for 15 to 20 minutes."
+      },
+      {
+        "type": "step",
+        "text": "Cut into big slices and top with cheese, or cinnamon and sugar or syrup or jam or yogurt (my favorite)."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:24:11Z",
+    "modified": "2017-02-23T23:24:11Z",
+    "source": {
+      "wpId": 304,
+      "url": "https://www.khoza.com/recipes/dutch-babies/",
+      "html": "<p><div id=\"easyrecipe-304-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Dutch Babies</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/304-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">American</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">Appetizer</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">4 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) flour</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Cup(s) milk</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) salt</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix all the ingredients together in a medium bowl. Preheat 9x13\" pan in 425 degree oven with &#8531; cup butter in it.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour mixture into pan.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake at 425 for 15 to 20 minutes.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Cut into big slices and top with cheese, or cinnamon and sugar or syrup or jam or yogurt (my favorite).</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "cobb-salad-pitas",
+    "slug": "cobb-salad-pitas",
+    "title": "Cobb Salad Pitas",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) dijon mustard"
+      },
+      {
+        "type": "item",
+        "text": "4 7-inch pita rounds, halved crosswise"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) shredded romaine lettuce"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) pepper to taste"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) salt to taste"
+      },
+      {
+        "type": "item",
+        "text": "½ Cup(s) blue cheese, crumbled"
+      },
+      {
+        "type": "item",
+        "text": "4 bacon, cooked crisp and crumbled"
+      },
+      {
+        "type": "item",
+        "text": "1 medium tomato, chopped"
+      },
+      {
+        "type": "item",
+        "text": "2½ Cup(s) diced cooked chicken"
+      },
+      {
+        "type": "item",
+        "text": "1 avocado, peeled and chopped"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) olive oil"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) red wine vinegar"
+      },
+      {
+        "type": "item",
+        "text": "1 hard-boiled egg, minced"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "In blender, puree together mustard, vinegar, olive oil, salt and pepper to taste until emulsified. Pour into bowl. Add avocado, chicken, tomato, bacon, cheese, egg and toss lightly."
+      },
+      {
+        "type": "step",
+        "text": "Divide romaine among pita halves. Spoon chicken mixture into pita halves."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:08:57Z",
+    "modified": "2017-02-23T23:08:57Z",
+    "source": {
+      "wpId": 288,
+      "url": "https://www.khoza.com/recipes/cobb-salad-pitas/",
+      "html": "<p><div id=\"easyrecipe-288-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Cobb Salad Pitas</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/288-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) dijon mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 7-inch pita rounds, halved crosswise</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) shredded romaine lettuce</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) pepper to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) salt to taste</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Cup(s) blue cheese, crumbled</li> <li class=\"ingredient\" itemprop=\"ingredients\">4 bacon, cooked crisp and crumbled</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 medium tomato, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">2&frac12; Cup(s) diced cooked chicken</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 avocado, peeled and chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) olive oil</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) red wine vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 hard-boiled egg, minced</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">In blender, puree together mustard, vinegar, olive oil, salt and pepper to taste until emulsified. Pour into bowl. Add avocado, chicken, tomato, bacon, cheese, egg and toss lightly.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Divide romaine among pita halves. Spoon chicken mixture into pita halves.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

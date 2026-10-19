@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "lisas-baked-beans",
+    "slug": "lisas-baked-beans",
+    "title": "Lisa's Baked Beans",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "sides"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "5 Cup(s) water"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) dried pinto beans"
+      },
+      {
+        "type": "item",
+        "text": "1 onion, chopped"
+      },
+      {
+        "type": "item",
+        "text": "¼ Pound(s) salt pork with rind, chopped"
+      },
+      {
+        "type": "item",
+        "text": "⅓ Cup(s) brown sugar, packed"
+      },
+      {
+        "type": "item",
+        "text": "3 Tablespoon(s) molasses"
+      },
+      {
+        "type": "item",
+        "text": "1 Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) mustard"
+      },
+      {
+        "type": "item",
+        "text": "1 Pinch(s) pepper"
+      },
+      {
+        "type": "item",
+        "text": "2 Can(s) tomato sauce, 8 oz each"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Soak beans in water overnight."
+      },
+      {
+        "type": "step",
+        "text": "Heat soaked beans in same water to boiling. Cover and simmer 1 to 2 hours. Drain, reserving liquid."
+      },
+      {
+        "type": "step",
+        "text": "Layer onion, pork and cooked beans in a dutch over."
+      },
+      {
+        "type": "step",
+        "text": "Mix brown sugar, molasses, salt, mustard, pepper, and tomato sauce with reserved liquid."
+      },
+      {
+        "type": "step",
+        "text": "Pour over beans. Add water to almost cover beans, if"
+      },
+      {
+        "type": "step",
+        "text": "necessary. Cover and bake at 350 for 3 hours; stir occasionally. Uncover and bake to desired consistency."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-24T00:59:19Z",
+    "modified": "2017-02-24T00:59:19Z",
+    "source": {
+      "wpId": 325,
+      "url": "https://www.khoza.com/recipes/lisas-baked-beans/",
+      "html": "<p><div id=\"easyrecipe-325-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Lisa's Baked Beans</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/325-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Lisa Howe</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Appetizer</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">5 Cup(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) dried pinto beans</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 onion, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; Pound(s) salt pork with rind, chopped</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; Cup(s) brown sugar, packed</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 Tablespoon(s) molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Pinch(s) pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Can(s) tomato sauce, 8 oz each</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Soak beans in water overnight.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat soaked beans in same water to boiling. Cover and simmer 1 to 2 hours. Drain, reserving liquid.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Layer onion, pork and cooked beans in a dutch over.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Mix brown sugar, molasses, salt, mustard, pepper, and tomato sauce with reserved liquid.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour over beans. Add water to almost cover beans, if</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">necessary. Cover and bake at 350 for 3 hours; stir occassionally. Uncover and bake to desired consistency.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

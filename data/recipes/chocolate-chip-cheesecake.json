@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "chocolate-chip-cheesecake",
+    "slug": "chocolate-chip-cheesecake",
+    "title": "Chocolate Chip Cheesecake",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "24 Ounce(s) softened cream cheese"
+      },
+      {
+        "type": "item",
+        "text": "¾ Cup(s) sugar"
+      },
+      {
+        "type": "item",
+        "text": "3 eggs"
+      },
+      {
+        "type": "item",
+        "text": "1½ Teaspoon(s) vanilla"
+      },
+      {
+        "type": "item",
+        "text": "2 Cup(s) mini semi-sweet chocolate chips (divided)"
+      },
+      {
+        "type": "item",
+        "text": "2 graham cracker crusts"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) whipping cream"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Heat oven to 450*F."
+      },
+      {
+        "type": "step",
+        "text": "Beat cream cheese and sugar in a large bowl with mixer until well blended. Add eggs and vanilla; beat well. Stir in 1⅔ cups small chocolate chips; pour into crust."
+      },
+      {
+        "type": "step",
+        "text": "Bake 10 minutes. Without opening oven door, reduce temp. to 250*F; continue baking 30 minutes or just until set. Remove from oven to wire rack. Cool completely. Cover; refrigerate until thoroughly chilled."
+      },
+      {
+        "type": "step",
+        "text": "Place remaining ⅓ cup chips and whipping cream in small bowl. Microwave at high 20 to 30 seconds or just until chips are melted and mixture is smooth when stirred. Cool slightly; spread over top of cheesecake. Refrigerate 15 min. or until topping is set."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T23:07:05Z",
+    "modified": "2017-02-23T23:07:05Z",
+    "source": {
+      "wpId": 284,
+      "url": "https://www.khoza.com/recipes/chocolate-chip-cheesecake/",
+      "html": "<p><div id=\"easyrecipe-284-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Chocolate Chip Cheesecake</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/284-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">24 Ounce(s) softened cream cheese</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac34; Cup(s) sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">3 eggs</li> <li class=\"ingredient\" itemprop=\"ingredients\">1&frac12; Teaspoon(s) vanilla</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Cup(s) mini semi-sweet chocolate chips (divided)</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 graham cracker crusts</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) whipping cream</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Heat oven to 450*F.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Beat cream cheese and sugar in a large bowl with mixer until well blended. Add eggs and vanilla; beat well. Stir in 1&#8532; cups small chocolate chips; pour into crust.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Bake 10 minutes. Without opening oven door, reduce temp. to 250*F; continue baking 30 minutes or just until set. Remove from oven to wire rack. Cool completely. Cover; refrigerate until thoroughly chilled.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place remaining &#8531; cup chips and whipping cream in small bowl. Microwave at high 20 to 30 seconds or just until chips are melted and mixture is smooth when stirred. Cool slightly; spread over top of cheesecake. Refrigerate 15 min. or until topping is set.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

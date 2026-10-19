@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "roast-chicken",
+    "slug": "roast-chicken",
+    "title": "Roast Chicken",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dinner"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 cup salt"
+      },
+      {
+        "type": "item",
+        "text": "1 cap full whole peppercorns (3 tablespoons)"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup thyme"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup rosemary"
+      },
+      {
+        "type": "item",
+        "text": "12 bay leaves"
+      },
+      {
+        "type": "item",
+        "text": "½ cup honey"
+      },
+      {
+        "type": "item",
+        "text": "1 whole chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Add the dry ingredients and honey into a large pot."
+      },
+      {
+        "type": "step",
+        "text": "Add water half way to the top of the pot and stir until the honey and salt dissolve."
+      },
+      {
+        "type": "step",
+        "text": "Clean the chicken. Put the chicken into the water breast side down. Add water to an inch or two from the top of the pot. Cover with lid and put into refrigerator. Let brine for at least six hours."
+      },
+      {
+        "type": "step",
+        "text": "Preheat the oven to 475 degrees Fahrenheit."
+      },
+      {
+        "type": "step",
+        "text": "Rinse the brine out of the pot and dry the pot. Rinse out and dry the chicken."
+      },
+      {
+        "type": "step",
+        "text": "Truss the chicken."
+      },
+      {
+        "type": "step",
+        "text": "Place the chicken in oven on the middle rack and cook for one hour."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-03-03T23:57:39Z",
+    "modified": "2017-03-03T23:57:39Z",
+    "source": {
+      "wpId": 383,
+      "url": "https://www.khoza.com/recipes/roast-chicken/",
+      "html": "<p><div id=\"easyrecipe-383-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Roast Chicken</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/383-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dinner</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 cup salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 cap full whole peppercorns (3 tablespoons)</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup thyme</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup rosemary</li> <li class=\"ingredient\" itemprop=\"ingredients\">12 bay leaves</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; cup honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 whole chicken</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add the dry ingredients and honey into a large pot.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Add water half way to the top of the pot and stir until the honey and salt dissolve.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Clean the chicken. Put the chicken into the water breast side down. Add water to an inch or two from the top of the pot. Cover with lid and put into refrigerator. Let brine for at least six hours.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Preheat the oven to 475 degrees Fahrenheit.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Rinse the brine out of the pot and dry the pot. Rinse out and dry the chicken.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Tress the chicken.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Place the chicken in oven on the middle rack and cook for one hour.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

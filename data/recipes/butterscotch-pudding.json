@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "butterscotch-pudding",
+    "slug": "butterscotch-pudding",
+    "title": "Butterscotch Pudding",
+    "summary": null,
+    "contributor": "amy",
+    "categories": [
+      "dessert"
+    ],
+    "cuisine": "American",
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "3½ Cup(s) cream"
+      },
+      {
+        "type": "item",
+        "text": "½ vanilla bean, scraped or 1 tbsp vanilla"
+      },
+      {
+        "type": "item",
+        "text": "½ Teaspoon(s) salt"
+      },
+      {
+        "type": "item",
+        "text": "6 Ounce(s) butterscotch chips"
+      },
+      {
+        "type": "item",
+        "text": "5 egg yolks"
+      },
+      {
+        "type": "item",
+        "text": "2 Tablespoon(s) brown sugar"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) water"
+      },
+      {
+        "type": "item",
+        "text": "1 Tablespoon(s) scotch"
+      }
+    ],
+    "instructions": [
+      {
+        "type": "step",
+        "text": "Combine the cream, vanilla and salt in a saucepan. Place over medium heat until small bubbles appear around the sides of the pan. Add the butterscotch chips, remove from heat and whisk until the chips have melted and the mixture is combined."
+      },
+      {
+        "type": "step",
+        "text": "Put the yolks in a mixing bowl and whisk to break them up a bit. Whisk a small amount of the hot butterscotch cream into the yolks, then pour the yolk mixture into the hot butterscotch cream, stirring gently."
+      },
+      {
+        "type": "step",
+        "text": "Combine the brown sugar, water, Scotch and 1 tablespoon cream in saucepan. Bring to a boil, then whisk into hot butterscotch cream."
+      },
+      {
+        "type": "step",
+        "text": "Pour into metal cake or brownie pan and cover with foil. Place in a large pan and p"
+      },
+      {
+        "type": "step",
+        "text": "our boiling water to come halfway up the sides of the custard pan. Bake at 300 for approximately 60 minutes, until the pudding \"giggles\"."
+      },
+      {
+        "type": "step",
+        "text": "Strain through a fine sieve and pour directly into custard cups. Refrigerate for several hours until set."
+      }
+    ],
+    "notes": null,
+    "images": [],
+    "published": "2017-02-23T22:55:58Z",
+    "modified": "2017-02-23T22:55:58Z",
+    "source": {
+      "wpId": 263,
+      "url": "https://www.khoza.com/recipes/butterscotch-pudding/",
+      "html": "<p><div id=\"easyrecipe-263-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Butterscotch Pudding</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/263-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Amy Simonsen</span></div> <div class=\"ERSCategory\">Recipe type: <span itemprop=\"recipeCategory\">Dessert</span></div> <div class=\"ERSCuisine\">Cuisine: <span itemprop=\"recipeCuisine\">American</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">3&frac12; Cup(s) cream</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; vanilla bean, scraped or 1 tbsp vanilla</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; Teaspoon(s) salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">6 Ounce(s) butterscotch chips</li> <li class=\"ingredient\" itemprop=\"ingredients\">5 egg yolks</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 Tablespoon(s) brown sugar</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) water</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 Tablespoon(s) scotch</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"ERSInstructions\"> <div class=\"ERSInstructionsHeader ERSHeading\">Instructions</div> <ol> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine the cream, vanilla and salt in a saucepan. Place over medium heat until small bubbles appear around the sides of the pan. Add the butterscotch chips, remove from heat and whisk until the chips have melted and the mixture is combined.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Put the yolks in a mixing bowl and whisk to break them up a bit. Whisk a small amount of the hot butterscotch cream into the yolks, then pour the yolk mixture into the hot butterscotch cream, stirring gently.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Combine the brown sugar, water, Scotch and 1 tablespoon cream in saucepan. Bring to a boil, then whisk into hot butterscotch cream.</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Pour into metal cake or brownie pan and cover with foil. Place in a large pan and p</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">our boiling water to come halfway up the sides of the custard pan. Bake at 300 for approximately 60 minutes, until the pudding \"giggles\".</li> <li class=\"instruction\" itemprop=\"recipeInstructions\">Strain through a fine sieve and pour directly into custard cups. Refrigerate for several hours until set.</li> </ol> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3226</div> </div><br />\n </p>\n"
+    }
+  }
+}

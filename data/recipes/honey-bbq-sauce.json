@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "id": "honey-bbq-sauce",
+    "slug": "honey-bbq-sauce",
+    "title": "Honey BBQ Sauce",
+    "summary": null,
+    "contributor": "genevieve",
+    "categories": [
+      "sauce"
+    ],
+    "cuisine": null,
+    "times": {},
+    "servings": null,
+    "ingredients": [
+      {
+        "type": "item",
+        "text": "1 can tomato sauce - (15 ounces)"
+      },
+      {
+        "type": "item",
+        "text": "1 can tomato paste - (6 ounces)"
+      },
+      {
+        "type": "item",
+        "text": "⅓ cup apple cider vinegar"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup honey"
+      },
+      {
+        "type": "item",
+        "text": "¼ cup molasses"
+      },
+      {
+        "type": "item",
+        "text": "2 tablespoons Worcestershire sauce"
+      },
+      {
+        "type": "item",
+        "text": "2 teaspoons smoked paprika"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon dry mustard"
+      },
+      {
+        "type": "item",
+        "text": "1 teaspoon garlic powder"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon kosher salt"
+      },
+      {
+        "type": "item",
+        "text": "½ teaspoon black pepper"
+      },
+      {
+        "type": "item",
+        "text": "⅛-1/4 teaspoon cayenne pepper"
+      }
+    ],
+    "instructions": [],
+    "notes": null,
+    "images": [],
+    "published": "2020-09-17T17:16:02Z",
+    "modified": "2020-09-17T17:16:02Z",
+    "source": {
+      "wpId": 515,
+      "url": "https://www.khoza.com/recipes/honey-bbq-sauce/",
+      "html": "<p><div id=\"easyrecipe-515-0\" class=\"easyrecipe\" itemscope itemtype=\"http://schema.org/Recipe\"> <div itemprop=\"name\" class=\"ERSName\">Honey BBQ Sauce</div> <div class=\"ERSClear\">&nbsp;</div> <div class=\"ERSTopRight\"> <div class=\"ERSSavePrint\"> <span class=\"ERSSaveBtnSpan\"><a href=\"\" class=\"ERSSaveBtn bigoven\">Save</a></span> <span class=\"ERSPrintBtnSpan\"><a class=\"ERSPrintBtn\" href=\"https://www.khoza.com/recipes/easyrecipe-print/515-0/\" rel=\"nofollow\" target=\"_blank\">Print</a></span> </div> </div> <div class=\"divERSHeadItems\"> <div class=\"ERSAuthor\">Author: <span itemprop=\"author\">Genevieve Hammil</span></div> </div> <div class=\"ERSIngredients\"> <div class=\"ERSIngredientsHeader ERSHeading\">Ingredients</div> <ul> <li class=\"ingredient\" itemprop=\"ingredients\">1 can tomato sauce - (15 ounces)</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 can tomato paste - (6 ounces)</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8531; cup apple cider vinegar</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup honey</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac14; cup molasses</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 tablespoons Worcestershire sauce</li> <li class=\"ingredient\" itemprop=\"ingredients\">2 teaspoons smoked paprika</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon dry mustard</li> <li class=\"ingredient\" itemprop=\"ingredients\">1 teaspoon garlic powder</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon kosher salt</li> <li class=\"ingredient\" itemprop=\"ingredients\">&frac12; teaspoon black pepper</li> <li class=\"ingredient\" itemprop=\"ingredients\">&#8539;-1/4 teaspoon cayenne pepper</li> </ul> <div class=\"ERSClear\"></div> </div> <div class=\"endeasyrecipe\" title=\"style002\" style=\"display: none\">3.5.3251</div> </div><br />\n </p>\n"
+    }
+  }
+}
